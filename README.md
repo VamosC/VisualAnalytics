@@ -1,7 +1,7 @@
 # VisualAnalytics
 ## Introduction
 
-This repository records notes and homework(only core graph or cartoon) of zju2018 visual analytics summer school. 
+This repository records notes and homework(only core graph or cartoon) of zju2018 visual analytics summer school. And the details about the challenge2 and 3 are in the challenges folder.
 
 ## Demo
 
