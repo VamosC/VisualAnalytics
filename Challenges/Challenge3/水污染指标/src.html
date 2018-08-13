@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>水污染</title>
+	<style type="text/css">
+		.title{
+			margin-left: 250px;
+			font-size: 25px;
+		}
+		#area :hover{
+			fill: steelblue;
+		}
+		#selectBar{
+			margin-left: 70px;
+		}
+
+	</style>
+</head>
+<body>
+	<p class="title">水污染指标</p>
+	<form id="selectBar">
+		<label><input type="radio" name="dataset" value="HeavyMetal" checked="checked">重金属</label>
+		<label><input type="radio" name="dataset" value="Insecticide">杀虫剂</label>
+		<label><input type="radio" name="dataset" value="Cal-Pot-Sod">钾钙钠</label>
+		<label><input type="radio" name="dataset" value="Pot-Nit-Pho">氮磷钾</label>
+		<label><input type="radio" name="dataset" value="Nit">氮</label>
+		<label><input type="radio" name="dataset" value="Bacteria">菌类</label>
+		<label><input type="radio" name="dataset" value="Animal">底栖动物</label>
+	</form>
+	<div id="map">
+		<img src="WaterwaysFinal.jpg" width="600" height="600" style="opacity: 0.8;">
+	</div>
+	<script type="text/javascript" src="d3.v4.min.js"></script>
+	<script type="text/javascript">
+		var tag;
+		tag = "HeavyMetal";
+		var colors = ["#1f77b4", "#aec7e8", "#ff7f0e", "#ffbb78", "#2ca02c", "#98df8a"];
+		var units = {HeavyMetal: "ug/L", Insecticide: "ug/L", "Cal-Pot-Sod":"mg/L", "Pot-Nit-Pho":"mg/L", "Nit":"mg/L", "Bacteria":"mg/L"};
+		var materials = {HeavyMetal:["Chromium", "Copper", "Lead", "Manganese","Mercury", "Zinc"],Insecticide:["Atrazine", "gamma-Hexachlorocyclohexane", "p,p-DDT"], "Cal-Pot-Sod":["Calcium","Potassium","Sodium"], "Pot-Nit-Pho":["Potassium","Total nitrogen","Total phosphorus"], Nit:["Ammonium","Arsenic","Nitrates","Nitrites","Total nitrogen", "Total phosphorus"], Bacteria:["Total coliforms", "Fecal coliforms", "Fecal streptococci "], Animal:["Macrozoobenthos"]};
+		var cities = [{name:"Boonsri", x: 325, y: 125}, {name: "Achara", x: 255, y: 205},{name: "Somchair",
+		x: 205, y: 275}, {name: "Decha", x: 90, y: 353}, {name: "Tansanee", x: 205, y: 405}, {name: "Chai",
+		x: 368, y: 288}, {name: "Sakda", x: 325, y: 513}, {name: "Kannika", x: 398, y: 425}, {name: "Kohsoom", x: 445, y: 195}, {name: "Busarakhan", x: 443, y: 250}];
+		var mapSvg = d3.select("#map").append("svg").attr("width", 1800).attr("height", 600).attr("class", "city")
+		.attr("transform", "translate(0, -600)");
+		var x = d3.scaleLinear().rangeRound([0, 600]);
+		var y = d3.scaleLinear().rangeRound([400, 0]);
+		var radiusScale = d3.scaleLinear().range([5, 15]);
+		mapSvg.append("g").attr("id", "area").selectAll("circle").data(cities).enter().append("circle").attr("class", function (d) {
+			return d.name;
+		}).attr("cx", function(d){return d.x;}).attr("cy", function(d){return d.y;}).attr("r", 5).attr("fill", "red").attr("opacity", 0.9).on("mouseover", mouseover).on("mouseout", mouseout);
+		d3.selectAll("input").on("change", change);
+		var lineChart = d3.select("#map").append("svg").attr("width", 900).attr("height", 600).attr("class","linechart")
+		.attr("transform", "translate(600, -1200)");
+		x.domain([1998, 2016])
+		lineChart.append("g").attr("class", "content").attr("transform", "translate(50, 80)");
+		drawLineChart(tag, "", "All");
+		function change(){
+			tag = this.value;
+			lineChart.select(".content").remove();
+			lineChart.append("g").attr("class", "content").attr("transform", "translate(50, 80)");
+			drawLineChart(tag, "", "All");
+		}
+
+		function mouseover(d){
+			mapSvg.select("."+this.getAttribute("class")).transition().attr("r", 15);
+			lineChart.select(".content").remove();
+			lineChart.append("g").attr("class", "content").attr("transform", "translate(50, 80)");
+			drawLineChart(tag, this.getAttribute("class"), "");
+		}
+
+		function mouseout(d){
+			mapSvg.select("."+this.getAttribute("class")).transition().attr("r", 5);
+			lineChart.select(".content").remove();
+			lineChart.append("g").attr("class", "content").attr("transform", "translate(50, 80)");
+			drawLineChart(tag, "", "All");
+		}
+
+		function drawLineChart(tag, location, all){
+			if(location == ""){
+				d3.csv(tag + "-" + all + ".csv", function(d){
+					d.spot = d.spot;
+					d.year = d.sampleTime.split("/")[0];
+					d.value = +d.value;
+					return d;
+				}, function(error, data){
+					if(error) throw error;
+					var s = [];
+					for(var i = 1998;i <= 2016;i++)
+					{
+						s.push({year: i, value: d3.sum(data.filter(function(d){return d.year == ""+i;}).map(function(d){return d.value}))/10.0});
+					}
+					var sum = [];
+					for(var item in cities)
+					{
+						sum.push(d3.sum(data.filter(function(d){return d.spot == cities[item].name;}).map(function(d){return d.value;})));
+					}
+					radiusScale.domain(d3.extent(sum));
+					for(var item in sum)
+					{
+						mapSvg.select("."+cities[item].name).transition().attr("r", radiusScale(sum[item]));
+					}
+					y.domain([0, d3.max(s.map(function(d){return d.value})).toFixed(2)]);
+					lineChart.select(".content").append("g").attr("transform", "translate(0, 400)").call(d3.axisBottom(x));
+					lineChart.select(".content").append("g").call(d3.axisLeft(y)).append("text").attr("fill", "#000").attr("transform", "rotate(-90)").attr("y", 6).attr("dy", "0.71em").attr("text-anchor", "end").text(tag != "Animal" ? "区域年平均浓度" +units[tag] :"区域平均数量");
+					var line = d3.line().x(function(d){return x(d.year);}).y(function(d){return y(d.value)});
+					lineChart.select(".content").append("path").datum(s).attr("fill","none").attr("stroke", "steelblue")
+					.attr("stroke-linejoin", "round").attr("stroke-width", 3).attr("d", line).attr("opacity", 0.7);
+				});
+			}
+			else
+			{
+				d3.csv(tag + "-" + location + ".csv", function(d){
+					d.year = d.sampleTime.split("/")[0];
+					d.name = d.name;
+					d.value = +d.value;
+					return d;
+				}, function(error, data){
+					if(error) throw error;
+					var s = [];
+					var max = 0;
+					for(var i = 0;i < materials[tag].length;i++)
+					{
+						s[i] = [];
+						for(var j = 1998;j <= 2016;j++)
+						{
+							s[i].push({year: j, value: d3.sum(data.filter(function(d){return (d.year == ""+j) &&(d.name == materials[tag][i]);}).map(function(d){return d.value;}))});
+						}
+						if(max < d3.max(s[i].map(function(d){return d.value;})))
+						{
+							max = d3.max(s[i].map(function(d){return d.value;}));
+						}
+					}
+					y.domain([0, max]);
+					lineChart.select(".content").append("g").attr("transform", "translate(0, 400)").call(d3.axisBottom(x));
+					lineChart.select(".content").append("g").call(d3.axisLeft(y)).append("text").attr("fill", "#000").attr("transform", "rotate(-90)").attr("y", 6).attr("dy", "0.71em").attr("text-anchor", "end").text(tag != "Animal" ? "浓度" + units[tag] : "数量");
+					var line = d3.line().x(function(d){return x(d.year);}).y(function(d){return y(d.value)});
+					for(var i in materials[tag])
+					{
+						lineChart.select(".content").append("path").datum(s[i]).attr("fill","none").attr("stroke", colors[i])
+					.attr("stroke-linejoin", "round").attr("stroke-width", 3.0).attr("d", line).attr("opacity", 0.7);
+					    lineChart.select(".content").append("text").attr("x", 600).attr("y", 20+i*20).text(materials[tag][i]).attr("fill", colors[i]);
+					    lineChart.select(".content").append("line").attr("x1", 540).attr("y1", 15+i*20).attr("x2", 595).attr("y2", 15+i*20).attr("stroke", colors[i]).attr("stroke-width", 3.0).attr("opacity", 0.5);
+
+					}
+				})
+			}
+		}
+	</script>
+</body>
+</html>

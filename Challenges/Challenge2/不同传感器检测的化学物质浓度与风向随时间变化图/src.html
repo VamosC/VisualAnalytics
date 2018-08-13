@@ -1,0 +1,272 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>不同传感器检测的化学物质浓度与风向随时间变化图</title>
+	<style type="text/css">
+		.legend{
+			color: white;
+			font-family: sans-serif;
+			font-size: 15px;
+			text-align: center;
+		}
+		.legend1{
+			position: absolute;
+			float: right;
+			margin-top: 75px;
+			margin-right: 250px;
+			color: white;
+			font-family: sans-serif;
+			font-size: 15px;
+			text-align: center;
+		}
+		form{
+			position: absolute;
+			right: 10px;
+			top: 10px;
+		}
+		p{
+			color: white;
+			margin-left: 200px;
+			font-size: 18px;
+		}
+		.wind{
+			position: absolute;
+			opacity: 0.5;
+			left: 110px;
+			top: 483px;
+			width: 400px;
+			height: 300px;
+		}
+		.date{
+			/*color: red;*/
+			font-size: 20px;
+		}
+	</style>
+</head>
+<body style="background: black;">
+	<p>不同传感器检测的化学物质浓度与风向随时间变化图</p>
+	<br/>
+	<br/>
+	<div id="map">
+	<div class="legend">
+		<form>
+				<label"><input type="radio" name="dataset" value="AGOC-3A">AGOC-3A</label>
+				<label><input type="radio" name="dataset" value="Appluimonia">Appluimonia</label>
+				<label><input type="radio" name="dataset" value="Chlorodinine">Chlorodinine</label>
+				<label><input type="radio" name="dataset" value="Methylosmolene" checked="checked">Methylosmolene</label>
+				<label><input type="radio" name="dataset" value="All">All</label>
+		</form>
+	</div>
+		<img src="map1.jpg" style="opacity:0.5">
+		<span class="legend1">
+			<table>
+				<tr>
+					<td>AGOC-3A</td>
+				</tr>
+				<tr>
+					<td>Appluimonia</td>
+				</tr>
+				<tr>
+					<td>Chlorodinine</td>
+				</tr>
+				<tr>
+					<td>Methylosmolene</td>
+				</tr>
+				<tr>
+					<td>Sensor</td>
+				</tr>
+				<tr>
+					<td>Factory</td>
+				</tr>
+			</table>
+		</span>
+	</div>
+	<script type="text/javascript" src="d3.v3.min.js"></script>
+	<script type="text/javascript">
+		var width = 1800, height = 300;
+
+		var colors = {"Methylosmolene":"rgb(187,82,150)", "AGOC-3A":"rgb(0, 109,154)", "Appluimonia":"rgb(217,128,0)", "Chlorodinine":"rgb(0,146,144)"};
+		var margin = {top: 30, bottom: 30,
+			left: 30, right: 30};
+
+		var radiusScale = d3.scale.linear().domain([0, 102]).range([5, 120]);
+		var radiusScale1 = d3.scale.linear().domain([0, 16]).range([5, 50]);
+		var radiusScale2 = d3.scale.linear().domain([0, 12]).range([5, 50]);
+		var opacityScale = d3.scale.linear().domain([0, 102]).range([0,0.3]);
+		var opacityScale1 = d3.scale.linear().domain([0, 16])
+		.range([0, 0.5]);
+
+		var xScale = d3.scale.linear().domain([0,200]).range([0, 700]);
+
+		var allSensors = [{x: 62, y: 21},{x: 66, y: 35}, {x: 76, y: 41},{x: 88, y: 45}, {x: 103, y: 43},{x: 102, y: 22}, {x: 89, y: 3}, {x: 74, y: 7}, {x: 119, y: 42}];
+
+		var allFactories = [{x: 89, y: 27}, {x: 90, y: 21}, {x: 109, y: 26}, {x: 120, y: 22}];
+
+		var arcGraph = d3.svg.arc().innerRadius(0).outerRadius(100).startAngle(2*Math.PI*85/360).endAngle(2*Math.PI*95/360);
+
+
+		var mapsvg = d3.select("#map")
+		.append("svg").attr("width", width).attr("height", height)
+		.attr("transform", "translate(" + (margin.left-35) + "," + (margin.bottom-305)  + ")");
+		var tags = mapsvg.append("g").attr("class", "tag");
+		tags.append("path").attr("transform", "translate(850, 20)").attr("d", arcGraph).attr("fill", colors["AGOC-3A"]);
+		tags.append("path").attr("transform","translate(850, 48)").attr("d", arcGraph).attr("fill", colors["Appluimonia"]);
+		tags.append("path").attr("transform","translate(850, 73)").attr("d", arcGraph).attr("fill", colors["Chlorodinine"]);
+		tags.append("path").attr("transform","translate(850, 98)").attr("d", arcGraph).attr("fill", colors["Methylosmolene"]);
+		tags.append("circle").attr("transform", "translate(900, 125)").attr("r", 5).attr("fill", "white");
+		tags.append("circle").attr("transform", "translate(900, 148)").attr("r", 5).attr("fill", "blue");
+		d3.selectAll("input").on("change", change);
+		var sensors = mapsvg.selectAll(".sensor").data(allSensors).enter().append("g").attr("class", function(d,i){return "eachsensor" + i}).append("circle").attr("class", "sensor").attr("cx",function(d){ return xScale(d.x);}).attr("cy", function(d){return height - margin.bottom - xScale(d.y);}).attr("r", 5).attr("fill", "white");
+
+		var factories = mapsvg.selectAll(".factory").data(allFactories).enter().append("circle").attr("class", "factory").attr("cx", function(d){ return xScale(d.x);}).attr("cy", function(d){ return height - margin.bottom - xScale(d.y);}).attr("r", 5).attr("fill", "blue");
+
+		var arc = d3.svg.arc().innerRadius(0);
+
+		var wind = d3.select("#map").append("svg").attr("width", width).attr("height", height).attr("transform",
+				"translate(" + (margin.left-35) + "," + (margin.bottom - 305) + ")").attr("class", "wind_direction");
+		var defs = wind.append("defs");
+		var arrowMarker = defs.append("marker").attr("id", "arrow").attr("markUnits", "strokeWidth").attr("markerWidth", 12)
+		.attr("markerHeight", 12).attr("viewBox", "0 0 12 12").attr("refX", 6).attr("refY", 6).attr("orient", "auto");
+		var arrow_path = "M2, 2 L10, 6 L2, 10, L6, 6 L2, 2";
+		arrowMarker.append("path").attr("d", arrow_path).attr("fill", "rgb(253,245,84)");
+		var windDirection = wind.append("line").attr("transform", "translate(300, 150)").attr("x1", 0).attr("y1", 0).attr("x2", 0).attr("y2", 50).attr("stroke", "rgb(253,245,84)")
+		.attr("stroke-width", 2).attr("marker-end", "url(#arrow");
+
+		var textDate = d3.select(".wind_direction").append("text").attr("x", 600).attr("y", 30).text("time").attr("fill", "white");
+		showChemial("Methylosmolene");
+		var windTitle = d3.select(".wind_direction").append("text").attr("x", 30).attr("y", 30).text("风向图").attr("fill", "white");
+		d3.select("#map").append("img").attr("src", "fengxiang.png").attr("class", "wind");
+		function showChemial(name)
+		{
+			for(var i = 0;i < 9;i++){
+			mapsvg.select(".eachsensor" + i).append("g").attr("class", "graph");
+		}
+			d3.csv("data2.csv", function(d){
+			d.Chemical = d.Chemical;
+			d.Monitor = +d.Monitor;
+			d.direction = +d.direction;
+			d.reading = +d.reading;
+			d.Date = d.Date;
+			return d;
+		}, function(error, data){
+			if(error) throw error;
+			for(var i = 0;i < data.length;i++){
+				if(data[i].Chemical == name){
+					if(data[i].Chemical == "Methylosmolene" || data[i].Chemical == "AGOC-3A"){
+
+				arc.outerRadius(radiusScale(data[i].reading))
+				.startAngle((data[i].direction - 10)/360*2*Math.PI)
+				.endAngle((data[i].direction + 10)/360*2*Math.PI);
+
+			}
+			else if(data[i].Chemical == "Chlorodinine")
+			{
+				arc.outerRadius(radiusScale1(data[i].reading))
+				.startAngle((data[i].direction - 10)/360*2*Math.PI)
+				.endAngle((data[i].direction + 10)/360*2*Math.PI);
+			}
+			else
+			{
+				arc.outerRadius(radiusScale2(data[i].reading))
+				.startAngle((data[i].direction - 10)/360*2*Math.PI)
+				.endAngle((data[i].direction + 10)/360*2*Math.PI);
+			}
+			f(i, data, name, 1);
+			}
+			}
+		});
+		}
+
+		function showAll()
+		{
+			for(var i = 0;i < 9;i++){
+			mapsvg.select(".eachsensor" + i).append("g").attr("class", "graph");
+		}
+			d3.csv("data2.csv", function(d){
+			d.Chemical = d.Chemical;
+			d.Monitor = +d.Monitor;
+			d.direction = +d.direction;
+			d.reading = +d.reading;
+			d.Date = d.Date;
+			return d;
+		}, function(error, data){
+			if(error) throw error;
+
+			for(var i = 0;i < data.length;i++){
+				if(data[i].Chemical == "Methylosmolene" || data[i].Chemical == "AGOC-3A"){
+
+				arc.outerRadius(radiusScale(data[i].reading))
+				.startAngle((data[i].direction - 10)/360*2*Math.PI)
+				.endAngle((data[i].direction + 10)/360*2*Math.PI);
+			}
+			else
+			{
+				arc.outerRadius(radiusScale1(data[i].reading))
+				.startAngle((data[i].direction - 10)/360*2*Math.PI)
+				.endAngle((data[i].direction + 10)/360*2*Math.PI);
+			}
+				f(i, data, data[i].Chemical, 0);
+			}
+		});
+		}
+
+		function change()
+		{
+			var value = this.value;
+			mapsvg.selectAll(".graph").remove();
+			if(value == "All")
+			{	
+				showAll();
+			}
+			else
+			{
+				showChemial(value);
+			}
+		}
+
+		function timeoutput(i)
+		{
+			return i*2;
+		}
+		function f(i, data, name, flag){
+			if(flag == 1)
+			{
+				if(name == "Methylosmolene" || name == "AGOC-3A")
+				{
+					mapsvg.select(".eachsensor" + (data[i].Monitor - 1)).select(".graph").append("path").attr("transform", "translate(" + xScale(allSensors[data[i].Monitor - 1].x) + "," + (height - margin.bottom - xScale(allSensors[data[i].Monitor - 1].y)) + ")").transition().duration(100).delay(timeoutput(i)).ease("bounce").attr("d", arc).attr("fill", colors[name]).attr("opacity", opacityScale(data[i].reading));
+					windDirection.transition().duration(100).delay(timeoutput(i)).ease("bounce").attr("x2", 80*Math.sin(2*Math.PI*(data[i].direction+180)/360)).attr("y2", 80*Math.cos(2*Math.PI*(data[i].direction+180)/360));
+					textDate.transition().duration(100).delay(timeoutput(i)).text(data[i].Date);
+				}
+				else if(name == "Chlorodinine")
+				{
+					mapsvg.select(".eachsensor" + (data[i].Monitor - 1)).select(".graph").append("path").attr("transform", "translate(" + xScale(allSensors[data[i].Monitor - 1].x) + "," + (height - margin.bottom - xScale(allSensors[data[i].Monitor - 1].y)) + ")").transition().duration(100).delay(timeoutput(i)).ease("bounce").attr("d", arc).attr("fill", colors[name]).attr("opacity", opacityScale1(data[i].reading*(radiusScale1(data[i].reading)/100)));
+					windDirection.transition().duration(100).delay(timeoutput(i)).ease("bounce").attr("x2", 80*Math.sin(2*Math.PI*(data[i].direction+180)/360)).attr("y2", 80*Math.cos(2*Math.PI*(data[i].direction+180)/360));
+					textDate.transition().duration(100).delay(timeoutput(i)).text(data[i].Date);
+				}
+				else
+				{
+					mapsvg.select(".eachsensor" + (data[i].Monitor - 1)).select(".graph").append("path").attr("transform", "translate(" + xScale(allSensors[data[i].Monitor - 1].x) + "," + (height - margin.bottom - xScale(allSensors[data[i].Monitor - 1].y)) + ")").transition().duration(100).delay(timeoutput(i)).ease("bounce").attr("d", arc).attr("fill", colors[name]).attr("opacity", opacityScale1(data[i].reading*(radiusScale2(data[i].reading)/100)));
+					windDirection.transition().duration(100).delay(timeoutput(i)).ease("bounce").attr("x2", 80*Math.sin(2*Math.PI*(data[i].direction+180)/360)).attr("y2", 80*Math.cos(2*Math.PI*(data[i].direction+180)/360));
+					textDate.transition().duration(100).delay(timeoutput(i)).text(data[i].Date);
+				}
+			}
+			else
+			{
+				if(name == "Methylosmolene" || name == "AGOC-3A")
+				{
+					mapsvg.select(".eachsensor" + (data[i].Monitor - 1)).select(".graph").append("path").attr("transform", "translate(" + xScale(allSensors[data[i].Monitor - 1].x) + "," + (height - margin.bottom - xScale(allSensors[data[i].Monitor - 1].y)) + ")").transition().duration(100).delay(timeoutput(i)).ease("bounce").attr("d", arc).attr("fill", colors[name]).attr("opacity", opacityScale(data[i].reading));
+				}
+				else if(name == "Chlorodinine")
+				{
+					mapsvg.select(".eachsensor" + (data[i].Monitor - 1)).select(".graph").append("path").attr("transform", "translate(" + xScale(allSensors[data[i].Monitor - 1].x) + "," + (height - margin.bottom - xScale(allSensors[data[i].Monitor - 1].y)) + ")").transition().duration(100).delay(timeoutput(i)).ease("bounce").attr("d", arc).attr("fill", colors[name]).attr("opacity", opacityScale1(data[i].reading*(radiusScale1(data[i].reading)/100)));
+				}
+				else
+				{
+					mapsvg.select(".eachsensor" + (data[i].Monitor - 1)).select(".graph").append("path").attr("transform", "translate(" + xScale(allSensors[data[i].Monitor - 1].x) + "," + (height - margin.bottom - xScale(allSensors[data[i].Monitor - 1].y)) + ")").transition().duration(100).delay(timeoutput(i)).ease("bounce").attr("d", arc).attr("fill", colors[name]).attr("opacity", opacityScale1(data[i].reading*(radiusScale2(data[i].reading)/100)));
+				}
+			}
+		}
+	</script>
+</body>
+</html>

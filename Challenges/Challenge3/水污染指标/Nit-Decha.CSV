@@ -1,0 +1,728 @@
+sampleTime,name,value
+2009/1/21,Ammonium,0.631
+2009/2/17,Ammonium,0.081
+2009/3/17,Ammonium,0.162
+2009/4/23,Ammonium,0.021
+2009/5/17,Ammonium,0.051
+2009/6/20,Ammonium,0.051
+2009/7/19,Ammonium,0.038
+2009/8/17,Ammonium,0.177
+2009/9/18,Ammonium,0.17
+2009/10/10,Ammonium,0.059
+2009/11/20,Ammonium,0.17
+2009/12/12,Ammonium,0.113
+2010/1/17,Ammonium,6.138
+2010/2/19,Ammonium,0.331
+2010/3/18,Ammonium,0.267
+2010/4/17,Ammonium,0.286
+2010/5/19,Ammonium,0.056
+2010/6/17,Ammonium,0.115
+2010/7/16,Ammonium,0.183
+2010/8/21,Ammonium,0.03
+2010/9/16,Ammonium,0.035
+2010/10/19,Ammonium,0.019
+2010/11/18,Ammonium,0.165
+2010/12/16,Ammonium,0.197
+2011/1/21,Ammonium,0.509
+2011/2/19,Ammonium,0.24
+2011/3/17,Ammonium,0.162
+2011/4/15,Ammonium,0.06
+2011/5/20,Ammonium,0.087
+2011/6/17,Ammonium,0.07
+2011/7/20,Ammonium,0.052
+2011/8/18,Ammonium,0.065
+2011/9/15,Ammonium,0.046
+2011/10/13,Ammonium,0.148
+2011/11/18,Ammonium,0.072
+2011/12/17,Ammonium,0.111
+2012/1/20,Ammonium,0.326
+2012/2/17,Ammonium,0.389
+2012/3/16,Ammonium,0.323
+2012/4/19,Ammonium,0.258
+2012/5/19,Ammonium,0.296
+2012/6/17,Ammonium,0.117
+2012/7/20,Ammonium,0.105
+2012/8/17,Ammonium,0
+2012/9/20,Ammonium,0.054
+2012/10/19,Ammonium,0.036
+2012/11/18,Ammonium,0.076
+2012/12/15,Ammonium,0.171
+2013/1/20,Ammonium,0.169
+2013/1/25,Ammonium,0.177
+2013/2/2,Ammonium,0.457
+2013/2/17,Ammonium,0.282
+2013/3/11,Ammonium,0.238
+2013/3/17,Ammonium,0.207
+2013/4/7,Ammonium,0.042
+2013/4/18,Ammonium,0.163
+2013/5/18,Ammonium,0
+2013/6/15,Ammonium,0.04
+2013/6/17,Ammonium,0
+2013/7/18,Ammonium,0.075
+2013/7/27,Ammonium,0.059
+2013/8/3,Ammonium,0.071
+2013/8/18,Ammonium,0
+2013/9/7,Ammonium,0
+2013/9/19,Ammonium,0.037
+2013/10/19,Ammonium,0.041
+2013/11/9,Ammonium,0.219
+2013/11/21,Ammonium,0.24
+2013/12/9,Ammonium,0.844
+2013/12/13,Ammonium,0.752
+2014/1/18,Ammonium,0.457
+2014/1/23,Ammonium,0.84
+2014/2/16,Ammonium,0.966
+2014/2/21,Ammonium,1.05
+2014/3/20,Ammonium,0.566
+2014/3/26,Ammonium,0.56
+2014/4/19,Ammonium,0.74
+2014/4/25,Ammonium,0.317
+2014/5/15,Ammonium,0
+2014/5/23,Ammonium,0.297
+2014/6/21,Ammonium,0.367
+2014/6/27,Ammonium,0.063
+2014/7/17,Ammonium,0.177
+2014/7/23,Ammonium,0.1
+2014/7/27,Ammonium,0.134
+2014/8/16,Ammonium,0.112
+2014/8/21,Ammonium,0.189
+2014/8/31,Ammonium,0.147
+2014/9/20,Ammonium,0.244
+2014/9/26,Ammonium,0.142
+2014/10/18,Ammonium,0.12
+2014/10/25,Ammonium,0.146
+2014/11/20,Ammonium,0.393
+2014/11/27,Ammonium,0.346
+2014/12/10,Ammonium,0.543
+2014/12/13,Ammonium,0.609
+2015/1/14,Ammonium,1.095
+2015/1/17,Ammonium,1.32
+2015/2/14,Ammonium,0.606
+2015/2/20,Ammonium,0.656
+2015/3/12,Ammonium,0.373
+2015/3/21,Ammonium,0.66
+2015/4/10,Ammonium,0.424
+2015/4/18,Ammonium,0.245
+2015/5/14,Ammonium,0
+2015/5/22,Ammonium,0.112
+2015/6/12,Ammonium,0.348
+2015/6/18,Ammonium,0.057
+2015/7/10,Ammonium,0.055
+2015/7/18,Ammonium,0
+2015/7/24,Ammonium,0.27
+2015/8/19,Ammonium,0.058
+2015/8/20,Ammonium,0.105
+2015/8/27,Ammonium,0.077
+2015/9/19,Ammonium,0
+2015/9/24,Ammonium,0.053
+2015/10/14,Ammonium,0.075
+2015/10/17,Ammonium,0.354
+2015/11/14,Ammonium,0.125
+2015/11/20,Ammonium,0.15
+2015/12/9,Ammonium,0.404
+2015/12/17,Ammonium,0.495
+2016/1/14,Ammonium,0.39
+2016/1/21,Ammonium,0.257
+2016/2/7,Ammonium,0.323
+2016/2/18,Ammonium,0.172
+2016/3/13,Ammonium,0.116
+2016/3/18,Ammonium,0.077
+2016/4/11,Ammonium,0.047
+2016/4/15,Ammonium,0.052
+2016/5/13,Ammonium,0.051
+2016/5/19,Ammonium,0.052
+2016/6/12,Ammonium,0.055
+2016/6/19,Ammonium,0.09
+2016/7/10,Ammonium,0.103
+2016/7/17,Ammonium,0.119
+2016/7/24,Ammonium,0.051
+2016/8/19,Ammonium,0.146
+2016/8/20,Ammonium,0.191
+2016/8/27,Ammonium,0.107
+2016/9/12,Ammonium,0.02
+2016/9/17,Ammonium,0.062
+2016/10/14,Ammonium,0.09
+2016/10/17,Ammonium,0.109
+2016/11/17,Ammonium,0.291
+2016/11/20,Ammonium,0.095
+2016/12/16,Ammonium,0.272
+2016/12/23,Ammonium,0.117
+2009/1/21,Arsenic,2.03
+2009/2/17,Arsenic,0.5
+2009/3/17,Arsenic,0.5
+2011/4/15,Arsenic,1
+2011/5/20,Arsenic,1
+2011/6/17,Arsenic,1
+2014/6/21,Arsenic,1.61
+2014/7/17,Arsenic,1.88
+2014/8/16,Arsenic,2.65
+2014/9/20,Arsenic,2.27
+2014/10/18,Arsenic,1.62
+2014/11/20,Arsenic,1.52
+2014/12/10,Arsenic,1.26
+2015/2/14,Arsenic,2.25
+2015/3/21,Arsenic,3.05
+2015/5/22,Arsenic,1.32
+2015/8/20,Arsenic,1.53
+2015/9/19,Arsenic,2.12
+2016/5/19,Arsenic,3.02
+2016/7/17,Arsenic,3.08
+2016/9/17,Arsenic,1.75
+2009/1/21,Nitrates,0.546
+2009/2/17,Nitrates,0.694
+2009/3/17,Nitrates,1.539
+2009/4/23,Nitrates,1.002
+2009/5/17,Nitrates,0.242
+2009/6/20,Nitrates,0.199
+2009/7/19,Nitrates,0.148
+2009/8/17,Nitrates,0.257
+2009/9/18,Nitrates,1.083
+2009/10/10,Nitrates,0.413
+2009/11/20,Nitrates,1.122
+2009/12/12,Nitrates,1.083
+2010/1/17,Nitrates,0.981
+2010/2/19,Nitrates,1.181
+2010/3/18,Nitrates,0.864
+2010/4/17,Nitrates,0.709
+2010/5/19,Nitrates,0.709
+2010/6/17,Nitrates,1.236
+2010/7/16,Nitrates,0.634
+2010/8/21,Nitrates,0.413
+2010/9/16,Nitrates,0.406
+2010/10/19,Nitrates,0.748
+2010/11/18,Nitrates,0.944
+2010/12/16,Nitrates,0.725
+2011/1/21,Nitrates,0.954
+2011/2/19,Nitrates,0.636
+2011/3/17,Nitrates,0.915
+2011/4/15,Nitrates,0.721
+2011/5/20,Nitrates,0.524
+2011/6/17,Nitrates,0.18
+2011/7/20,Nitrates,0.631
+2011/8/18,Nitrates,1.023
+2011/9/15,Nitrates,0.541
+2011/10/13,Nitrates,0.656
+2011/11/18,Nitrates,0.706
+2011/12/17,Nitrates,0.798
+2012/1/20,Nitrates,0.908
+2012/2/17,Nitrates,0.518
+2012/3/16,Nitrates,0.64
+2012/4/19,Nitrates,0.63
+2012/5/19,Nitrates,0.46
+2012/6/17,Nitrates,0.608
+2012/7/20,Nitrates,0.558
+2012/8/17,Nitrates,0.462
+2012/9/20,Nitrates,0.561
+2012/10/19,Nitrates,0.832
+2012/11/18,Nitrates,0.748
+2012/12/15,Nitrates,0.716
+2013/1/20,Nitrates,0.853
+2013/1/25,Nitrates,0.574
+2013/2/2,Nitrates,1.048
+2013/2/17,Nitrates,0.557
+2013/3/11,Nitrates,0.627
+2013/3/17,Nitrates,0.649
+2013/4/7,Nitrates,0.448
+2013/4/18,Nitrates,0.855
+2013/5/18,Nitrates,0.518
+2013/6/15,Nitrates,0.546
+2013/6/17,Nitrates,0.295
+2013/7/12,Nitrates,0.359
+2013/7/18,Nitrates,0.251
+2013/7/27,Nitrates,0.599
+2013/8/3,Nitrates,0.61
+2013/8/18,Nitrates,0.52
+2013/9/7,Nitrates,0.509
+2013/9/19,Nitrates,0.539
+2013/10/12,Nitrates,0.461
+2013/10/19,Nitrates,0.921
+2013/11/9,Nitrates,0.631
+2013/11/21,Nitrates,0.768
+2013/12/9,Nitrates,0.791
+2013/12/13,Nitrates,0.505
+2014/1/18,Nitrates,0.932
+2014/1/23,Nitrates,0.974
+2014/2/16,Nitrates,0.95
+2014/2/21,Nitrates,0.947
+2014/3/20,Nitrates,0.735
+2014/3/26,Nitrates,0.887
+2014/4/19,Nitrates,0.719
+2014/4/25,Nitrates,0.719
+2014/5/15,Nitrates,0.474
+2014/5/23,Nitrates,0.495
+2014/6/21,Nitrates,0.842
+2014/6/27,Nitrates,0.447
+2014/7/17,Nitrates,0.293
+2014/7/23,Nitrates,0.338
+2014/7/27,Nitrates,0.214
+2014/8/16,Nitrates,0.591
+2014/8/21,Nitrates,0.569
+2014/8/31,Nitrates,0.257
+2014/9/20,Nitrates,0.362
+2014/9/26,Nitrates,0.624
+2014/10/18,Nitrates,0.992
+2014/10/25,Nitrates,0.719
+2014/11/20,Nitrates,1.131
+2014/11/27,Nitrates,0.729
+2014/12/10,Nitrates,0.717
+2014/12/13,Nitrates,0.676
+2015/1/14,Nitrates,1.156
+2015/1/17,Nitrates,1.438
+2015/2/14,Nitrates,1.136
+2015/2/20,Nitrates,1.103
+2015/3/12,Nitrates,0.926
+2015/3/21,Nitrates,0.677
+2015/4/10,Nitrates,0.591
+2015/4/18,Nitrates,0.741
+2015/5/14,Nitrates,0.392
+2015/5/22,Nitrates,0.531
+2015/6/12,Nitrates,0.865
+2015/6/18,Nitrates,0.293
+2015/7/10,Nitrates,0.375
+2015/7/18,Nitrates,0.5
+2015/7/24,Nitrates,0.157
+2015/8/19,Nitrates,0.302
+2015/8/20,Nitrates,0.304
+2015/8/27,Nitrates,0.214
+2015/9/19,Nitrates,0.42
+2015/9/24,Nitrates,0.337
+2015/10/14,Nitrates,0.316
+2015/10/17,Nitrates,0.595
+2015/11/14,Nitrates,0.62
+2015/11/20,Nitrates,0.627
+2015/12/9,Nitrates,0.301
+2015/12/17,Nitrates,0.56
+2016/1/14,Nitrates,0.972
+2016/1/21,Nitrates,0.754
+2016/2/7,Nitrates,0.794
+2016/2/18,Nitrates,0.26
+2016/3/13,Nitrates,0.462
+2016/3/18,Nitrates,0.505
+2016/4/11,Nitrates,0.317
+2016/4/15,Nitrates,0.36
+2016/5/13,Nitrates,0.454
+2016/5/19,Nitrates,0.257
+2016/6/12,Nitrates,0.226
+2016/6/19,Nitrates,0.397
+2016/7/10,Nitrates,0.1
+2016/7/17,Nitrates,0.224
+2016/7/24,Nitrates,0.197
+2016/8/19,Nitrates,0.017
+2016/8/20,Nitrates,0.205
+2016/8/27,Nitrates,0.226
+2016/9/12,Nitrates,0.25
+2016/9/17,Nitrates,0.357
+2016/10/14,Nitrates,0.61
+2016/10/17,Nitrates,0.474
+2016/11/17,Nitrates,0.56
+2016/11/20,Nitrates,0.316
+2016/12/16,Nitrates,0.905
+2016/12/23,Nitrates,0.952
+2009/1/21,Nitrites,0.015
+2009/2/17,Nitrites,0.013
+2009/3/17,Nitrites,0.023
+2009/4/23,Nitrites,0.015
+2009/5/17,Nitrites,0.02
+2009/6/20,Nitrites,0.005
+2009/7/19,Nitrites,0.013
+2009/8/17,Nitrites,0.016
+2009/9/18,Nitrites,0.018
+2009/10/10,Nitrites,0.039
+2009/11/20,Nitrites,0.025
+2009/12/12,Nitrites,0.026
+2010/1/17,Nitrites,0.022
+2010/2/19,Nitrites,0.023
+2010/3/18,Nitrites,0.013
+2010/4/17,Nitrites,0.012
+2010/5/19,Nitrites,0.015
+2010/6/17,Nitrites,0.017
+2010/7/16,Nitrites,0.01
+2010/8/21,Nitrites,0.003
+2010/9/16,Nitrites,0.018
+2010/10/19,Nitrites,0.004
+2010/11/18,Nitrites,0.02
+2010/12/16,Nitrites,0.016
+2011/1/21,Nitrites,0.016
+2011/2/19,Nitrites,0.017
+2011/3/17,Nitrites,0.021
+2011/4/15,Nitrites,0.08
+2011/5/20,Nitrites,0.05
+2011/6/17,Nitrites,0.046
+2011/7/20,Nitrites,0.023
+2011/8/18,Nitrites,0.034
+2011/9/15,Nitrites,0.078
+2011/10/13,Nitrites,0.037
+2011/11/18,Nitrites,0.03
+2011/12/17,Nitrites,0.032
+2012/1/20,Nitrites,0.024
+2012/2/17,Nitrites,0.025
+2012/3/16,Nitrites,0.024
+2012/4/19,Nitrites,0.018
+2012/5/19,Nitrites,0.028
+2012/6/17,Nitrites,0.023
+2012/7/20,Nitrites,0.025
+2012/8/17,Nitrites,0.011
+2012/9/20,Nitrites,0.012
+2012/10/19,Nitrites,0.016
+2012/11/18,Nitrites,0.011
+2012/12/15,Nitrites,0.013
+2013/1/20,Nitrites,0.013
+2013/1/25,Nitrites,0.017
+2013/2/2,Nitrites,0.011
+2013/2/17,Nitrites,0.022
+2013/3/11,Nitrites,0.018
+2013/3/17,Nitrites,0.021
+2013/4/7,Nitrites,0.067
+2013/4/18,Nitrites,0.014
+2013/5/18,Nitrites,0.011
+2013/6/15,Nitrites,0.021
+2013/6/17,Nitrites,0.015
+2013/7/12,Nitrites,0.014
+2013/7/18,Nitrites,0.01
+2013/7/27,Nitrites,0.014
+2013/8/3,Nitrites,0.027
+2013/8/18,Nitrites,0.02
+2013/9/7,Nitrites,0.011
+2013/9/19,Nitrites,0.012
+2013/10/12,Nitrites,0.014
+2013/10/19,Nitrites,0.015
+2013/11/9,Nitrites,0.019
+2013/11/21,Nitrites,0.033
+2013/12/9,Nitrites,0.022
+2013/12/13,Nitrites,0.019
+2014/1/18,Nitrites,0.019
+2014/1/23,Nitrites,0.017
+2014/2/16,Nitrites,0.012
+2014/2/21,Nitrites,0.008
+2014/3/20,Nitrites,0.016
+2014/3/26,Nitrites,0.034
+2014/4/19,Nitrites,0.018
+2014/4/25,Nitrites,0.032
+2014/5/15,Nitrites,0.02
+2014/5/23,Nitrites,0.025
+2014/6/21,Nitrites,0.023
+2014/6/27,Nitrites,0.016
+2014/7/17,Nitrites,0.027
+2014/7/23,Nitrites,0.01
+2014/7/27,Nitrites,0.012
+2014/8/16,Nitrites,0.016
+2014/8/21,Nitrites,0.013
+2014/8/31,Nitrites,0.016
+2014/9/20,Nitrites,0.045
+2014/9/26,Nitrites,0.028
+2014/10/18,Nitrites,0.026
+2014/10/25,Nitrites,0.044
+2014/11/20,Nitrites,0.036
+2014/11/27,Nitrites,0.037
+2014/12/10,Nitrites,0.081
+2014/12/13,Nitrites,0.019
+2015/1/14,Nitrites,0.019
+2015/1/17,Nitrites,0.018
+2015/2/14,Nitrites,0.018
+2015/2/20,Nitrites,0.02
+2015/3/12,Nitrites,0.022
+2015/3/21,Nitrites,0.083
+2015/4/10,Nitrites,0.024
+2015/4/18,Nitrites,0.026
+2015/5/14,Nitrites,0.012
+2015/5/22,Nitrites,0.02
+2015/6/12,Nitrites,0.027
+2015/6/18,Nitrites,0.012
+2015/7/10,Nitrites,0.014
+2015/7/18,Nitrites,0.009
+2015/7/24,Nitrites,0.022
+2015/8/19,Nitrites,0.012
+2015/8/20,Nitrites,0.013
+2015/8/27,Nitrites,0.012
+2015/9/19,Nitrites,0.033
+2015/9/24,Nitrites,0.021
+2015/10/14,Nitrites,0.019
+2015/10/17,Nitrites,0.028
+2015/11/14,Nitrites,0
+2015/11/20,Nitrites,0.024
+2015/12/9,Nitrites,0.013
+2015/12/17,Nitrites,0.015
+2016/1/14,Nitrites,0.019
+2016/1/21,Nitrites,0.019
+2016/2/7,Nitrites,0.012
+2016/2/18,Nitrites,0.065
+2016/3/13,Nitrites,0.017
+2016/3/18,Nitrites,0.018
+2016/4/11,Nitrites,0.019
+2016/4/15,Nitrites,0.024
+2016/5/13,Nitrites,0
+2016/5/19,Nitrites,0.013
+2016/6/12,Nitrites,0.006
+2016/6/19,Nitrites,0.007
+2016/7/10,Nitrites,0.01
+2016/7/17,Nitrites,0.04
+2016/7/24,Nitrites,0.009
+2016/8/19,Nitrites,0
+2016/8/20,Nitrites,0.01
+2016/8/27,Nitrites,0.016
+2016/9/12,Nitrites,0.009
+2016/9/17,Nitrites,0.012
+2016/10/14,Nitrites,0.019
+2016/10/17,Nitrites,0.024
+2016/11/17,Nitrites,0.026
+2016/11/20,Nitrites,0.026
+2016/12/16,Nitrites,0.02
+2016/12/23,Nitrites,0.022
+2009/1/21,Total nitrogen,3.4
+2009/3/17,Total nitrogen,5.56
+2009/4/23,Total nitrogen,1.73
+2009/5/17,Total nitrogen,1.76
+2009/6/20,Total nitrogen,1.633
+2009/7/19,Total nitrogen,2.163
+2009/8/17,Total nitrogen,3.71
+2009/12/12,Total nitrogen,2.379
+2010/1/17,Total nitrogen,9.15
+2010/2/19,Total nitrogen,2.49
+2010/3/18,Total nitrogen,2.7
+2010/4/17,Total nitrogen,3.15
+2010/5/19,Total nitrogen,6.425
+2010/6/17,Total nitrogen,3.43
+2010/7/16,Total nitrogen,2.58
+2010/9/16,Total nitrogen,3.529
+2012/8/17,Total nitrogen,1.9614
+2012/10/19,Total nitrogen,4.165
+2012/11/18,Total nitrogen,1.156
+2012/12/15,Total nitrogen,4.48
+2013/1/20,Total nitrogen,2
+2013/1/25,Total nitrogen,2
+2013/2/2,Total nitrogen,2
+2013/2/17,Total nitrogen,2
+2013/3/11,Total nitrogen,2
+2013/3/17,Total nitrogen,4.343
+2013/4/7,Total nitrogen,2.13
+2013/4/18,Total nitrogen,5.86
+2013/5/18,Total nitrogen,4.66
+2013/6/15,Total nitrogen,3.46
+2013/6/17,Total nitrogen,2
+2013/7/12,Total nitrogen,3.99
+2013/7/18,Total nitrogen,2
+2013/7/27,Total nitrogen,2
+2013/8/3,Total nitrogen,2
+2013/8/18,Total nitrogen,2
+2013/9/7,Total nitrogen,2
+2013/9/19,Total nitrogen,2
+2013/10/19,Total nitrogen,2
+2013/11/9,Total nitrogen,2
+2013/12/9,Total nitrogen,2
+2013/12/13,Total nitrogen,4.2
+2014/1/18,Total nitrogen,4
+2014/1/23,Total nitrogen,4
+2014/2/16,Total nitrogen,4
+2014/2/21,Total nitrogen,4
+2014/3/20,Total nitrogen,4
+2014/3/26,Total nitrogen,4
+2014/4/19,Total nitrogen,4
+2014/4/25,Total nitrogen,4
+2014/5/15,Total nitrogen,4
+2014/5/23,Total nitrogen,4
+2014/6/21,Total nitrogen,4
+2014/6/27,Total nitrogen,4
+2014/7/17,Total nitrogen,4
+2014/7/23,Total nitrogen,4
+2014/7/27,Total nitrogen,4
+2014/8/16,Total nitrogen,4
+2014/8/21,Total nitrogen,4
+2014/8/31,Total nitrogen,4
+2014/9/20,Total nitrogen,4
+2014/9/26,Total nitrogen,4
+2014/10/18,Total nitrogen,4
+2014/10/25,Total nitrogen,4
+2014/11/20,Total nitrogen,4
+2014/11/27,Total nitrogen,4
+2014/12/10,Total nitrogen,4
+2014/12/13,Total nitrogen,4
+2015/2/14,Total nitrogen,2
+2015/2/20,Total nitrogen,2
+2015/3/12,Total nitrogen,2
+2015/3/21,Total nitrogen,2
+2015/6/18,Total nitrogen,4.81
+2015/7/10,Total nitrogen,1.098
+2015/7/18,Total nitrogen,8.029
+2015/7/24,Total nitrogen,7.465
+2015/8/19,Total nitrogen,0.77
+2015/8/20,Total nitrogen,1.2
+2015/8/27,Total nitrogen,0.95
+2015/9/19,Total nitrogen,1.73
+2015/9/24,Total nitrogen,1.25
+2015/10/14,Total nitrogen,1.23
+2015/10/17,Total nitrogen,1.25
+2015/11/14,Total nitrogen,1.509
+2015/11/20,Total nitrogen,1.179
+2015/12/9,Total nitrogen,1.72
+2015/12/17,Total nitrogen,2.41
+2016/1/14,Total nitrogen,1.65
+2016/1/21,Total nitrogen,1.837
+2016/2/7,Total nitrogen,2.02
+2016/2/18,Total nitrogen,1.803
+2016/3/13,Total nitrogen,1.479
+2016/3/18,Total nitrogen,1.8
+2016/4/11,Total nitrogen,1.225
+2016/4/15,Total nitrogen,1.244
+2016/5/13,Total nitrogen,0.731
+2016/5/19,Total nitrogen,2.206
+2016/6/12,Total nitrogen,0.639
+2016/6/19,Total nitrogen,1.018
+2016/7/10,Total nitrogen,1.045
+2016/7/17,Total nitrogen,1.812
+2016/7/24,Total nitrogen,1.327
+2016/8/19,Total nitrogen,2.847
+2016/8/20,Total nitrogen,3.615
+2016/8/27,Total nitrogen,2.222
+2016/9/12,Total nitrogen,1.383
+2016/9/17,Total nitrogen,1.178
+2016/10/14,Total nitrogen,1.135
+2016/10/17,Total nitrogen,1.793
+2016/11/17,Total nitrogen,1.835
+2016/11/20,Total nitrogen,1.321
+2016/12/16,Total nitrogen,2.354
+2016/12/23,Total nitrogen,1.576
+2009/1/21,Total phosphorus,0.82
+2009/3/17,Total phosphorus,0.024
+2009/4/23,Total phosphorus,0.043
+2009/5/17,Total phosphorus,0.046
+2009/6/20,Total phosphorus,2.1382
+2009/7/19,Total phosphorus,0.021
+2009/8/17,Total phosphorus,0.09
+2009/9/18,Total phosphorus,0.221
+2009/10/10,Total phosphorus,0.07
+2009/11/20,Total phosphorus,0.124
+2009/12/12,Total phosphorus,0.086
+2010/1/17,Total phosphorus,0.071
+2010/2/19,Total phosphorus,0.078
+2010/3/18,Total phosphorus,0.055
+2010/4/17,Total phosphorus,0.114
+2010/5/19,Total phosphorus,0.113
+2010/6/17,Total phosphorus,0.248
+2010/7/16,Total phosphorus,0.212
+2010/8/21,Total phosphorus,0.07
+2010/9/16,Total phosphorus,0.056
+2010/10/19,Total phosphorus,0.202
+2010/11/18,Total phosphorus,0.026
+2010/12/16,Total phosphorus,0.109
+2011/1/21,Total phosphorus,0.106
+2011/2/19,Total phosphorus,0.212
+2011/3/17,Total phosphorus,0.24
+2011/4/15,Total phosphorus,0.125
+2011/5/20,Total phosphorus,0.089
+2011/6/17,Total phosphorus,0.108
+2011/7/20,Total phosphorus,0.033
+2011/8/18,Total phosphorus,0.087
+2011/9/15,Total phosphorus,0.062
+2011/10/13,Total phosphorus,0.05
+2011/11/18,Total phosphorus,0.164
+2011/12/17,Total phosphorus,0.185
+2012/1/20,Total phosphorus,0.07
+2012/2/17,Total phosphorus,0.384
+2012/3/16,Total phosphorus,0.112
+2012/4/19,Total phosphorus,0.158
+2012/5/19,Total phosphorus,0.086
+2012/6/17,Total phosphorus,0.089
+2012/7/20,Total phosphorus,0.158
+2012/8/17,Total phosphorus,0.161
+2012/9/20,Total phosphorus,0.253
+2012/10/19,Total phosphorus,0.071
+2012/11/18,Total phosphorus,0.076
+2012/12/15,Total phosphorus,0.137
+2013/1/20,Total phosphorus,0.092
+2013/1/25,Total phosphorus,0.141
+2013/2/2,Total phosphorus,0.52
+2013/2/17,Total phosphorus,0.118
+2013/3/11,Total phosphorus,0.118
+2013/3/17,Total phosphorus,0.138
+2013/4/7,Total phosphorus,0.068
+2013/4/18,Total phosphorus,0.058
+2013/5/18,Total phosphorus,0.26
+2013/6/15,Total phosphorus,0.069
+2013/6/17,Total phosphorus,0.144
+2013/7/12,Total phosphorus,0.229
+2013/7/18,Total phosphorus,0.213
+2013/7/27,Total phosphorus,0.121
+2013/8/3,Total phosphorus,0.154
+2013/8/18,Total phosphorus,0.12
+2013/9/7,Total phosphorus,0.045
+2013/9/19,Total phosphorus,0.015
+2013/10/12,Total phosphorus,0.167
+2013/10/19,Total phosphorus,0.037
+2013/11/9,Total phosphorus,0.108
+2013/11/21,Total phosphorus,0.109
+2013/12/13,Total phosphorus,0.062
+2014/1/18,Total phosphorus,0.077
+2014/1/23,Total phosphorus,0.084
+2014/2/16,Total phosphorus,0.102
+2014/2/21,Total phosphorus,0.015
+2014/3/20,Total phosphorus,0.66
+2014/3/26,Total phosphorus,0.092
+2014/4/19,Total phosphorus,0.267
+2014/4/25,Total phosphorus,0.285
+2014/5/15,Total phosphorus,0.063
+2014/5/23,Total phosphorus,0.173
+2014/6/21,Total phosphorus,0.012
+2014/6/27,Total phosphorus,0.015
+2014/7/17,Total phosphorus,0.225
+2014/7/23,Total phosphorus,0.066
+2014/7/27,Total phosphorus,0.059
+2014/8/16,Total phosphorus,0.084
+2014/8/21,Total phosphorus,0.303
+2014/8/31,Total phosphorus,0.065
+2014/9/20,Total phosphorus,0.089
+2014/9/26,Total phosphorus,0.091
+2014/10/18,Total phosphorus,0.066
+2014/10/25,Total phosphorus,0.05
+2014/11/20,Total phosphorus,0.083
+2014/11/27,Total phosphorus,0.076
+2014/12/10,Total phosphorus,0.108
+2014/12/13,Total phosphorus,0.18
+2015/1/14,Total phosphorus,0.387
+2015/1/17,Total phosphorus,0.099
+2015/2/14,Total phosphorus,0.096
+2015/2/20,Total phosphorus,0.107
+2015/3/12,Total phosphorus,0.112
+2015/3/21,Total phosphorus,0.21
+2015/4/10,Total phosphorus,0.129
+2015/4/18,Total phosphorus,0.075
+2015/5/14,Total phosphorus,0.058
+2015/6/12,Total phosphorus,0.034
+2015/6/18,Total phosphorus,0.036
+2015/7/10,Total phosphorus,0.018
+2015/7/18,Total phosphorus,0.14
+2015/7/24,Total phosphorus,0.092
+2015/8/19,Total phosphorus,0.119
+2015/8/20,Total phosphorus,0.137
+2015/8/27,Total phosphorus,0.135
+2015/9/19,Total phosphorus,0.072
+2015/9/24,Total phosphorus,0.114
+2015/10/14,Total phosphorus,0.134
+2015/10/17,Total phosphorus,0.081
+2015/11/14,Total phosphorus,0.122
+2015/11/20,Total phosphorus,0.086
+2015/12/9,Total phosphorus,0.062
+2016/1/14,Total phosphorus,0.071
+2016/1/21,Total phosphorus,0.157
+2016/2/7,Total phosphorus,0.091
+2016/2/18,Total phosphorus,0.196
+2016/3/13,Total phosphorus,0.123
+2016/3/18,Total phosphorus,0.12
+2016/4/11,Total phosphorus,0.157
+2016/4/15,Total phosphorus,0.222
+2016/5/13,Total phosphorus,0.113
+2016/5/19,Total phosphorus,0.234
+2016/6/12,Total phosphorus,0.101
+2016/6/19,Total phosphorus,0.169
+2016/7/17,Total phosphorus,0.413
+2016/7/24,Total phosphorus,0.379
+2016/8/19,Total phosphorus,0.154
+2016/8/20,Total phosphorus,0.293
+2016/8/27,Total phosphorus,0.143
+2016/9/12,Total phosphorus,0.069
+2016/9/17,Total phosphorus,0.101
+2016/10/14,Total phosphorus,0.132
+2016/10/17,Total phosphorus,0.136
+2016/11/17,Total phosphorus,0.197
+2016/11/20,Total phosphorus,0.197
+2016/12/16,Total phosphorus,0.122
+2016/12/23,Total phosphorus,0.12

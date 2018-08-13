@@ -1,0 +1,411 @@
+sampleTime,name,value
+1998/4/16,Fecal coliforms,0
+1998/6/27,Fecal coliforms,0
+1998/8/22,Fecal coliforms,0
+1998/10/1,Fecal coliforms,0
+1998/11/14,Fecal coliforms,0
+1998/12/13,Fecal coliforms,0
+1999/3/13,Fecal coliforms,16
+1999/4/22,Fecal coliforms,0.28
+1999/5/15,Fecal coliforms,0.0045
+1999/6/18,Fecal coliforms,0.0078
+1999/10/20,Fecal coliforms,1.1
+2000/2/12,Fecal coliforms,0.02
+2000/3/12,Fecal coliforms,0.36
+2000/4/16,Fecal coliforms,3.6
+2000/5/14,Fecal coliforms,0.84
+2000/7/16,Fecal coliforms,1.2
+2000/8/25,Fecal coliforms,1.6
+2000/9/10,Fecal coliforms,0.32
+2000/10/15,Fecal coliforms,0.21
+2000/11/12,Fecal coliforms,0.08
+2000/12/10,Fecal coliforms,0.04
+2001/1/28,Fecal coliforms,9.2
+2001/2/18,Fecal coliforms,0.04
+2001/4/27,Fecal coliforms,0.13
+2001/5/13,Fecal coliforms,0.19
+2001/6/19,Fecal coliforms,0.38
+2001/7/27,Fecal coliforms,0.17
+2001/8/26,Fecal coliforms,0.006
+2001/9/16,Fecal coliforms,0.01
+2001/10/14,Fecal coliforms,0.02
+2001/11/15,Fecal coliforms,2.1
+2001/12/9,Fecal coliforms,0.22
+2002/3/23,Fecal coliforms,0.43
+2002/4/27,Fecal coliforms,0.21
+2002/10/10,Fecal coliforms,0.28
+2002/12/22,Fecal coliforms,0.02
+2003/1/26,Fecal coliforms,0.39
+2003/2/28,Fecal coliforms,6.9
+2003/3/23,Fecal coliforms,7.2
+2003/4/26,Fecal coliforms,320
+2003/5/24,Fecal coliforms,320
+2003/6/21,Fecal coliforms,3.5
+2003/7/26,Fecal coliforms,3.2
+2003/8/9,Fecal coliforms,3.2
+2003/10/25,Fecal coliforms,4.5
+2003/11/29,Fecal coliforms,0.62
+2004/7/25,Fecal coliforms,0.62
+2004/8/29,Fecal coliforms,16
+2004/9/27,Fecal coliforms,0.45
+2004/10/24,Fecal coliforms,5.4
+2004/11/28,Fecal coliforms,0.14
+2004/12/19,Fecal coliforms,0.06
+2005/1/30,Fecal coliforms,0.45
+2005/2/27,Fecal coliforms,0.24
+2005/3/27,Fecal coliforms,0.24
+2005/4/25,Fecal coliforms,3.6
+2005/5/28,Fecal coliforms,0.092
+2005/6/26,Fecal coliforms,0.54
+2005/7/29,Fecal coliforms,0.39
+2005/8/24,Fecal coliforms,0.47
+2005/9/25,Fecal coliforms,0.54
+2005/11/27,Fecal coliforms,0.54
+2005/12/18,Fecal coliforms,0.39
+2006/3/25,Fecal coliforms,1.4
+2006/4/29,Fecal coliforms,1.7
+2006/5/27,Fecal coliforms,1.1
+2006/6/26,Fecal coliforms,24
+2006/7/29,Fecal coliforms,2.8
+2006/8/26,Fecal coliforms,0.54
+2006/9/23,Fecal coliforms,0.26
+2006/10/28,Fecal coliforms,0.24
+2006/11/25,Fecal coliforms,0.28
+2006/12/23,Fecal coliforms,0.04
+2007/1/27,Fecal coliforms,0.54
+2007/7/21,Fecal coliforms,2.8
+2008/1/26,Fecal coliforms,0.13
+2008/2/23,Fecal coliforms,0.79
+2008/3/23,Fecal coliforms,4.9
+2008/5/26,Fecal coliforms,0.175
+2008/6/29,Fecal coliforms,0.13
+2008/7/27,Fecal coliforms,2.78
+2008/8/31,Fecal coliforms,2.78
+2008/9/28,Fecal coliforms,1.609
+2008/10/26,Fecal coliforms,1.609
+2008/11/27,Fecal coliforms,1.3
+2008/12/19,Fecal coliforms,27
+2009/1/29,Fecal coliforms,1.7
+2009/2/26,Fecal coliforms,17
+2009/3/29,Fecal coliforms,130
+2009/4/24,Fecal coliforms,79
+2009/5/28,Fecal coliforms,240
+2009/6/25,Fecal coliforms,7.9
+2009/7/30,Fecal coliforms,34
+2009/8/20,Fecal coliforms,220
+2009/10/29,Fecal coliforms,22
+2009/11/26,Fecal coliforms,13
+2009/12/10,Fecal coliforms,4.9
+2010/1/28,Fecal coliforms,2.4
+2010/2/18,Fecal coliforms,172
+2010/3/24,Fecal coliforms,1.3
+2010/4/21,Fecal coliforms,3.3
+2010/5/26,Fecal coliforms,7.9
+2010/6/23,Fecal coliforms,790
+2010/7/28,Fecal coliforms,24
+2010/8/26,Fecal coliforms,9
+2010/9/29,Fecal coliforms,240
+2010/10/20,Fecal coliforms,240
+2010/12/15,Fecal coliforms,3.3
+2011/1/26,Fecal coliforms,79
+2011/2/25,Fecal coliforms,79
+2011/3/30,Fecal coliforms,7.9
+2011/4/27,Fecal coliforms,790
+2011/5/18,Fecal coliforms,790
+2011/6/30,Fecal coliforms,79
+2011/7/13,Fecal coliforms,13
+2011/8/31,Fecal coliforms,7.9
+2011/9/28,Fecal coliforms,49
+2011/10/26,Fecal coliforms,79
+2011/11/23,Fecal coliforms,13
+2011/12/7,Fecal coliforms,1.3
+2012/1/25,Fecal coliforms,0.11
+2012/2/23,Fecal coliforms,1.7
+2012/3/29,Fecal coliforms,1.4
+2012/4/27,Fecal coliforms,0.9
+2012/5/25,Fecal coliforms,4.9
+2012/6/21,Fecal coliforms,3.3
+2012/7/26,Fecal coliforms,4.9
+2012/8/23,Fecal coliforms,4
+2012/9/20,Fecal coliforms,3.4
+2012/10/25,Fecal coliforms,13
+2012/11/24,Fecal coliforms,7.9
+2012/12/15,Fecal coliforms,4.9
+2013/1/25,Fecal coliforms,3.3
+2013/2/22,Fecal coliforms,4.9
+2013/3/15,Fecal coliforms,1.7
+2013/4/19,Fecal coliforms,1.4
+2013/5/23,Fecal coliforms,3.4
+2013/6/27,Fecal coliforms,2.4
+2013/7/25,Fecal coliforms,3.4
+2013/8/22,Fecal coliforms,2.7
+2013/9/26,Fecal coliforms,3.3
+1999/3/13,Fecal streptococci ,0.33
+1999/4/22,Fecal streptococci ,0.0078
+1999/10/20,Fecal streptococci ,0.03
+2000/2/12,Fecal streptococci ,0.01
+2000/3/12,Fecal streptococci ,0.04
+2000/4/16,Fecal streptococci ,0.01
+2000/5/14,Fecal streptococci ,0.03
+2000/6/29,Fecal streptococci ,0.005
+2000/7/16,Fecal streptococci ,0.01
+2000/8/25,Fecal streptococci ,0.006
+2000/9/10,Fecal streptococci ,0.01
+2000/12/10,Fecal streptococci ,0.002
+2001/5/13,Fecal streptococci ,0.06
+2001/6/19,Fecal streptococci ,0.002
+2001/8/26,Fecal streptococci ,0.004
+2001/10/14,Fecal streptococci ,0.005
+2001/11/15,Fecal streptococci ,0.01
+2001/12/9,Fecal streptococci ,0.01
+2002/3/23,Fecal streptococci ,0.01
+2002/4/27,Fecal streptococci ,0.01
+2002/10/10,Fecal streptococci ,0.01
+2002/12/22,Fecal streptococci ,0.02
+2003/1/26,Fecal streptococci ,0.14
+2003/2/28,Fecal streptococci ,2.1
+2003/3/23,Fecal streptococci ,5.6
+2003/4/26,Fecal streptococci ,1.7
+2003/5/24,Fecal streptococci ,0.92
+2003/6/21,Fecal streptococci ,0.06
+2003/7/26,Fecal streptococci ,0.92
+2003/8/9,Fecal streptococci ,0.92
+2003/10/25,Fecal streptococci ,1.4
+2003/11/29,Fecal streptococci ,0.17
+2004/7/25,Fecal streptococci ,0.32
+2004/8/29,Fecal streptococci ,0.32
+2004/9/27,Fecal streptococci ,0.24
+2004/10/24,Fecal streptococci ,0.2
+2004/11/28,Fecal streptococci ,0.092
+2004/12/19,Fecal streptococci ,0.04
+2005/1/30,Fecal streptococci ,0.14
+2005/2/27,Fecal streptococci ,0.14
+2005/3/27,Fecal streptococci ,0.14
+2005/4/25,Fecal streptococci ,2.8
+2005/5/28,Fecal streptococci ,0.082
+2005/6/26,Fecal streptococci ,0.28
+2005/7/29,Fecal streptococci ,0.14
+2005/8/24,Fecal streptococci ,0.2
+2005/9/25,Fecal streptococci ,0.28
+2005/11/27,Fecal streptococci ,0.39
+2005/12/18,Fecal streptococci ,0.26
+2006/3/25,Fecal streptococci ,0.011
+2006/4/29,Fecal streptococci ,0.045
+2006/5/27,Fecal streptococci ,0.04
+2006/6/26,Fecal streptococci ,0.2
+2006/7/29,Fecal streptococci ,0.21
+2006/8/26,Fecal streptococci ,0.33
+2006/9/23,Fecal streptococci ,0
+2006/10/28,Fecal streptococci ,0.12
+2006/11/25,Fecal streptococci ,0.17
+2006/12/23,Fecal streptococci ,0.027
+2007/1/27,Fecal streptococci ,0.26
+2007/7/21,Fecal streptococci ,0.023
+2008/1/26,Fecal streptococci ,0.017
+2008/2/23,Fecal streptococci ,0.14
+2008/3/23,Fecal streptococci ,0.34
+2008/5/26,Fecal streptococci ,0.022
+2008/6/29,Fecal streptococci ,0.017
+2008/7/27,Fecal streptococci ,0.033
+2008/8/31,Fecal streptococci ,0.033
+2008/9/28,Fecal streptococci ,0.221
+2008/10/26,Fecal streptococci ,0.542
+2008/11/27,Fecal streptococci ,0.79
+2008/12/19,Fecal streptococci ,2.2
+2009/1/29,Fecal streptococci ,1.1
+2009/2/26,Fecal streptococci ,2.6
+2009/3/29,Fecal streptococci ,27
+2009/4/24,Fecal streptococci ,0.33
+2009/5/28,Fecal streptococci ,33
+2009/6/25,Fecal streptococci ,0.24
+2009/7/30,Fecal streptococci ,79
+2009/8/20,Fecal streptococci ,130
+2009/10/29,Fecal streptococci ,1.4
+2009/11/26,Fecal streptococci ,0.79
+2009/12/10,Fecal streptococci ,0.24
+2010/1/28,Fecal streptococci ,0.79
+2010/2/18,Fecal streptococci ,130
+2010/3/24,Fecal streptococci ,0.49
+2010/4/21,Fecal streptococci ,3.4
+2010/5/26,Fecal streptococci ,1.3
+2010/6/23,Fecal streptococci ,33
+2010/7/28,Fecal streptococci ,13
+2010/8/26,Fecal streptococci ,2.2
+2010/9/29,Fecal streptococci ,3.3
+2010/10/20,Fecal streptococci ,13
+2010/12/15,Fecal streptococci ,4.9
+2011/1/26,Fecal streptococci ,1.3
+2011/2/25,Fecal streptococci ,4.9
+2011/3/30,Fecal streptococci ,0.22
+2011/4/27,Fecal streptococci ,330
+2011/5/18,Fecal streptococci ,170
+2011/6/30,Fecal streptococci ,24
+2011/7/13,Fecal streptococci ,7.9
+2011/8/31,Fecal streptococci ,0.9
+2011/9/28,Fecal streptococci ,33
+2011/10/26,Fecal streptococci ,22
+2011/11/23,Fecal streptococci ,4.9
+2011/12/7,Fecal streptococci ,0.79
+2012/1/25,Fecal streptococci ,0.17
+2012/2/23,Fecal streptococci ,0.79
+2012/3/29,Fecal streptococci ,0.49
+2012/4/27,Fecal streptococci ,0.27
+2012/5/25,Fecal streptococci ,2.4
+2012/6/21,Fecal streptococci ,0.79
+2012/7/26,Fecal streptococci ,1.4
+2012/8/23,Fecal streptococci ,1.7
+2012/9/20,Fecal streptococci ,1.3
+2012/10/25,Fecal streptococci ,1.3
+2012/11/24,Fecal streptococci ,1.3
+2012/12/15,Fecal streptococci ,0.49
+2013/1/25,Fecal streptococci ,0.49
+2013/2/22,Fecal streptococci ,1.1
+2013/3/15,Fecal streptococci ,1.1
+2013/4/19,Fecal streptococci ,1.7
+2013/5/23,Fecal streptococci ,3.3
+2013/6/27,Fecal streptococci ,4.9
+2013/7/25,Fecal streptococci ,3.3
+2013/8/22,Fecal streptococci ,1.7
+2013/9/26,Fecal streptococci ,0.34
+1998/4/16,Total coliforms,0
+1998/6/27,Total coliforms,0
+1998/8/22,Total coliforms,0
+1998/10/1,Total coliforms,0
+1998/11/14,Total coliforms,0
+1998/12/13,Total coliforms,0
+1999/3/13,Total coliforms,35
+1999/4/22,Total coliforms,5.4
+1999/5/15,Total coliforms,9.2
+1999/6/18,Total coliforms,0.39
+1999/10/20,Total coliforms,16
+2000/2/12,Total coliforms,0.43
+2000/3/12,Total coliforms,16
+2000/4/16,Total coliforms,16
+2000/5/14,Total coliforms,0.18
+2000/6/29,Total coliforms,0.02
+2000/7/16,Total coliforms,8.5
+2000/8/25,Total coliforms,9.2
+2000/9/10,Total coliforms,14
+2000/10/15,Total coliforms,0.59
+2000/11/12,Total coliforms,16
+2000/12/10,Total coliforms,2.4
+2001/1/28,Total coliforms,16
+2001/2/18,Total coliforms,0.25
+2001/4/27,Total coliforms,0.37
+2001/5/13,Total coliforms,16
+2001/6/19,Total coliforms,0.64
+2001/7/27,Total coliforms,9.2
+2001/8/26,Total coliforms,0.7
+2001/9/16,Total coliforms,0.92
+2001/10/14,Total coliforms,0.02
+2001/11/15,Total coliforms,16
+2001/12/9,Total coliforms,1.6
+2002/3/23,Total coliforms,16
+2002/4/27,Total coliforms,16
+2002/10/10,Total coliforms,0.92
+2002/12/22,Total coliforms,0.07
+2003/1/26,Total coliforms,32
+2003/2/28,Total coliforms,320
+2003/3/23,Total coliforms,320
+2003/4/26,Total coliforms,320
+2003/5/24,Total coliforms,320
+2003/6/21,Total coliforms,320
+2003/7/26,Total coliforms,160
+2003/8/9,Total coliforms,160
+2003/10/25,Total coliforms,0.16
+2003/11/29,Total coliforms,16
+2004/7/25,Total coliforms,16
+2004/8/29,Total coliforms,16
+2004/9/27,Total coliforms,16
+2004/10/24,Total coliforms,16
+2004/11/28,Total coliforms,16
+2004/12/19,Total coliforms,0.12
+2005/1/30,Total coliforms,5.4
+2005/2/27,Total coliforms,16
+2005/3/27,Total coliforms,16
+2005/4/25,Total coliforms,16
+2005/5/28,Total coliforms,0.45
+2005/6/26,Total coliforms,16
+2005/7/29,Total coliforms,9.2
+2005/8/24,Total coliforms,9.2
+2005/9/25,Total coliforms,16
+2005/11/27,Total coliforms,9.2
+2005/12/18,Total coliforms,16
+2006/3/25,Total coliforms,9.2
+2006/4/29,Total coliforms,5.4
+2006/5/27,Total coliforms,16
+2006/6/26,Total coliforms,160
+2006/7/29,Total coliforms,16
+2006/8/26,Total coliforms,9.2
+2006/9/23,Total coliforms,2.2
+2006/10/28,Total coliforms,3.6
+2006/11/25,Total coliforms,1.6
+2006/12/23,Total coliforms,1.6
+2007/1/27,Total coliforms,16
+2007/7/21,Total coliforms,16
+2008/1/26,Total coliforms,0.9
+2008/2/23,Total coliforms,7.9
+2008/3/23,Total coliforms,17
+2008/5/26,Total coliforms,1.609
+2008/6/29,Total coliforms,1.609
+2008/7/27,Total coliforms,7.9
+2008/8/31,Total coliforms,7.9
+2008/9/28,Total coliforms,1.609
+2008/10/26,Total coliforms,1.609
+2008/11/27,Total coliforms,5.42
+2008/12/19,Total coliforms,79
+2009/1/29,Total coliforms,33
+2009/2/26,Total coliforms,221
+2009/3/29,Total coliforms,2400
+2009/4/24,Total coliforms,1700
+2009/5/28,Total coliforms,1400
+2009/6/25,Total coliforms,1100
+2009/7/30,Total coliforms,170
+2009/8/20,Total coliforms,3300
+2009/10/29,Total coliforms,140
+2009/11/26,Total coliforms,1300
+2009/12/10,Total coliforms,130
+2010/1/28,Total coliforms,13
+2010/2/18,Total coliforms,1300
+2010/3/24,Total coliforms,4.9
+2010/4/21,Total coliforms,130
+2010/5/26,Total coliforms,17
+2010/6/23,Total coliforms,1300
+2010/7/28,Total coliforms,790
+2010/8/26,Total coliforms,49
+2010/9/29,Total coliforms,490
+2010/10/20,Total coliforms,13000
+2010/12/15,Total coliforms,1100
+2011/1/26,Total coliforms,330
+2011/2/25,Total coliforms,700
+2011/3/30,Total coliforms,790
+2011/4/27,Total coliforms,1100
+2011/5/18,Total coliforms,1300
+2011/6/30,Total coliforms,490
+2011/7/13,Total coliforms,24
+2011/8/31,Total coliforms,79
+2011/9/28,Total coliforms,2400
+2011/10/26,Total coliforms,1300
+2011/11/23,Total coliforms,240
+2011/12/7,Total coliforms,79
+2012/1/25,Total coliforms,7.9
+2012/2/23,Total coliforms,49
+2012/3/29,Total coliforms,33
+2012/4/27,Total coliforms,13
+2012/5/25,Total coliforms,790
+2012/6/21,Total coliforms,790
+2012/7/26,Total coliforms,240
+2012/8/23,Total coliforms,1100
+2012/9/20,Total coliforms,1700
+2012/10/25,Total coliforms,340
+2012/11/24,Total coliforms,270
+2012/12/15,Total coliforms,170
+2013/1/25,Total coliforms,130
+2013/2/22,Total coliforms,170
+2013/3/15,Total coliforms,130
+2013/4/19,Total coliforms,170
+2013/5/23,Total coliforms,490
+2013/6/27,Total coliforms,1300
+2013/7/25,Total coliforms,2400
+2013/8/22,Total coliforms,33
+2013/9/26,Total coliforms,240

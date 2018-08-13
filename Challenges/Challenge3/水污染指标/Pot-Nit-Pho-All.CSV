@@ -1,0 +1,4767 @@
+spot,sampleTime,name,value
+Achara,2014/1/16,Potassium,4
+Achara,2014/4/18,Potassium,2.6
+Achara,2014/6/20,Potassium,2.4
+Achara,2014/8/16,Potassium,3.4
+Achara,2014/10/17,Potassium,4
+Achara,2014/12/12,Potassium,4.2
+Achara,2015/2/21,Potassium,2.6
+Achara,2015/4/18,Potassium,2.1
+Achara,2015/6/20,Potassium,3.2
+Achara,2015/8/22,Potassium,3.3
+Achara,2015/10/16,Potassium,4
+Achara,2015/12/9,Potassium,3.1
+Achara,2016/2/12,Potassium,2.3
+Achara,2016/4/16,Potassium,2.6
+Achara,2016/6/11,Potassium,2.6
+Achara,2016/8/20,Potassium,2.2
+Achara,2016/10/22,Potassium,2.6
+Achara,2016/12/10,Potassium,2.5
+Achara,2009/1/15,Total nitrogen,1.99
+Achara,2009/2/13,Total nitrogen,1.05
+Achara,2009/3/19,Total nitrogen,0.9
+Achara,2009/4/17,Total nitrogen,1.53
+Achara,2009/5/17,Total nitrogen,2.85
+Achara,2009/6/12,Total nitrogen,1.26
+Achara,2009/7/11,Total nitrogen,0.9
+Achara,2009/8/13,Total nitrogen,2.64
+Achara,2009/9/10,Total nitrogen,2.7
+Achara,2009/10/11,Total nitrogen,2.14
+Achara,2009/11/19,Total nitrogen,2.8
+Achara,2009/12/10,Total nitrogen,1.26
+Achara,2010/1/16,Total nitrogen,1.82
+Achara,2010/2/11,Total nitrogen,1.33
+Achara,2010/2/20,Total nitrogen,0.96
+Achara,2010/3/13,Total nitrogen,2.76
+Achara,2010/3/19,Total nitrogen,1.48
+Achara,2010/4/7,Total nitrogen,1.57
+Achara,2010/4/8,Total nitrogen,1.59
+Achara,2010/4/10,Total nitrogen,2.52
+Achara,2010/4/16,Total nitrogen,2.47
+Achara,2010/5/15,Total nitrogen,1.18
+Achara,2010/5/20,Total nitrogen,1.89
+Achara,2010/6/17,Total nitrogen,1.54
+Achara,2010/6/30,Total nitrogen,1.4
+Achara,2010/7/8,Total nitrogen,1.46
+Achara,2010/7/16,Total nitrogen,2.71
+Achara,2010/8/12,Total nitrogen,2.8
+Achara,2010/8/18,Total nitrogen,2.37
+Achara,2010/9/9,Total nitrogen,2.97
+Achara,2010/9/17,Total nitrogen,2.62
+Achara,2010/10/14,Total nitrogen,5.67
+Achara,2010/10/16,Total nitrogen,4.79
+Achara,2010/10/22,Total nitrogen,3.58
+Achara,2010/11/19,Total nitrogen,2.43
+Achara,2010/12/10,Total nitrogen,1.56
+Achara,2010/12/11,Total nitrogen,1.43
+Achara,2011/1/21,Total nitrogen,1.43
+Achara,2011/1/22,Total nitrogen,1.67
+Achara,2011/2/11,Total nitrogen,1.45
+Achara,2011/2/18,Total nitrogen,1.67
+Achara,2011/3/18,Total nitrogen,1.59
+Achara,2011/3/31,Total nitrogen,1.29
+Achara,2011/4/16,Total nitrogen,1.69
+Achara,2011/4/22,Total nitrogen,2.19
+Achara,2011/5/13,Total nitrogen,1.17
+Achara,2011/5/27,Total nitrogen,1.72
+Achara,2011/6/11,Total nitrogen,2.15
+Achara,2011/6/17,Total nitrogen,2.21
+Achara,2011/7/9,Total nitrogen,1
+Achara,2011/7/14,Total nitrogen,1.5
+Achara,2011/8/4,Total nitrogen,1.61
+Achara,2011/8/11,Total nitrogen,1.8
+Achara,2011/9/14,Total nitrogen,1.25
+Achara,2011/9/28,Total nitrogen,1.28
+Achara,2011/10/8,Total nitrogen,0
+Achara,2011/10/13,Total nitrogen,1.47
+Achara,2011/11/11,Total nitrogen,1.72
+Achara,2011/11/26,Total nitrogen,1.75
+Achara,2011/12/10,Total nitrogen,2.45
+Achara,2011/12/15,Total nitrogen,0
+Achara,2012/1/20,Total nitrogen,1.65
+Achara,2012/1/21,Total nitrogen,1.45
+Achara,2012/2/10,Total nitrogen,1.6
+Achara,2012/2/17,Total nitrogen,1.65
+Achara,2012/3/15,Total nitrogen,2.43
+Achara,2012/3/17,Total nitrogen,1.61
+Achara,2012/4/21,Total nitrogen,1.06
+Achara,2012/4/29,Total nitrogen,1.94
+Achara,2012/5/19,Total nitrogen,1.398
+Achara,2012/5/27,Total nitrogen,1.09
+Achara,2012/6/16,Total nitrogen,1.31
+Achara,2012/6/28,Total nitrogen,1.17
+Achara,2012/7/8,Total nitrogen,1.83
+Achara,2012/7/21,Total nitrogen,1.14
+Achara,2012/8/16,Total nitrogen,1.11
+Achara,2012/8/26,Total nitrogen,1
+Achara,2012/9/21,Total nitrogen,1
+Achara,2012/9/27,Total nitrogen,1.14
+Achara,2012/10/18,Total nitrogen,1.12
+Achara,2012/10/21,Total nitrogen,1.28
+Achara,2012/11/16,Total nitrogen,1.44
+Achara,2012/11/22,Total nitrogen,1
+Achara,2012/12/7,Total nitrogen,1
+Achara,2012/12/10,Total nitrogen,1
+Achara,2013/1/17,Total nitrogen,1.88
+Achara,2013/2/15,Total nitrogen,1.18
+Achara,2013/3/14,Total nitrogen,1.57
+Achara,2013/4/12,Total nitrogen,1.16
+Achara,2013/5/16,Total nitrogen,1.07
+Achara,2013/6/14,Total nitrogen,1.23
+Achara,2013/7/18,Total nitrogen,1.41
+Achara,2013/8/16,Total nitrogen,0.52
+Achara,2013/9/21,Total nitrogen,0.98
+Achara,2013/10/18,Total nitrogen,2.09
+Achara,2013/11/15,Total nitrogen,2.03
+Achara,2013/12/13,Total nitrogen,2.26
+Achara,2014/1/16,Total nitrogen,2
+Achara,2014/2/15,Total nitrogen,1.87
+Achara,2014/3/19,Total nitrogen,1.41
+Achara,2014/4/18,Total nitrogen,1.79
+Achara,2014/5/16,Total nitrogen,1.09
+Achara,2014/6/20,Total nitrogen,1.02
+Achara,2014/7/18,Total nitrogen,1.72
+Achara,2014/8/16,Total nitrogen,1.56
+Achara,2014/9/19,Total nitrogen,2.84
+Achara,2014/10/17,Total nitrogen,1.98
+Achara,2014/11/21,Total nitrogen,2.33
+Achara,2014/12/12,Total nitrogen,1.99
+Achara,2015/1/17,Total nitrogen,2.16
+Achara,2015/2/21,Total nitrogen,1.43
+Achara,2015/3/13,Total nitrogen,1.13
+Achara,2015/4/18,Total nitrogen,1.62
+Achara,2015/5/15,Total nitrogen,2.07
+Achara,2015/6/20,Total nitrogen,1.26
+Achara,2015/7/16,Total nitrogen,0.99
+Achara,2015/8/22,Total nitrogen,2.06
+Achara,2015/9/18,Total nitrogen,1.48
+Achara,2015/10/16,Total nitrogen,2.05
+Achara,2015/11/20,Total nitrogen,1.01
+Achara,2015/12/9,Total nitrogen,1.61
+Achara,2016/1/15,Total nitrogen,1.24
+Achara,2016/2/12,Total nitrogen,1.19
+Achara,2016/3/12,Total nitrogen,1.18
+Achara,2016/4/16,Total nitrogen,1.14
+Achara,2016/5/13,Total nitrogen,1.67
+Achara,2016/6/11,Total nitrogen,1.29
+Achara,2016/7/16,Total nitrogen,0.95
+Achara,2016/8/20,Total nitrogen,0.63
+Achara,2016/9/16,Total nitrogen,1.28
+Achara,2016/10/22,Total nitrogen,0.93
+Achara,2016/11/19,Total nitrogen,1.27
+Achara,2016/12/10,Total nitrogen,1.35
+Achara,2009/1/15,Total phosphorus,0.13
+Achara,2009/2/13,Total phosphorus,0.05
+Achara,2009/3/19,Total phosphorus,0.05
+Achara,2009/4/17,Total phosphorus,0.13
+Achara,2009/5/17,Total phosphorus,0.32
+Achara,2009/6/12,Total phosphorus,0.2
+Achara,2009/7/11,Total phosphorus,0.17
+Achara,2009/8/13,Total phosphorus,0.2
+Achara,2009/9/10,Total phosphorus,0.28
+Achara,2009/10/11,Total phosphorus,0.16
+Achara,2009/11/19,Total phosphorus,0.28
+Achara,2009/12/10,Total phosphorus,0.11
+Achara,2010/1/16,Total phosphorus,0.24
+Achara,2010/2/11,Total phosphorus,0.2
+Achara,2010/2/20,Total phosphorus,0.12
+Achara,2010/2/21,Total phosphorus,0.13
+Achara,2010/3/13,Total phosphorus,0.33
+Achara,2010/3/19,Total phosphorus,0.12
+Achara,2010/4/7,Total phosphorus,0.14
+Achara,2010/4/8,Total phosphorus,0.16
+Achara,2010/4/10,Total phosphorus,0.25
+Achara,2010/4/16,Total phosphorus,0.29
+Achara,2010/5/15,Total phosphorus,0.15
+Achara,2010/5/20,Total phosphorus,0.36
+Achara,2010/6/17,Total phosphorus,0.17
+Achara,2010/6/30,Total phosphorus,0.13
+Achara,2010/7/8,Total phosphorus,0.2
+Achara,2010/7/16,Total phosphorus,0.45
+Achara,2010/8/12,Total phosphorus,0.32
+Achara,2010/8/18,Total phosphorus,0.55
+Achara,2010/9/9,Total phosphorus,0.58
+Achara,2010/9/17,Total phosphorus,0.82
+Achara,2010/10/14,Total phosphorus,0.69
+Achara,2010/10/16,Total phosphorus,0.77
+Achara,2010/10/22,Total phosphorus,0.17
+Achara,2010/11/13,Total phosphorus,0.3
+Achara,2010/11/19,Total phosphorus,0.57
+Achara,2010/12/10,Total phosphorus,0.22
+Achara,2010/12/11,Total phosphorus,0.31
+Achara,2011/1/21,Total phosphorus,0.075
+Achara,2011/1/22,Total phosphorus,0.12
+Achara,2011/2/11,Total phosphorus,0.056
+Achara,2011/2/18,Total phosphorus,0.157
+Achara,2011/3/18,Total phosphorus,0.102
+Achara,2011/3/31,Total phosphorus,0.066
+Achara,2011/4/16,Total phosphorus,0.279
+Achara,2011/4/22,Total phosphorus,0.11
+Achara,2011/5/13,Total phosphorus,0.276
+Achara,2011/5/27,Total phosphorus,0.194
+Achara,2011/6/11,Total phosphorus,0.105
+Achara,2011/6/17,Total phosphorus,0.256
+Achara,2011/7/9,Total phosphorus,0.16
+Achara,2011/7/14,Total phosphorus,0.11
+Achara,2011/8/4,Total phosphorus,0.285
+Achara,2011/8/11,Total phosphorus,0.174
+Achara,2011/9/14,Total phosphorus,0.124
+Achara,2011/9/28,Total phosphorus,0.103
+Achara,2011/10/8,Total phosphorus,0.062
+Achara,2011/10/13,Total phosphorus,0.148
+Achara,2011/11/11,Total phosphorus,0.094
+Achara,2011/11/26,Total phosphorus,0.226
+Achara,2011/12/10,Total phosphorus,0.08
+Achara,2011/12/15,Total phosphorus,0.07
+Achara,2012/1/20,Total phosphorus,0.089
+Achara,2012/1/21,Total phosphorus,0.078
+Achara,2012/2/10,Total phosphorus,0.089
+Achara,2012/2/17,Total phosphorus,0.033
+Achara,2012/3/15,Total phosphorus,0.072
+Achara,2012/3/17,Total phosphorus,0.022
+Achara,2012/4/21,Total phosphorus,0.077
+Achara,2012/4/29,Total phosphorus,0.128
+Achara,2012/5/19,Total phosphorus,0.119
+Achara,2012/5/27,Total phosphorus,0.107
+Achara,2012/6/16,Total phosphorus,0.293
+Achara,2012/6/28,Total phosphorus,0.149
+Achara,2012/7/8,Total phosphorus,0.221
+Achara,2012/7/21,Total phosphorus,0.022
+Achara,2012/8/16,Total phosphorus,0.07
+Achara,2012/8/26,Total phosphorus,0.105
+Achara,2012/9/21,Total phosphorus,0.067
+Achara,2012/9/27,Total phosphorus,0.252
+Achara,2012/10/18,Total phosphorus,0.095
+Achara,2012/10/21,Total phosphorus,0.114
+Achara,2012/11/16,Total phosphorus,0.138
+Achara,2012/11/22,Total phosphorus,0.105
+Achara,2012/12/7,Total phosphorus,0.091
+Achara,2012/12/10,Total phosphorus,0.445
+Achara,2013/1/17,Total phosphorus,0.114
+Achara,2013/2/15,Total phosphorus,0.042
+Achara,2013/3/14,Total phosphorus,0.037
+Achara,2013/4/12,Total phosphorus,0.024
+Achara,2013/5/16,Total phosphorus,0.06
+Achara,2013/6/14,Total phosphorus,0.112
+Achara,2013/7/18,Total phosphorus,0.084
+Achara,2013/8/16,Total phosphorus,0.028
+Achara,2013/9/21,Total phosphorus,0.05
+Achara,2013/10/18,Total phosphorus,0.051
+Achara,2013/11/15,Total phosphorus,0.094
+Achara,2013/12/13,Total phosphorus,0.054
+Achara,2014/1/16,Total phosphorus,0.108
+Achara,2014/2/15,Total phosphorus,0.046
+Achara,2014/3/19,Total phosphorus,0.023
+Achara,2014/4/18,Total phosphorus,0.075
+Achara,2014/5/16,Total phosphorus,0.027
+Achara,2014/6/20,Total phosphorus,0.031
+Achara,2014/7/18,Total phosphorus,0.055
+Achara,2014/8/16,Total phosphorus,0.036
+Achara,2014/9/19,Total phosphorus,0.039
+Achara,2014/10/17,Total phosphorus,0.082
+Achara,2014/11/21,Total phosphorus,0.037
+Achara,2014/12/12,Total phosphorus,0.029
+Achara,2015/1/17,Total phosphorus,0.046
+Achara,2015/2/21,Total phosphorus,0.045
+Achara,2015/3/13,Total phosphorus,0.03
+Achara,2015/4/18,Total phosphorus,0.051
+Achara,2015/5/15,Total phosphorus,0.022
+Achara,2015/7/16,Total phosphorus,0.031
+Achara,2015/8/22,Total phosphorus,0.094
+Achara,2015/9/18,Total phosphorus,0.15
+Achara,2015/10/16,Total phosphorus,0.046
+Achara,2015/11/20,Total phosphorus,0.037
+Achara,2015/12/9,Total phosphorus,0.025
+Achara,2016/1/15,Total phosphorus,0.037
+Achara,2016/2/12,Total phosphorus,0.022
+Achara,2016/3/12,Total phosphorus,0.029
+Achara,2016/4/16,Total phosphorus,0.12
+Achara,2016/5/13,Total phosphorus,0.071
+Achara,2016/6/11,Total phosphorus,0.043
+Achara,2016/7/16,Total phosphorus,0.061
+Achara,2016/8/20,Total phosphorus,0.062
+Achara,2016/9/16,Total phosphorus,0.061
+Achara,2016/10/22,Total phosphorus,0.04
+Achara,2016/11/19,Total phosphorus,0.24
+Achara,2016/12/10,Total phosphorus,0.08
+Boonsri,1998/1/11,Potassium,3.5
+Boonsri,1998/2/15,Potassium,3.2
+Boonsri,1998/3/12,Potassium,3.7
+Boonsri,1998/4/11,Potassium,3.4
+Boonsri,1998/5/9,Potassium,3.5
+Boonsri,1998/6/6,Potassium,3.39
+Boonsri,1998/7/11,Potassium,2.4
+Boonsri,1998/8/8,Potassium,2.8
+Boonsri,1998/9/5,Potassium,2.6
+Boonsri,1998/10/3,Potassium,2.8
+Boonsri,1998/11/7,Potassium,2.9
+Boonsri,1998/12/5,Potassium,2.45
+Boonsri,1999/1/9,Potassium,3.133333333
+Boonsri,1999/2/11,Potassium,2.4
+Boonsri,1999/3/11,Potassium,2.6
+Boonsri,1999/4/16,Potassium,3.3
+Boonsri,1999/5/13,Potassium,2.3
+Boonsri,1999/6/6,Potassium,2.266666667
+Boonsri,1999/7/22,Potassium,2.3
+Boonsri,1999/8/19,Potassium,3.4
+Boonsri,1999/9/16,Potassium,2.4
+Boonsri,1999/10/10,Potassium,3.8
+Boonsri,1999/11/5,Potassium,3.25
+Boonsri,1999/12/9,Potassium,3.05
+Boonsri,2000/1/14,Potassium,2.7
+Boonsri,2000/2/10,Potassium,3.533333333
+Boonsri,2000/3/10,Potassium,2.4
+Boonsri,2000/4/14,Potassium,2.266666667
+Boonsri,2000/5/12,Potassium,2.566666667
+Boonsri,2000/6/9,Potassium,2.666666667
+Boonsri,2000/7/14,Potassium,2.133333333
+Boonsri,2000/8/17,Potassium,3.9
+Boonsri,2000/9/8,Potassium,2.2
+Boonsri,2000/10/6,Potassium,3.033333333
+Boonsri,2000/11/10,Potassium,2.466666667
+Boonsri,2000/12/8,Potassium,2.766666667
+Boonsri,2001/1/20,Potassium,2.6
+Boonsri,2001/3/10,Potassium,2.733333333
+Boonsri,2001/4/19,Potassium,2.933333333
+Boonsri,2001/5/4,Potassium,3.066666667
+Boonsri,2001/6/6,Potassium,3.166666667
+Boonsri,2001/7/27,Potassium,3.19
+Boonsri,2001/8/4,Potassium,4.266666667
+Boonsri,2001/9/14,Potassium,3.733333333
+Boonsri,2001/10/12,Potassium,4.25
+Boonsri,2002/6/13,Potassium,3.266666667
+Boonsri,2003/7/10,Potassium,2.933333333
+Boonsri,2003/7/25,Potassium,3.333333333
+Boonsri,2003/8/7,Potassium,2.833333333
+Boonsri,2003/9/5,Potassium,2.8
+Boonsri,2003/10/9,Potassium,3
+Boonsri,2003/10/23,Potassium,3.666666667
+Boonsri,2003/11/13,Potassium,3.333333333
+Boonsri,2003/11/27,Potassium,2.333333333
+Boonsri,2003/12/4,Potassium,2.333333333
+Boonsri,2003/12/18,Potassium,3
+Boonsri,2004/1/8,Potassium,3
+Boonsri,2004/1/29,Potassium,3
+Boonsri,2004/2/12,Potassium,3
+Boonsri,2004/2/26,Potassium,3
+Boonsri,2004/3/12,Potassium,3
+Boonsri,2004/3/26,Potassium,2.666666667
+Boonsri,2004/4/9,Potassium,3
+Boonsri,2004/4/23,Potassium,2.333333333
+Boonsri,2004/5/28,Potassium,2
+Boonsri,2004/6/11,Potassium,2
+Boonsri,2004/6/25,Potassium,2.666666667
+Boonsri,2004/7/9,Potassium,2.333333333
+Boonsri,2004/7/23,Potassium,2
+Boonsri,2004/8/13,Potassium,3
+Boonsri,2004/8/27,Potassium,4
+Boonsri,2004/9/10,Potassium,3
+Boonsri,2004/9/24,Potassium,3.333333333
+Boonsri,2004/10/8,Potassium,2
+Boonsri,2004/10/22,Potassium,2.666666667
+Boonsri,2004/11/5,Potassium,3
+Boonsri,2004/11/26,Potassium,3
+Boonsri,2004/12/3,Potassium,3.666666667
+Boonsri,2004/12/17,Potassium,2
+Boonsri,2005/1/14,Potassium,3
+Boonsri,2005/1/28,Potassium,3
+Boonsri,2005/2/11,Potassium,2.333333333
+Boonsri,2005/2/24,Potassium,3
+Boonsri,2005/3/11,Potassium,2.333333333
+Boonsri,2005/3/25,Potassium,3
+Boonsri,2005/4/8,Potassium,3
+Boonsri,2005/4/22,Potassium,3
+Boonsri,2005/5/13,Potassium,1.666666667
+Boonsri,2005/5/28,Potassium,2
+Boonsri,2005/6/10,Potassium,2
+Boonsri,2005/6/24,Potassium,3
+Boonsri,2005/7/8,Potassium,2
+Boonsri,2005/7/22,Potassium,2
+Boonsri,2005/8/12,Potassium,3
+Boonsri,2005/8/26,Potassium,3
+Boonsri,2005/9/9,Potassium,3
+Boonsri,2005/9/23,Potassium,2.333333333
+Boonsri,2005/10/2,Potassium,2.333333333
+Boonsri,2005/10/21,Potassium,3
+Boonsri,2005/11/6,Potassium,3.333333333
+Boonsri,2005/11/25,Potassium,3.333333333
+Boonsri,2005/12/2,Potassium,2
+Boonsri,2005/12/16,Potassium,3
+Boonsri,2006/1/13,Potassium,2
+Boonsri,2006/1/27,Potassium,3
+Boonsri,2006/2/10,Potassium,3
+Boonsri,2006/2/24,Potassium,2
+Boonsri,2006/3/9,Potassium,3
+Boonsri,2006/3/23,Potassium,2
+Boonsri,2006/4/6,Potassium,2
+Boonsri,2006/4/27,Potassium,2.333333333
+Boonsri,2006/5/3,Potassium,3
+Boonsri,2006/5/25,Potassium,2.666666667
+Boonsri,2006/6/8,Potassium,2
+Boonsri,2006/6/22,Potassium,2
+Boonsri,2006/7/13,Potassium,2
+Boonsri,2006/7/27,Potassium,2.666666667
+Boonsri,2006/8/10,Potassium,3
+Boonsri,2006/8/24,Potassium,2
+Boonsri,2006/9/7,Potassium,1
+Boonsri,2006/9/21,Potassium,2
+Boonsri,2006/10/12,Potassium,3
+Boonsri,2006/10/26,Potassium,2.666666667
+Boonsri,2006/11/9,Potassium,2
+Boonsri,2006/11/23,Potassium,2.666666667
+Boonsri,2006/12/7,Potassium,2
+Boonsri,2006/12/21,Potassium,2.333333333
+Boonsri,2007/1/11,Potassium,3
+Boonsri,2007/1/25,Potassium,3
+Boonsri,2007/2/8,Potassium,3
+Boonsri,2007/2/22,Potassium,3
+Boonsri,2007/3/9,Potassium,3
+Boonsri,2007/3/22,Potassium,3
+Boonsri,2007/4/6,Potassium,3
+Boonsri,2007/4/19,Potassium,3
+Boonsri,2007/5/10,Potassium,3
+Boonsri,2007/5/24,Potassium,2.666666667
+Boonsri,2007/6/7,Potassium,2
+Boonsri,2007/6/21,Potassium,1
+Boonsri,2007/7/5,Potassium,1
+Boonsri,2007/7/19,Potassium,1
+Boonsri,2007/8/23,Potassium,1
+Boonsri,2007/9/20,Potassium,3
+Boonsri,2007/10/25,Potassium,3
+Boonsri,2007/11/15,Potassium,3
+Boonsri,2007/11/22,Potassium,2.333333333
+Boonsri,2007/12/20,Potassium,3
+Boonsri,2008/1/10,Potassium,3
+Boonsri,2008/1/24,Potassium,3
+Boonsri,2008/2/6,Potassium,3
+Boonsri,2008/2/21,Potassium,4
+Boonsri,2008/3/21,Potassium,3
+Boonsri,2008/5/16,Potassium,2.666666667
+Boonsri,2008/6/20,Potassium,2.666666667
+Boonsri,2008/7/11,Potassium,3.333333333
+Boonsri,2008/7/25,Potassium,2.333333333
+Boonsri,2008/8/3,Potassium,2
+Boonsri,2008/8/10,Potassium,2
+Boonsri,2008/8/22,Potassium,2.666666667
+Boonsri,2008/8/28,Potassium,2.666666667
+Boonsri,2008/9/5,Potassium,2.666666667
+Boonsri,2008/9/13,Potassium,1
+Boonsri,2008/9/18,Potassium,3
+Boonsri,2008/9/26,Potassium,3
+Boonsri,2008/10/3,Potassium,2.666666667
+Boonsri,2008/10/10,Potassium,3
+Boonsri,2008/10/17,Potassium,3
+Boonsri,2008/10/24,Potassium,3
+Boonsri,2008/11/1,Potassium,3
+Boonsri,2008/11/28,Potassium,3
+Boonsri,2008/12/12,Potassium,2.333333333
+Boonsri,2009/1/11,Potassium,3
+Boonsri,2009/1/29,Potassium,3
+Boonsri,2009/2/14,Potassium,3
+Boonsri,2009/2/27,Potassium,3
+Boonsri,2009/3/6,Potassium,3
+Boonsri,2009/3/19,Potassium,3
+Boonsri,2009/4/12,Potassium,2.666666667
+Boonsri,2009/4/23,Potassium,3
+Boonsri,2009/5/4,Potassium,2
+Boonsri,2009/5/21,Potassium,3
+Boonsri,2009/6/12,Potassium,2
+Boonsri,2009/6/25,Potassium,3
+Boonsri,2009/7/12,Potassium,2
+Boonsri,2009/7/23,Potassium,3
+Boonsri,2009/8/21,Potassium,2.333333333
+Boonsri,2009/9/9,Potassium,3
+Boonsri,2009/10/22,Potassium,3
+Boonsri,2009/11/7,Potassium,2.333333333
+Boonsri,2009/12/13,Potassium,2
+Boonsri,2010/1/28,Potassium,3
+Boonsri,2010/2/18,Potassium,2.333333333
+Boonsri,2010/3/25,Potassium,2
+Boonsri,2010/4/22,Potassium,2
+Boonsri,2010/5/19,Potassium,2
+Boonsri,2010/6/23,Potassium,2.2
+Boonsri,2010/7/24,Potassium,2.433333333
+Boonsri,2010/8/18,Potassium,3.233333333
+Boonsri,2010/9/25,Potassium,2.333333333
+Boonsri,2010/9/29,Potassium,2.666666667
+Boonsri,2010/10/21,Potassium,1.8
+Boonsri,2010/11/18,Potassium,2.966666667
+Boonsri,2010/12/3,Potassium,2.866666667
+Boonsri,2010/12/16,Potassium,2.7
+Boonsri,2011/1/20,Potassium,2.533333333
+Boonsri,2011/6/23,Potassium,2
+Boonsri,2011/7/20,Potassium,3
+Boonsri,2011/8/18,Potassium,2
+Boonsri,2011/9/28,Potassium,2.7
+Boonsri,2011/10/26,Potassium,3
+Boonsri,2011/11/26,Potassium,1.666666667
+Boonsri,2011/12/14,Potassium,2.666666667
+Boonsri,2012/1/26,Potassium,3
+Boonsri,2012/2/15,Potassium,3
+Boonsri,2012/3/24,Potassium,2
+Boonsri,2012/7/20,Potassium,3
+Boonsri,2012/8/23,Potassium,3
+Boonsri,2012/9/23,Potassium,2.666666667
+Boonsri,2012/10/29,Potassium,3
+Boonsri,2012/11/17,Potassium,3
+Boonsri,2012/12/13,Potassium,3
+Boonsri,2013/1/17,Potassium,3.666666667
+Boonsri,2013/2/21,Potassium,3
+Boonsri,2013/3/15,Potassium,3
+Boonsri,2013/4/14,Potassium,3
+Boonsri,2013/5/17,Potassium,3
+Boonsri,2013/6/20,Potassium,3
+Boonsri,2013/7/19,Potassium,3
+Boonsri,2013/8/16,Potassium,2.666666667
+Boonsri,2013/9/26,Potassium,2.666666667
+Boonsri,2013/10/18,Potassium,3
+Boonsri,2013/11/14,Potassium,3
+Boonsri,2013/12/14,Potassium,2
+Boonsri,2014/1/23,Potassium,2.333333333
+Boonsri,2014/2/24,Potassium,2.666666667
+Boonsri,2014/3/15,Potassium,2
+Boonsri,2014/3/20,Potassium,2
+Boonsri,2014/4/11,Potassium,2
+Boonsri,2014/4/23,Potassium,1
+Boonsri,2014/5/16,Potassium,2
+Boonsri,2014/5/22,Potassium,2
+Boonsri,2014/6/14,Potassium,2
+Boonsri,2014/6/21,Potassium,2.333333333
+Boonsri,2014/7/16,Potassium,2.666666667
+Boonsri,2014/7/23,Potassium,2.666666667
+Boonsri,2014/8/1,Potassium,2
+Boonsri,2014/8/27,Potassium,3
+Boonsri,2014/9/10,Potassium,2
+Boonsri,2014/9/17,Potassium,2
+Boonsri,2014/10/23,Potassium,3
+Boonsri,2014/11/19,Potassium,2
+Boonsri,2014/11/27,Potassium,2.666666667
+Boonsri,2014/12/5,Potassium,3
+Boonsri,2014/12/11,Potassium,2.333333333
+Boonsri,2015/1/9,Potassium,2
+Boonsri,2015/2/18,Potassium,2.666666667
+Boonsri,2015/3/19,Potassium,2
+Boonsri,2015/4/22,Potassium,2
+Boonsri,2015/5/15,Potassium,2
+Boonsri,2015/6/17,Potassium,3
+Boonsri,2015/7/16,Potassium,2
+Boonsri,2015/8/20,Potassium,2.333333333
+Boonsri,2015/9/9,Potassium,2
+Boonsri,2015/10/21,Potassium,2
+Boonsri,2015/11/11,Potassium,3
+Boonsri,2015/12/9,Potassium,2.333333333
+Boonsri,2016/1/8,Potassium,2.333333333
+Boonsri,2016/2/17,Potassium,2
+Boonsri,2016/3/17,Potassium,2.666666667
+Boonsri,2016/4/28,Potassium,2.333333333
+Boonsri,2016/5/28,Potassium,3
+Boonsri,2016/6/16,Potassium,3
+Boonsri,2016/7/21,Potassium,2
+Boonsri,2016/8/21,Potassium,2
+Boonsri,2016/9/22,Potassium,2
+Boonsri,2016/10/20,Potassium,2
+Boonsri,2016/11/17,Potassium,2
+Boonsri,2016/12/10,Potassium,2
+Boonsri,2009/4/12,Total nitrogen,1.47
+Boonsri,2009/4/23,Total nitrogen,1.066666667
+Boonsri,2009/5/4,Total nitrogen,1.3
+Boonsri,2009/5/21,Total nitrogen,1.12
+Boonsri,2009/6/12,Total nitrogen,1.05
+Boonsri,2009/6/25,Total nitrogen,1.396666667
+Boonsri,2009/7/12,Total nitrogen,1.09
+Boonsri,2009/7/23,Total nitrogen,1.256666667
+Boonsri,2009/8/21,Total nitrogen,1.09
+Boonsri,2009/9/9,Total nitrogen,1.93
+Boonsri,2009/10/22,Total nitrogen,1.593333333
+Boonsri,2013/4/14,Total nitrogen,1.623333333
+Boonsri,2013/5/17,Total nitrogen,1.33
+Boonsri,2013/6/20,Total nitrogen,1.153333333
+Boonsri,2013/7/19,Total nitrogen,1.513333333
+Boonsri,2013/8/16,Total nitrogen,1.476666667
+Boonsri,2013/9/26,Total nitrogen,1.266666667
+Boonsri,2013/10/18,Total nitrogen,1.66
+Boonsri,2013/11/14,Total nitrogen,1.526666667
+Boonsri,2013/12/14,Total nitrogen,1.57
+Boonsri,2014/1/23,Total nitrogen,2.22
+Boonsri,2014/2/24,Total nitrogen,3.116666667
+Boonsri,2014/3/15,Total nitrogen,2.57
+Boonsri,2014/3/20,Total nitrogen,2.48
+Boonsri,2014/4/11,Total nitrogen,1.21
+Boonsri,2014/5/16,Total nitrogen,1.12
+Boonsri,2014/6/14,Total nitrogen,1.06
+Boonsri,2014/6/21,Total nitrogen,1.06
+Boonsri,2014/7/16,Total nitrogen,1.23
+Boonsri,2014/8/1,Total nitrogen,1.113333333
+Boonsri,2014/8/27,Total nitrogen,1.36
+Boonsri,2014/9/17,Total nitrogen,1.03
+Boonsri,2014/10/11,Total nitrogen,1.4
+Boonsri,2014/10/23,Total nitrogen,1.399
+Boonsri,2014/10/31,Total nitrogen,1.535
+Boonsri,2014/11/12,Total nitrogen,1.336666667
+Boonsri,2014/11/19,Total nitrogen,2.07
+Boonsri,2014/11/27,Total nitrogen,1.435666667
+Boonsri,2014/12/5,Total nitrogen,2.13
+Boonsri,2014/12/11,Total nitrogen,1.75
+Boonsri,2015/1/9,Total nitrogen,1.66
+Boonsri,2015/1/21,Total nitrogen,2.04
+Boonsri,2015/2/12,Total nitrogen,2.186
+Boonsri,2015/2/18,Total nitrogen,2.734333333
+Boonsri,2015/3/5,Total nitrogen,2.096
+Boonsri,2015/3/19,Total nitrogen,2.298
+Boonsri,2015/4/8,Total nitrogen,1.519
+Boonsri,2015/4/22,Total nitrogen,1.352
+Boonsri,2015/5/15,Total nitrogen,1.536333333
+Boonsri,2015/5/28,Total nitrogen,1.365
+Boonsri,2015/6/10,Total nitrogen,1.391666667
+Boonsri,2015/6/17,Total nitrogen,2.130666667
+Boonsri,2015/7/16,Total nitrogen,1.237333333
+Boonsri,2015/7/24,Total nitrogen,0.860666667
+Boonsri,2015/8/1,Total nitrogen,1.323333333
+Boonsri,2015/8/20,Total nitrogen,1.186
+Boonsri,2015/9/9,Total nitrogen,1.607666667
+Boonsri,2015/9/17,Total nitrogen,1.79
+Boonsri,2015/10/9,Total nitrogen,1.604
+Boonsri,2015/10/21,Total nitrogen,1.481333333
+Boonsri,2015/10/28,Total nitrogen,1.434666667
+Boonsri,2015/11/11,Total nitrogen,1.742
+Boonsri,2015/11/18,Total nitrogen,1.956
+Boonsri,2015/11/26,Total nitrogen,1.654333333
+Boonsri,2015/12/3,Total nitrogen,1.61
+Boonsri,2015/12/9,Total nitrogen,1.974666667
+Boonsri,2016/1/8,Total nitrogen,1.936333333
+Boonsri,2016/1/22,Total nitrogen,2.149333333
+Boonsri,2016/2/6,Total nitrogen,2.406
+Boonsri,2016/2/17,Total nitrogen,2.209333333
+Boonsri,2016/3/10,Total nitrogen,2.62
+Boonsri,2016/3/17,Total nitrogen,1.148666667
+Boonsri,2016/4/15,Total nitrogen,1.447
+Boonsri,2016/4/28,Total nitrogen,1.108666667
+Boonsri,2016/5/7,Total nitrogen,0.876
+Boonsri,2016/5/28,Total nitrogen,1.711333333
+Boonsri,2016/6/3,Total nitrogen,0.956
+Boonsri,2016/6/16,Total nitrogen,1.421333333
+Boonsri,2016/7/2,Total nitrogen,0.818666667
+Boonsri,2016/7/21,Total nitrogen,0.954
+Boonsri,2016/8/5,Total nitrogen,1.082666667
+Boonsri,2016/8/21,Total nitrogen,1.344666667
+Boonsri,2016/8/27,Total nitrogen,1.041333333
+Boonsri,2016/9/9,Total nitrogen,1.146
+Boonsri,2016/9/22,Total nitrogen,1.168666667
+Boonsri,2016/10/6,Total nitrogen,1.512
+Boonsri,2016/10/20,Total nitrogen,1.281
+Boonsri,2016/11/5,Total nitrogen,2.426
+Boonsri,2016/11/17,Total nitrogen,2.124
+Boonsri,2016/12/3,Total nitrogen,1.878
+Boonsri,2016/12/10,Total nitrogen,1.63
+Boonsri,1998/1/11,Total phosphorus,0.09
+Boonsri,1998/2/15,Total phosphorus,0.06
+Boonsri,1998/3/12,Total phosphorus,0.08
+Boonsri,1998/4/11,Total phosphorus,0.085
+Boonsri,1998/5/9,Total phosphorus,0.085
+Boonsri,1998/6/6,Total phosphorus,0.07
+Boonsri,1998/7/11,Total phosphorus,0.11
+Boonsri,1998/8/8,Total phosphorus,0.08
+Boonsri,1998/9/5,Total phosphorus,0.135
+Boonsri,1998/10/3,Total phosphorus,0.04
+Boonsri,1998/11/7,Total phosphorus,0.08
+Boonsri,1998/12/5,Total phosphorus,0.105
+Boonsri,1999/1/9,Total phosphorus,0.143333333
+Boonsri,1999/2/11,Total phosphorus,0.103333333
+Boonsri,1999/3/11,Total phosphorus,0.07
+Boonsri,1999/4/16,Total phosphorus,0.08
+Boonsri,1999/5/13,Total phosphorus,0.103333333
+Boonsri,1999/6/6,Total phosphorus,0.1
+Boonsri,1999/7/22,Total phosphorus,0.086666667
+Boonsri,1999/8/19,Total phosphorus,0.08
+Boonsri,1999/9/16,Total phosphorus,0.05
+Boonsri,1999/10/10,Total phosphorus,0.055
+Boonsri,1999/11/5,Total phosphorus,0.11
+Boonsri,1999/12/9,Total phosphorus,0.07
+Boonsri,2000/1/14,Total phosphorus,0.135
+Boonsri,2000/2/10,Total phosphorus,0.13
+Boonsri,2000/3/10,Total phosphorus,0.09
+Boonsri,2000/4/14,Total phosphorus,0.066666667
+Boonsri,2000/5/12,Total phosphorus,0.113333333
+Boonsri,2000/6/9,Total phosphorus,0.103333333
+Boonsri,2000/7/14,Total phosphorus,0.1
+Boonsri,2000/8/17,Total phosphorus,0.106666667
+Boonsri,2000/9/8,Total phosphorus,0.086666667
+Boonsri,2000/10/6,Total phosphorus,0.103333333
+Boonsri,2000/11/10,Total phosphorus,0.116666667
+Boonsri,2000/12/8,Total phosphorus,0.133333333
+Boonsri,2001/1/20,Total phosphorus,0.07
+Boonsri,2001/3/10,Total phosphorus,0.063333333
+Boonsri,2001/4/19,Total phosphorus,0.106666667
+Boonsri,2001/5/4,Total phosphorus,0.05
+Boonsri,2001/6/6,Total phosphorus,0.056666667
+Boonsri,2001/7/27,Total phosphorus,0.083333333
+Boonsri,2001/8/4,Total phosphorus,0.07
+Boonsri,2001/9/14,Total phosphorus,0.073333333
+Boonsri,2001/10/12,Total phosphorus,0.053333333
+Boonsri,2002/2/15,Total phosphorus,0.135
+Boonsri,2002/2/16,Total phosphorus,0.135
+Boonsri,2002/2/17,Total phosphorus,0.165
+Boonsri,2002/3/21,Total phosphorus,0.143333333
+Boonsri,2002/4/25,Total phosphorus,0.163333333
+Boonsri,2002/5/9,Total phosphorus,0.173333333
+Boonsri,2002/5/23,Total phosphorus,0.093333333
+Boonsri,2002/6/13,Total phosphorus,0.136666667
+Boonsri,2002/6/27,Total phosphorus,0.15
+Boonsri,2002/7/12,Total phosphorus,0.133333333
+Boonsri,2002/7/25,Total phosphorus,0.11
+Boonsri,2002/8/8,Total phosphorus,0.163333333
+Boonsri,2002/8/22,Total phosphorus,0.143333333
+Boonsri,2002/9/12,Total phosphorus,0.13
+Boonsri,2002/9/19,Total phosphorus,0.113333333
+Boonsri,2002/9/27,Total phosphorus,0.053333333
+Boonsri,2002/10/10,Total phosphorus,0.23
+Boonsri,2002/10/24,Total phosphorus,0.216666667
+Boonsri,2002/11/7,Total phosphorus,0.23
+Boonsri,2002/11/21,Total phosphorus,0.146666667
+Boonsri,2002/12/12,Total phosphorus,0.18
+Boonsri,2002/12/19,Total phosphorus,0.19
+Boonsri,2003/4/10,Total phosphorus,0.115666667
+Boonsri,2003/4/24,Total phosphorus,0.144333333
+Boonsri,2003/5/8,Total phosphorus,0.14
+Boonsri,2003/6/6,Total phosphorus,0.18
+Boonsri,2003/6/19,Total phosphorus,0.093
+Boonsri,2003/7/10,Total phosphorus,0.061
+Boonsri,2003/7/25,Total phosphorus,0.126333333
+Boonsri,2003/8/7,Total phosphorus,0.143333333
+Boonsri,2003/9/5,Total phosphorus,0.143333333
+Boonsri,2003/10/9,Total phosphorus,0.087
+Boonsri,2003/10/23,Total phosphorus,0.126666667
+Boonsri,2003/11/13,Total phosphorus,0.095666667
+Boonsri,2003/11/27,Total phosphorus,0.081
+Boonsri,2003/12/4,Total phosphorus,0.125
+Boonsri,2003/12/18,Total phosphorus,0.19
+Boonsri,2004/1/8,Total phosphorus,0
+Boonsri,2004/1/29,Total phosphorus,0.102
+Boonsri,2004/2/12,Total phosphorus,0.073666667
+Boonsri,2004/2/26,Total phosphorus,0.108333333
+Boonsri,2004/3/12,Total phosphorus,0.136666667
+Boonsri,2004/3/26,Total phosphorus,0.176666667
+Boonsri,2004/4/9,Total phosphorus,0.065333333
+Boonsri,2004/4/23,Total phosphorus,0.053333333
+Boonsri,2004/5/7,Total phosphorus,0.058666667
+Boonsri,2004/5/28,Total phosphorus,0.083333333
+Boonsri,2004/6/11,Total phosphorus,0.045666667
+Boonsri,2004/6/25,Total phosphorus,0.103333333
+Boonsri,2004/7/9,Total phosphorus,0.053666667
+Boonsri,2004/7/23,Total phosphorus,0.066
+Boonsri,2004/8/13,Total phosphorus,0.046333333
+Boonsri,2004/8/27,Total phosphorus,0.027
+Boonsri,2004/9/10,Total phosphorus,0.085
+Boonsri,2004/9/24,Total phosphorus,0.031333333
+Boonsri,2004/10/8,Total phosphorus,0.051
+Boonsri,2004/10/22,Total phosphorus,0.051666667
+Boonsri,2004/11/5,Total phosphorus,0.091666667
+Boonsri,2004/11/26,Total phosphorus,0.115
+Boonsri,2004/12/3,Total phosphorus,0.136666667
+Boonsri,2004/12/17,Total phosphorus,0.128
+Boonsri,2005/1/14,Total phosphorus,0.106666667
+Boonsri,2005/1/28,Total phosphorus,0.094333333
+Boonsri,2005/2/11,Total phosphorus,0.11
+Boonsri,2005/2/24,Total phosphorus,0.091333333
+Boonsri,2005/3/11,Total phosphorus,0.075
+Boonsri,2005/3/25,Total phosphorus,0.086666667
+Boonsri,2005/4/8,Total phosphorus,0.052666667
+Boonsri,2005/4/22,Total phosphorus,0.066666667
+Boonsri,2005/5/13,Total phosphorus,0.059
+Boonsri,2005/5/28,Total phosphorus,0.071666667
+Boonsri,2005/6/10,Total phosphorus,0.060666667
+Boonsri,2005/6/24,Total phosphorus,0.075
+Boonsri,2005/7/8,Total phosphorus,0.103333333
+Boonsri,2005/7/22,Total phosphorus,0.076
+Boonsri,2005/8/12,Total phosphorus,0.106
+Boonsri,2005/8/26,Total phosphorus,0.078333333
+Boonsri,2005/9/9,Total phosphorus,0.1
+Boonsri,2005/9/23,Total phosphorus,0.103333333
+Boonsri,2005/10/2,Total phosphorus,0.126666667
+Boonsri,2005/10/21,Total phosphorus,0.123333333
+Boonsri,2005/11/6,Total phosphorus,0.083333333
+Boonsri,2005/11/25,Total phosphorus,0.079666667
+Boonsri,2005/12/2,Total phosphorus,0.101666667
+Boonsri,2005/12/16,Total phosphorus,0.096666667
+Boonsri,2006/1/13,Total phosphorus,0.090333333
+Boonsri,2006/1/27,Total phosphorus,0.28
+Boonsri,2006/2/10,Total phosphorus,0.256666667
+Boonsri,2006/2/24,Total phosphorus,0.125
+Boonsri,2006/3/9,Total phosphorus,0.166666667
+Boonsri,2006/3/23,Total phosphorus,0.074333333
+Boonsri,2006/4/6,Total phosphorus,0.103333333
+Boonsri,2006/4/27,Total phosphorus,0.027333333
+Boonsri,2006/5/3,Total phosphorus,0.058333333
+Boonsri,2006/5/25,Total phosphorus,0.073333333
+Boonsri,2006/6/8,Total phosphorus,0.071
+Boonsri,2006/6/22,Total phosphorus,0.064666667
+Boonsri,2006/7/13,Total phosphorus,0.052333333
+Boonsri,2006/7/27,Total phosphorus,0.077333333
+Boonsri,2006/8/10,Total phosphorus,0.103
+Boonsri,2006/8/24,Total phosphorus,0.101333333
+Boonsri,2006/9/7,Total phosphorus,0.087333333
+Boonsri,2006/9/21,Total phosphorus,0.109333333
+Boonsri,2006/10/12,Total phosphorus,0.22
+Boonsri,2006/10/26,Total phosphorus,0.163333333
+Boonsri,2006/11/9,Total phosphorus,0.19
+Boonsri,2006/11/23,Total phosphorus,0.146666667
+Boonsri,2006/12/7,Total phosphorus,0.193333333
+Boonsri,2006/12/21,Total phosphorus,0.15
+Boonsri,2007/1/11,Total phosphorus,0.14
+Boonsri,2007/1/25,Total phosphorus,0.173333333
+Boonsri,2007/2/8,Total phosphorus,0.13
+Boonsri,2007/2/22,Total phosphorus,0.18
+Boonsri,2007/3/9,Total phosphorus,0.150666667
+Boonsri,2007/3/22,Total phosphorus,0.235333333
+Boonsri,2007/4/6,Total phosphorus,0.116666667
+Boonsri,2007/4/19,Total phosphorus,1.06
+Boonsri,2007/5/10,Total phosphorus,0.14
+Boonsri,2007/5/24,Total phosphorus,0.156666667
+Boonsri,2007/6/7,Total phosphorus,0.173333333
+Boonsri,2007/6/21,Total phosphorus,0.07
+Boonsri,2007/7/5,Total phosphorus,0.17
+Boonsri,2007/7/19,Total phosphorus,0.15
+Boonsri,2007/8/23,Total phosphorus,0.093333333
+Boonsri,2007/9/20,Total phosphorus,0.17
+Boonsri,2007/10/25,Total phosphorus,0.3261
+Boonsri,2007/11/15,Total phosphorus,0.045
+Boonsri,2007/11/22,Total phosphorus,0.099666667
+Boonsri,2007/12/20,Total phosphorus,0.253333333
+Boonsri,2008/1/10,Total phosphorus,0.186666667
+Boonsri,2008/1/24,Total phosphorus,0.01
+Boonsri,2008/2/6,Total phosphorus,0.3
+Boonsri,2008/2/21,Total phosphorus,0.23
+Boonsri,2008/3/21,Total phosphorus,0.23
+Boonsri,2008/5/16,Total phosphorus,0.063333333
+Boonsri,2008/6/20,Total phosphorus,0.025
+Boonsri,2008/7/11,Total phosphorus,0.105
+Boonsri,2008/7/25,Total phosphorus,0.049666667
+Boonsri,2008/8/3,Total phosphorus,0.046666667
+Boonsri,2008/8/10,Total phosphorus,0.024666667
+Boonsri,2008/8/22,Total phosphorus,0.022333333
+Boonsri,2008/8/28,Total phosphorus,0.051666667
+Boonsri,2008/9/5,Total phosphorus,0.156666667
+Boonsri,2008/9/13,Total phosphorus,0.062
+Boonsri,2008/9/18,Total phosphorus,0.13
+Boonsri,2008/9/26,Total phosphorus,0.15
+Boonsri,2008/10/3,Total phosphorus,0.041666667
+Boonsri,2008/10/10,Total phosphorus,0.076333333
+Boonsri,2008/10/17,Total phosphorus,0.022666667
+Boonsri,2008/10/24,Total phosphorus,0.12
+Boonsri,2008/11/1,Total phosphorus,0.066666667
+Boonsri,2008/11/28,Total phosphorus,0.071333333
+Boonsri,2008/12/12,Total phosphorus,0.12
+Boonsri,2009/1/11,Total phosphorus,0.038
+Boonsri,2009/1/29,Total phosphorus,0.035
+Boonsri,2009/2/14,Total phosphorus,0.075
+Boonsri,2009/2/27,Total phosphorus,0.205
+Boonsri,2009/3/6,Total phosphorus,0.183333333
+Boonsri,2009/3/19,Total phosphorus,0.032333333
+Boonsri,2009/4/12,Total phosphorus,0.111
+Boonsri,2009/4/23,Total phosphorus,0.081333333
+Boonsri,2009/5/4,Total phosphorus,0.027333333
+Boonsri,2009/5/21,Total phosphorus,0.058666667
+Boonsri,2009/6/12,Total phosphorus,0.087666667
+Boonsri,2009/6/25,Total phosphorus,0.066333333
+Boonsri,2009/7/12,Total phosphorus,0.041
+Boonsri,2009/7/23,Total phosphorus,0.021
+Boonsri,2009/8/21,Total phosphorus,0.098333333
+Boonsri,2009/9/9,Total phosphorus,0.073
+Boonsri,2009/10/22,Total phosphorus,0.096666667
+Boonsri,2009/11/7,Total phosphorus,0.124
+Boonsri,2009/12/13,Total phosphorus,0.079333333
+Boonsri,2010/1/28,Total phosphorus,0.1
+Boonsri,2010/2/18,Total phosphorus,0.106333333
+Boonsri,2010/3/25,Total phosphorus,0.993333333
+Boonsri,2010/4/22,Total phosphorus,0.071333333
+Boonsri,2010/5/19,Total phosphorus,0.373333333
+Boonsri,2010/6/23,Total phosphorus,0.16
+Boonsri,2010/7/24,Total phosphorus,0.173333333
+Boonsri,2010/8/18,Total phosphorus,0.3
+Boonsri,2010/9/3,Total phosphorus,0.33
+Boonsri,2010/9/10,Total phosphorus,0.286666667
+Boonsri,2010/9/25,Total phosphorus,0.073333333
+Boonsri,2010/9/29,Total phosphorus,0.303333333
+Boonsri,2010/10/15,Total phosphorus,0.143333333
+Boonsri,2010/10/21,Total phosphorus,0.35
+Boonsri,2010/10/28,Total phosphorus,0.336666667
+Boonsri,2010/11/4,Total phosphorus,0.356666667
+Boonsri,2010/11/11,Total phosphorus,0.48
+Boonsri,2010/11/18,Total phosphorus,0.25
+Boonsri,2010/11/24,Total phosphorus,0.4
+Boonsri,2010/12/3,Total phosphorus,0.476666667
+Boonsri,2010/12/9,Total phosphorus,0.33
+Boonsri,2010/12/16,Total phosphorus,0.11
+Boonsri,2011/1/6,Total phosphorus,0.433333333
+Boonsri,2011/1/20,Total phosphorus,0.566666667
+Boonsri,2011/2/4,Total phosphorus,0.203333333
+Boonsri,2011/2/17,Total phosphorus,0.25
+Boonsri,2011/3/10,Total phosphorus,0.196666667
+Boonsri,2011/3/19,Total phosphorus,0.143333333
+Boonsri,2011/4/9,Total phosphorus,0.483333333
+Boonsri,2011/4/23,Total phosphorus,0.25
+Boonsri,2011/5/12,Total phosphorus,0.206666667
+Boonsri,2011/5/18,Total phosphorus,0.44
+Boonsri,2011/6/23,Total phosphorus,0.163333333
+Boonsri,2011/7/20,Total phosphorus,0.23
+Boonsri,2011/8/18,Total phosphorus,0.166666667
+Boonsri,2011/9/28,Total phosphorus,0.306666667
+Boonsri,2011/10/26,Total phosphorus,0.17
+Boonsri,2011/11/26,Total phosphorus,0.186666667
+Boonsri,2011/12/14,Total phosphorus,0.256666667
+Boonsri,2012/1/26,Total phosphorus,0.129
+Boonsri,2012/2/15,Total phosphorus,0.054
+Boonsri,2012/3/24,Total phosphorus,0.095
+Boonsri,2012/4/15,Total phosphorus,0.084333333
+Boonsri,2012/5/10,Total phosphorus,0.093
+Boonsri,2012/5/25,Total phosphorus,0.109666667
+Boonsri,2012/6/17,Total phosphorus,0.099666667
+Boonsri,2012/7/20,Total phosphorus,0.088
+Boonsri,2012/8/23,Total phosphorus,0.093333333
+Boonsri,2012/9/23,Total phosphorus,0.094666667
+Boonsri,2012/10/29,Total phosphorus,0.22
+Boonsri,2012/11/17,Total phosphorus,0.095
+Boonsri,2012/12/13,Total phosphorus,0.1
+Boonsri,2013/1/17,Total phosphorus,0.101666667
+Boonsri,2013/2/21,Total phosphorus,0.095
+Boonsri,2013/3/15,Total phosphorus,0.061333333
+Boonsri,2013/4/14,Total phosphorus,0.084
+Boonsri,2013/5/17,Total phosphorus,0.064666667
+Boonsri,2013/6/20,Total phosphorus,0.094666667
+Boonsri,2013/7/19,Total phosphorus,0.114666667
+Boonsri,2013/8/16,Total phosphorus,0.115666667
+Boonsri,2013/9/26,Total phosphorus,0.149666667
+Boonsri,2013/10/18,Total phosphorus,0.187666667
+Boonsri,2013/11/14,Total phosphorus,0.151666667
+Boonsri,2013/12/14,Total phosphorus,0.124
+Boonsri,2014/1/23,Total phosphorus,0.188666667
+Boonsri,2014/2/24,Total phosphorus,0.133333333
+Boonsri,2014/3/15,Total phosphorus,0.071
+Boonsri,2014/3/20,Total phosphorus,0.071333333
+Boonsri,2014/4/11,Total phosphorus,0.060333333
+Boonsri,2014/4/23,Total phosphorus,0.059333333
+Boonsri,2014/5/16,Total phosphorus,0.138666667
+Boonsri,2014/5/22,Total phosphorus,0.11
+Boonsri,2014/6/14,Total phosphorus,0.18
+Boonsri,2014/6/21,Total phosphorus,0.177
+Boonsri,2014/7/16,Total phosphorus,0.14
+Boonsri,2014/7/23,Total phosphorus,0.180666667
+Boonsri,2014/8/1,Total phosphorus,0.178666667
+Boonsri,2014/8/27,Total phosphorus,0.134333333
+Boonsri,2014/9/10,Total phosphorus,0.12
+Boonsri,2014/9/17,Total phosphorus,0.154
+Boonsri,2014/10/11,Total phosphorus,0.17
+Boonsri,2014/10/23,Total phosphorus,0.175
+Boonsri,2014/10/31,Total phosphorus,0.139333333
+Boonsri,2014/11/12,Total phosphorus,0.160666667
+Boonsri,2014/11/19,Total phosphorus,0.123
+Boonsri,2014/11/27,Total phosphorus,0.124666667
+Boonsri,2014/12/5,Total phosphorus,0.17
+Boonsri,2014/12/11,Total phosphorus,0.160333333
+Boonsri,2015/1/9,Total phosphorus,0.149666667
+Boonsri,2015/1/21,Total phosphorus,0.148
+Boonsri,2015/2/12,Total phosphorus,0.248
+Boonsri,2015/2/18,Total phosphorus,0.263333333
+Boonsri,2015/3/5,Total phosphorus,0.19
+Boonsri,2015/3/19,Total phosphorus,0.264666667
+Boonsri,2015/4/8,Total phosphorus,0.094666667
+Boonsri,2015/4/22,Total phosphorus,0.068
+Boonsri,2015/5/15,Total phosphorus,0.059666667
+Boonsri,2015/5/28,Total phosphorus,0.054666667
+Boonsri,2015/6/10,Total phosphorus,0.053
+Boonsri,2015/6/17,Total phosphorus,0.077333333
+Boonsri,2015/7/16,Total phosphorus,0.056333333
+Boonsri,2015/7/24,Total phosphorus,0.052
+Boonsri,2015/8/1,Total phosphorus,0.059
+Boonsri,2015/8/20,Total phosphorus,0.044666667
+Boonsri,2015/9/9,Total phosphorus,0.062333333
+Boonsri,2015/9/17,Total phosphorus,0.07
+Boonsri,2015/10/9,Total phosphorus,0.09
+Boonsri,2015/10/21,Total phosphorus,0.061
+Boonsri,2015/10/28,Total phosphorus,0.049666667
+Boonsri,2015/11/11,Total phosphorus,0.054
+Boonsri,2015/11/18,Total phosphorus,0.102
+Boonsri,2015/11/26,Total phosphorus,0.058666667
+Boonsri,2015/12/3,Total phosphorus,0.068333333
+Boonsri,2015/12/9,Total phosphorus,0.059
+Boonsri,2016/1/8,Total phosphorus,0.062333333
+Boonsri,2016/1/22,Total phosphorus,0.133333333
+Boonsri,2016/2/6,Total phosphorus,0.059
+Boonsri,2016/2/17,Total phosphorus,0.050333333
+Boonsri,2016/3/10,Total phosphorus,0.028
+Boonsri,2016/3/17,Total phosphorus,0.019333333
+Boonsri,2016/4/15,Total phosphorus,0.061
+Boonsri,2016/4/28,Total phosphorus,0.164666667
+Boonsri,2016/5/7,Total phosphorus,0.049
+Boonsri,2016/5/28,Total phosphorus,0.046
+Boonsri,2016/6/3,Total phosphorus,0.037
+Boonsri,2016/6/16,Total phosphorus,0.050666667
+Boonsri,2016/7/2,Total phosphorus,0.039333333
+Boonsri,2016/7/10,Total phosphorus,0.076666667
+Boonsri,2016/7/21,Total phosphorus,0.046
+Boonsri,2016/8/5,Total phosphorus,0.062
+Boonsri,2016/8/21,Total phosphorus,0.061333333
+Boonsri,2016/8/27,Total phosphorus,0.051666667
+Boonsri,2016/9/9,Total phosphorus,0.066666667
+Boonsri,2016/9/22,Total phosphorus,0.058333333
+Boonsri,2016/10/6,Total phosphorus,0.043
+Boonsri,2016/10/20,Total phosphorus,0.082333333
+Boonsri,2016/11/5,Total phosphorus,0.105
+Boonsri,2016/11/17,Total phosphorus,0.096
+Boonsri,2016/12/3,Total phosphorus,0.071
+Boonsri,2016/12/10,Total phosphorus,0.059
+Busarakhan,1998/10/29,Potassium,4.5
+Busarakhan,1998/11/28,Potassium,2.4
+Busarakhan,1998/12/19,Potassium,4.7
+Busarakhan,1999/1/27,Potassium,12.8
+Busarakhan,1999/2/20,Potassium,14.5
+Busarakhan,1999/3/19,Potassium,10
+Busarakhan,1999/4/23,Potassium,9.9
+Busarakhan,1999/5/27,Potassium,10.8
+Busarakhan,1999/6/22,Potassium,5.2
+Busarakhan,1999/7/24,Potassium,5.6
+Busarakhan,1999/8/30,Potassium,7
+Busarakhan,1999/9/18,Potassium,6.4
+Busarakhan,1999/10/22,Potassium,7.5
+Busarakhan,1999/11/20,Potassium,3.6
+Busarakhan,1999/12/10,Potassium,12.6
+Busarakhan,2000/1/15,Potassium,14
+Busarakhan,2000/2/19,Potassium,14.4
+Busarakhan,2000/3/19,Potassium,10.2
+Busarakhan,2000/4/29,Potassium,8.7
+Busarakhan,2000/5/27,Potassium,6.6
+Busarakhan,2000/6/26,Potassium,7.5
+Busarakhan,2000/7/28,Potassium,3
+Busarakhan,2000/8/28,Potassium,10.3
+Busarakhan,2000/9/24,Potassium,8.8
+Busarakhan,2000/10/18,Potassium,5
+Busarakhan,2000/11/24,Potassium,4.5
+Busarakhan,2000/12/4,Potassium,4
+Busarakhan,2001/1/17,Potassium,3.2
+Busarakhan,2001/2/18,Potassium,9.2
+Busarakhan,2001/3/31,Potassium,3.4
+Busarakhan,2001/4/29,Potassium,2.7
+Busarakhan,2001/5/28,Potassium,5
+Busarakhan,2001/6/21,Potassium,7.08
+Busarakhan,2001/7/28,Potassium,3.7
+Busarakhan,2001/8/28,Potassium,7.2
+Busarakhan,2001/9/23,Potassium,5.2
+Busarakhan,2001/11/18,Potassium,4.2
+Busarakhan,2002/1/24,Potassium,5.7
+Busarakhan,2002/1/25,Potassium,5.7
+Busarakhan,2002/1/26,Potassium,4.3
+Busarakhan,2007/2/22,Potassium,3
+Busarakhan,2007/3/28,Potassium,3.8
+Busarakhan,2007/4/20,Potassium,6.2
+Busarakhan,2007/6/23,Potassium,2.5
+Busarakhan,2007/8/25,Potassium,2.2
+Busarakhan,2007/9/29,Potassium,4.2
+Busarakhan,2007/12/22,Potassium,4.8
+Busarakhan,2008/5/3,Potassium,2.2
+Busarakhan,2008/5/30,Potassium,2.8
+Busarakhan,2008/6/26,Potassium,1.2
+Busarakhan,2008/11/17,Potassium,2.6
+Busarakhan,2008/12/5,Potassium,2
+Busarakhan,2008/12/15,Potassium,3.4
+Busarakhan,2009/1/24,Potassium,5.4
+Busarakhan,2009/2/14,Potassium,3.9
+Busarakhan,2009/3/27,Potassium,4
+Busarakhan,2009/4/25,Potassium,4
+Busarakhan,2009/5/25,Potassium,3.5
+Busarakhan,2009/6/28,Potassium,1.9
+Busarakhan,2009/7/26,Potassium,2.1
+Busarakhan,2009/8/28,Potassium,3
+Busarakhan,2009/10/30,Potassium,3.8
+Busarakhan,2009/11/14,Potassium,3
+Busarakhan,2009/12/19,Potassium,3.1
+Busarakhan,2010/1/24,Potassium,2.8
+Busarakhan,2010/6/13,Potassium,2.5
+Busarakhan,2011/1/30,Potassium,3.5
+Busarakhan,2011/6/29,Potassium,3.3
+Busarakhan,2011/8/3,Potassium,3.5
+Busarakhan,2011/9/23,Potassium,3.4
+Busarakhan,2012/2/4,Potassium,4.3
+Busarakhan,2012/2/18,Potassium,3.5
+Busarakhan,2012/4/26,Potassium,3.8
+Busarakhan,2012/5/26,Potassium,3
+Busarakhan,2012/8/25,Potassium,4
+Busarakhan,2012/10/7,Potassium,2.8
+Busarakhan,2012/10/27,Potassium,8.2
+Busarakhan,2012/11/4,Potassium,3.6
+Busarakhan,2012/12/8,Potassium,3.5
+Busarakhan,2013/1/11,Potassium,7.2
+Busarakhan,2013/2/16,Potassium,5
+Busarakhan,2013/3/24,Potassium,4.9
+Busarakhan,2013/8/8,Potassium,3.1
+Busarakhan,2013/10/25,Potassium,3.8
+Busarakhan,2014/4/6,Potassium,2.5
+Busarakhan,2014/5/2,Potassium,3.8
+Busarakhan,2014/6/5,Potassium,2.9
+Busarakhan,2014/9/3,Potassium,2.8
+Busarakhan,2014/10/10,Potassium,3.2
+Busarakhan,2015/5/10,Potassium,2.2
+Busarakhan,2015/11/11,Potassium,2.4
+Busarakhan,2005/5/29,Total nitrogen,2
+Busarakhan,2005/6/17,Total nitrogen,2.43
+Busarakhan,2005/7/24,Total nitrogen,3.05
+Busarakhan,2005/8/14,Total nitrogen,2.83
+Busarakhan,2005/11/24,Total nitrogen,2.73
+Busarakhan,2006/1/28,Total nitrogen,2.92
+Busarakhan,2006/2/25,Total nitrogen,3.65
+Busarakhan,2006/5/31,Total nitrogen,1.94
+Busarakhan,2006/7/16,Total nitrogen,1.9
+Busarakhan,2006/12/13,Total nitrogen,3.9
+Busarakhan,2007/1/24,Total nitrogen,3.04
+Busarakhan,2007/2/22,Total nitrogen,2.63
+Busarakhan,2007/3/28,Total nitrogen,3.7
+Busarakhan,2007/4/20,Total nitrogen,2.35
+Busarakhan,2007/5/26,Total nitrogen,1.89
+Busarakhan,2007/6/23,Total nitrogen,2
+Busarakhan,2007/7/22,Total nitrogen,1.06
+Busarakhan,2007/8/25,Total nitrogen,4.82
+Busarakhan,2007/9/29,Total nitrogen,2.19
+Busarakhan,2007/10/26,Total nitrogen,2.42
+Busarakhan,2007/11/28,Total nitrogen,4.05
+Busarakhan,2007/12/22,Total nitrogen,4.92
+Busarakhan,2008/2/3,Total nitrogen,3.55
+Busarakhan,2008/3/30,Total nitrogen,2.7
+Busarakhan,2008/5/3,Total nitrogen,2.01
+Busarakhan,2008/5/30,Total nitrogen,1.77
+Busarakhan,2008/6/26,Total nitrogen,1.94
+Busarakhan,2008/7/12,Total nitrogen,1.89
+Busarakhan,2008/8/11,Total nitrogen,2.6
+Busarakhan,2008/9/21,Total nitrogen,1.88
+Busarakhan,2008/10/19,Total nitrogen,1.92
+Busarakhan,2008/11/17,Total nitrogen,1.36
+Busarakhan,2008/12/5,Total nitrogen,1.23
+Busarakhan,2008/12/15,Total nitrogen,1.07
+Busarakhan,2009/1/24,Total nitrogen,1.7
+Busarakhan,2009/2/14,Total nitrogen,3.2
+Busarakhan,2009/3/27,Total nitrogen,2.47
+Busarakhan,2009/4/25,Total nitrogen,2.07
+Busarakhan,2009/5/25,Total nitrogen,1.87
+Busarakhan,2009/6/28,Total nitrogen,3.22
+Busarakhan,2009/7/26,Total nitrogen,2.58
+Busarakhan,2009/8/28,Total nitrogen,1.94
+Busarakhan,2009/9/24,Total nitrogen,2.15
+Busarakhan,2009/10/30,Total nitrogen,2.16
+Busarakhan,2009/11/14,Total nitrogen,1.9
+Busarakhan,2009/12/19,Total nitrogen,2.16
+Busarakhan,2010/1/24,Total nitrogen,2.9
+Busarakhan,2010/2/14,Total nitrogen,2.44
+Busarakhan,2010/3/20,Total nitrogen,1.02
+Busarakhan,2010/4/18,Total nitrogen,2.1
+Busarakhan,2010/5/22,Total nitrogen,2.2
+Busarakhan,2010/6/13,Total nitrogen,2.91
+Busarakhan,2010/7/22,Total nitrogen,2.21
+Busarakhan,2010/8/28,Total nitrogen,2.33
+Busarakhan,2010/9/30,Total nitrogen,0.8
+Busarakhan,2010/10/29,Total nitrogen,1.71
+Busarakhan,2010/11/27,Total nitrogen,2.28
+Busarakhan,2010/12/9,Total nitrogen,2.36
+Busarakhan,2011/1/30,Total nitrogen,3.03
+Busarakhan,2011/2/26,Total nitrogen,3.13
+Busarakhan,2011/3/26,Total nitrogen,1.8
+Busarakhan,2011/4/13,Total nitrogen,1.85
+Busarakhan,2011/5/27,Total nitrogen,2.37
+Busarakhan,2011/6/29,Total nitrogen,2.79
+Busarakhan,2011/8/3,Total nitrogen,1.39
+Busarakhan,2011/8/28,Total nitrogen,2.45
+Busarakhan,2011/9/23,Total nitrogen,2.86
+Busarakhan,2011/11/3,Total nitrogen,2.4
+Busarakhan,2011/11/16,Total nitrogen,1.9
+Busarakhan,2011/12/8,Total nitrogen,1.61
+Busarakhan,2012/2/4,Total nitrogen,2.44
+Busarakhan,2012/2/11,Total nitrogen,3.2
+Busarakhan,2012/2/18,Total nitrogen,2.52
+Busarakhan,2012/2/24,Total nitrogen,1.95
+Busarakhan,2012/3/16,Total nitrogen,2.73
+Busarakhan,2012/3/25,Total nitrogen,2.12
+Busarakhan,2012/4/26,Total nitrogen,1.64
+Busarakhan,2012/4/29,Total nitrogen,1.68
+Busarakhan,2012/5/26,Total nitrogen,1.6
+Busarakhan,2012/5/31,Total nitrogen,1.66
+Busarakhan,2012/7/20,Total nitrogen,1.1
+Busarakhan,2012/7/23,Total nitrogen,1.19
+Busarakhan,2012/7/27,Total nitrogen,1
+Busarakhan,2012/7/30,Total nitrogen,5.23
+Busarakhan,2012/8/25,Total nitrogen,1
+Busarakhan,2012/10/7,Total nitrogen,1.47
+Busarakhan,2012/10/11,Total nitrogen,1.53
+Busarakhan,2012/10/27,Total nitrogen,1.87
+Busarakhan,2012/10/29,Total nitrogen,1.74
+Busarakhan,2012/11/4,Total nitrogen,2.25
+Busarakhan,2012/11/15,Total nitrogen,2.62
+Busarakhan,2012/11/22,Total nitrogen,2.45
+Busarakhan,2012/12/8,Total nitrogen,2.04
+Busarakhan,2012/12/30,Total nitrogen,2.27
+Busarakhan,2013/1/11,Total nitrogen,2.37
+Busarakhan,2013/2/4,Total nitrogen,2.52
+Busarakhan,2013/2/16,Total nitrogen,2.25
+Busarakhan,2013/2/25,Total nitrogen,2.14
+Busarakhan,2013/3/24,Total nitrogen,2.94
+Busarakhan,2013/3/30,Total nitrogen,2.82
+Busarakhan,2013/4/20,Total nitrogen,2.71
+Busarakhan,2013/4/29,Total nitrogen,2.66
+Busarakhan,2013/5/19,Total nitrogen,2.3
+Busarakhan,2013/6/2,Total nitrogen,2.28
+Busarakhan,2013/6/21,Total nitrogen,2.22
+Busarakhan,2013/6/30,Total nitrogen,3.19
+Busarakhan,2013/7/19,Total nitrogen,1.44
+Busarakhan,2013/7/29,Total nitrogen,0.675
+Busarakhan,2013/8/8,Total nitrogen,0.96
+Busarakhan,2013/8/23,Total nitrogen,1.09
+Busarakhan,2013/9/12,Total nitrogen,1.77
+Busarakhan,2013/9/26,Total nitrogen,1.11
+Busarakhan,2013/10/25,Total nitrogen,1.414
+Busarakhan,2013/11/2,Total nitrogen,1.91
+Busarakhan,2013/11/4,Total nitrogen,1.29
+Busarakhan,2013/11/17,Total nitrogen,1.34
+Busarakhan,2013/11/22,Total nitrogen,1.41
+Busarakhan,2013/12/9,Total nitrogen,1.45
+Busarakhan,2013/12/19,Total nitrogen,1.67
+Busarakhan,2013/12/27,Total nitrogen,1.52
+Busarakhan,2014/1/24,Total nitrogen,1.44
+Busarakhan,2014/3/12,Total nitrogen,2.44
+Busarakhan,2014/3/15,Total nitrogen,2.07
+Busarakhan,2014/3/21,Total nitrogen,2.05
+Busarakhan,2014/4/6,Total nitrogen,1.7
+Busarakhan,2014/4/18,Total nitrogen,2.13
+Busarakhan,2014/5/2,Total nitrogen,2.11
+Busarakhan,2014/5/14,Total nitrogen,2.47
+Busarakhan,2014/5/28,Total nitrogen,2.46
+Busarakhan,2014/6/5,Total nitrogen,1.82
+Busarakhan,2014/6/11,Total nitrogen,1.92
+Busarakhan,2014/7/12,Total nitrogen,1.02
+Busarakhan,2014/8/9,Total nitrogen,1.02
+Busarakhan,2014/8/22,Total nitrogen,1.2
+Busarakhan,2014/8/27,Total nitrogen,1.59
+Busarakhan,2014/9/3,Total nitrogen,1.454
+Busarakhan,2014/9/10,Total nitrogen,1.3
+Busarakhan,2014/9/18,Total nitrogen,1.36
+Busarakhan,2014/11/2,Total nitrogen,1.95
+Busarakhan,2014/11/13,Total nitrogen,1.86
+Busarakhan,2014/11/21,Total nitrogen,1.86
+Busarakhan,2014/12/6,Total nitrogen,2.14
+Busarakhan,2014/12/11,Total nitrogen,2.17
+Busarakhan,2014/12/13,Total nitrogen,2.07
+Busarakhan,2015/1/16,Total nitrogen,2.32
+Busarakhan,2015/1/31,Total nitrogen,2.53
+Busarakhan,2015/2/14,Total nitrogen,3.61
+Busarakhan,2015/2/27,Total nitrogen,3.36
+Busarakhan,2015/3/15,Total nitrogen,3.52
+Busarakhan,2015/3/21,Total nitrogen,3.11
+Busarakhan,2015/4/10,Total nitrogen,3.38
+Busarakhan,2015/4/23,Total nitrogen,3.12
+Busarakhan,2015/5/10,Total nitrogen,2.36
+Busarakhan,2015/5/27,Total nitrogen,1.52
+Busarakhan,2015/6/6,Total nitrogen,2.29
+Busarakhan,2015/6/17,Total nitrogen,1.99
+Busarakhan,2015/7/12,Total nitrogen,1.92
+Busarakhan,2015/7/23,Total nitrogen,2.2
+Busarakhan,2015/8/1,Total nitrogen,1.49
+Busarakhan,2015/8/9,Total nitrogen,0.99
+Busarakhan,2015/8/21,Total nitrogen,1.31
+Busarakhan,2015/9/9,Total nitrogen,1.783
+Busarakhan,2015/9/22,Total nitrogen,1.385
+Busarakhan,2015/10/8,Total nitrogen,2.36
+Busarakhan,2015/10/15,Total nitrogen,1.95
+Busarakhan,2015/11/11,Total nitrogen,1.73
+Busarakhan,2015/11/18,Total nitrogen,1.519
+Busarakhan,2015/11/28,Total nitrogen,1.54
+Busarakhan,2015/12/9,Total nitrogen,1.98
+Busarakhan,2015/12/19,Total nitrogen,1.91
+Busarakhan,2016/1/14,Total nitrogen,2.45
+Busarakhan,2016/2/6,Total nitrogen,2.39
+Busarakhan,2016/2/11,Total nitrogen,2.42
+Busarakhan,2016/2/26,Total nitrogen,2.41
+Busarakhan,2016/3/11,Total nitrogen,2.83
+Busarakhan,2016/3/20,Total nitrogen,2.46
+Busarakhan,2016/4/8,Total nitrogen,2.14
+Busarakhan,2016/4/24,Total nitrogen,1.94
+Busarakhan,2016/5/14,Total nitrogen,1.54
+Busarakhan,2016/5/26,Total nitrogen,1.69
+Busarakhan,2016/6/16,Total nitrogen,1.157
+Busarakhan,2016/6/26,Total nitrogen,1.59
+Busarakhan,2016/7/14,Total nitrogen,1.44
+Busarakhan,2016/7/20,Total nitrogen,1.538
+Busarakhan,2016/7/24,Total nitrogen,1.92
+Busarakhan,2016/8/11,Total nitrogen,2.22
+Busarakhan,2016/8/19,Total nitrogen,1.11
+Busarakhan,2016/9/9,Total nitrogen,1.18
+Busarakhan,2016/9/17,Total nitrogen,1.66
+Busarakhan,2016/9/24,Total nitrogen,1.124
+Busarakhan,2016/10/15,Total nitrogen,1.36
+Busarakhan,2016/10/27,Total nitrogen,1.212
+Busarakhan,2016/11/12,Total nitrogen,0.981
+Busarakhan,2016/11/25,Total nitrogen,1.54
+Busarakhan,2016/12/8,Total nitrogen,2.13
+Busarakhan,2016/12/17,Total nitrogen,1.26
+Busarakhan,1998/10/29,Total phosphorus,0.13
+Busarakhan,1998/11/28,Total phosphorus,0.16
+Busarakhan,1998/12/19,Total phosphorus,0.1
+Busarakhan,1999/1/27,Total phosphorus,0.1
+Busarakhan,1999/2/20,Total phosphorus,0.15
+Busarakhan,1999/3/19,Total phosphorus,0.04
+Busarakhan,1999/4/23,Total phosphorus,0.21
+Busarakhan,1999/5/27,Total phosphorus,0.16
+Busarakhan,1999/6/22,Total phosphorus,0.12
+Busarakhan,1999/7/24,Total phosphorus,0.08
+Busarakhan,1999/8/30,Total phosphorus,0.1
+Busarakhan,1999/9/18,Total phosphorus,0.28
+Busarakhan,1999/10/22,Total phosphorus,0.09
+Busarakhan,1999/11/20,Total phosphorus,0.07
+Busarakhan,1999/12/10,Total phosphorus,0.06
+Busarakhan,2000/1/15,Total phosphorus,0.05
+Busarakhan,2000/2/19,Total phosphorus,0.02
+Busarakhan,2000/3/19,Total phosphorus,0.09
+Busarakhan,2000/4/29,Total phosphorus,0.19
+Busarakhan,2000/5/27,Total phosphorus,0.04
+Busarakhan,2000/6/26,Total phosphorus,0.09
+Busarakhan,2000/7/28,Total phosphorus,0.02
+Busarakhan,2000/8/28,Total phosphorus,0.17
+Busarakhan,2000/9/24,Total phosphorus,0.05
+Busarakhan,2000/10/18,Total phosphorus,0.12
+Busarakhan,2000/11/24,Total phosphorus,0.08
+Busarakhan,2000/12/4,Total phosphorus,0.08
+Busarakhan,2001/1/17,Total phosphorus,0.14
+Busarakhan,2001/2/18,Total phosphorus,0.09
+Busarakhan,2001/3/31,Total phosphorus,0.09
+Busarakhan,2001/4/29,Total phosphorus,0.08
+Busarakhan,2001/5/28,Total phosphorus,0.02
+Busarakhan,2001/6/21,Total phosphorus,0.11
+Busarakhan,2001/7/28,Total phosphorus,0.06
+Busarakhan,2001/8/28,Total phosphorus,0.11
+Busarakhan,2001/9/23,Total phosphorus,0.04
+Busarakhan,2002/1/24,Total phosphorus,0.21
+Busarakhan,2002/1/25,Total phosphorus,0.23
+Busarakhan,2002/1/26,Total phosphorus,0.14
+Busarakhan,2002/2/2,Total phosphorus,0.03
+Busarakhan,2002/3/29,Total phosphorus,0.03
+Busarakhan,2002/4/20,Total phosphorus,0.02
+Busarakhan,2002/5/18,Total phosphorus,0.02
+Busarakhan,2002/6/22,Total phosphorus,0.02
+Busarakhan,2002/7/26,Total phosphorus,0.04
+Busarakhan,2002/8/22,Total phosphorus,0.04
+Busarakhan,2002/9/12,Total phosphorus,0.05
+Busarakhan,2002/10/12,Total phosphorus,0.12
+Busarakhan,2002/10/26,Total phosphorus,0.09
+Busarakhan,2002/12/15,Total phosphorus,0.03
+Busarakhan,2003/2/28,Total phosphorus,0.023
+Busarakhan,2003/3/30,Total phosphorus,0.029
+Busarakhan,2003/4/26,Total phosphorus,0.034
+Busarakhan,2003/5/22,Total phosphorus,0.032
+Busarakhan,2003/6/28,Total phosphorus,0.009
+Busarakhan,2003/7/12,Total phosphorus,0.04
+Busarakhan,2003/8/20,Total phosphorus,0.076
+Busarakhan,2003/9/16,Total phosphorus,0.168
+Busarakhan,2003/10/9,Total phosphorus,0.27
+Busarakhan,2003/11/22,Total phosphorus,0.098
+Busarakhan,2003/12/19,Total phosphorus,0.05
+Busarakhan,2004/1/23,Total phosphorus,0.035
+Busarakhan,2004/9/4,Total phosphorus,0.055
+Busarakhan,2004/10/21,Total phosphorus,0.239
+Busarakhan,2004/12/3,Total phosphorus,0.162
+Busarakhan,2005/1/22,Total phosphorus,0.177
+Busarakhan,2005/2/20,Total phosphorus,0.123
+Busarakhan,2005/3/24,Total phosphorus,0.035
+Busarakhan,2005/4/24,Total phosphorus,0.122
+Busarakhan,2005/5/29,Total phosphorus,0.015
+Busarakhan,2005/7/24,Total phosphorus,0.115
+Busarakhan,2005/8/14,Total phosphorus,0.095
+Busarakhan,2005/9/24,Total phosphorus,0.038
+Busarakhan,2005/10/23,Total phosphorus,0.098
+Busarakhan,2005/11/24,Total phosphorus,0.1
+Busarakhan,2005/12/22,Total phosphorus,0.06
+Busarakhan,2006/1/28,Total phosphorus,0.043
+Busarakhan,2006/2/25,Total phosphorus,0.19
+Busarakhan,2006/3/23,Total phosphorus,0.196
+Busarakhan,2006/4/27,Total phosphorus,0.192
+Busarakhan,2006/5/31,Total phosphorus,0.059
+Busarakhan,2006/6/25,Total phosphorus,0.048
+Busarakhan,2006/7/16,Total phosphorus,0.241
+Busarakhan,2006/8/13,Total phosphorus,0.101
+Busarakhan,2006/9/22,Total phosphorus,0.094
+Busarakhan,2006/10/6,Total phosphorus,0.576
+Busarakhan,2006/11/22,Total phosphorus,0.386
+Busarakhan,2006/12/13,Total phosphorus,0.081
+Busarakhan,2007/1/24,Total phosphorus,0.087
+Busarakhan,2007/2/22,Total phosphorus,0.1
+Busarakhan,2007/3/28,Total phosphorus,0.098
+Busarakhan,2007/4/20,Total phosphorus,0.124
+Busarakhan,2007/5/26,Total phosphorus,0.782
+Busarakhan,2007/6/23,Total phosphorus,0.101
+Busarakhan,2007/7/22,Total phosphorus,0.048
+Busarakhan,2007/8/25,Total phosphorus,0.066
+Busarakhan,2007/9/29,Total phosphorus,0.159
+Busarakhan,2007/10/26,Total phosphorus,0.309
+Busarakhan,2007/11/28,Total phosphorus,0.242
+Busarakhan,2007/12/22,Total phosphorus,0.109
+Busarakhan,2008/3/30,Total phosphorus,0.077
+Busarakhan,2008/5/3,Total phosphorus,0.086
+Busarakhan,2008/5/30,Total phosphorus,0.079
+Busarakhan,2008/6/26,Total phosphorus,0.439
+Busarakhan,2008/7/12,Total phosphorus,0.148
+Busarakhan,2008/8/11,Total phosphorus,0.072
+Busarakhan,2008/9/21,Total phosphorus,0.112
+Busarakhan,2008/10/19,Total phosphorus,0.0818
+Busarakhan,2008/11/17,Total phosphorus,0.067
+Busarakhan,2008/12/5,Total phosphorus,0.0947
+Busarakhan,2008/12/15,Total phosphorus,0.093
+Busarakhan,2009/1/24,Total phosphorus,0.095
+Busarakhan,2009/2/14,Total phosphorus,0.111
+Busarakhan,2009/3/27,Total phosphorus,0.042
+Busarakhan,2009/4/25,Total phosphorus,0.065
+Busarakhan,2009/5/25,Total phosphorus,0.0945
+Busarakhan,2009/6/28,Total phosphorus,0.01
+Busarakhan,2009/7/26,Total phosphorus,0.1357
+Busarakhan,2009/8/28,Total phosphorus,0.646
+Busarakhan,2009/9/24,Total phosphorus,0.367
+Busarakhan,2009/10/30,Total phosphorus,0.059
+Busarakhan,2009/11/14,Total phosphorus,0.063
+Busarakhan,2009/12/19,Total phosphorus,0.0227
+Busarakhan,2010/1/24,Total phosphorus,0.1011
+Busarakhan,2010/2/14,Total phosphorus,0.0273
+Busarakhan,2010/3/20,Total phosphorus,0.031
+Busarakhan,2010/4/18,Total phosphorus,0.1479
+Busarakhan,2010/5/22,Total phosphorus,0.017
+Busarakhan,2010/6/13,Total phosphorus,0.068
+Busarakhan,2010/7/22,Total phosphorus,0.034
+Busarakhan,2010/8/28,Total phosphorus,0.037
+Busarakhan,2010/9/30,Total phosphorus,0.023
+Busarakhan,2010/10/29,Total phosphorus,0.056
+Busarakhan,2010/11/27,Total phosphorus,0.044
+Busarakhan,2010/12/9,Total phosphorus,0.101
+Busarakhan,2011/1/30,Total phosphorus,0.156
+Busarakhan,2011/2/26,Total phosphorus,0.052
+Busarakhan,2011/3/26,Total phosphorus,0.049
+Busarakhan,2011/4/13,Total phosphorus,0.038
+Busarakhan,2011/5/27,Total phosphorus,0.055
+Busarakhan,2011/6/29,Total phosphorus,0.039
+Busarakhan,2011/8/3,Total phosphorus,0.038
+Busarakhan,2011/8/28,Total phosphorus,0.056
+Busarakhan,2011/9/23,Total phosphorus,0.038
+Busarakhan,2011/11/3,Total phosphorus,0.095
+Busarakhan,2011/11/16,Total phosphorus,0.056
+Busarakhan,2011/12/8,Total phosphorus,0.084
+Busarakhan,2012/2/4,Total phosphorus,0.045
+Busarakhan,2012/2/11,Total phosphorus,0.057
+Busarakhan,2012/2/18,Total phosphorus,0.056
+Busarakhan,2012/2/24,Total phosphorus,0.02
+Busarakhan,2012/3/16,Total phosphorus,0.267
+Busarakhan,2012/3/25,Total phosphorus,0.038
+Busarakhan,2012/4/26,Total phosphorus,0
+Busarakhan,2012/4/29,Total phosphorus,0.058
+Busarakhan,2012/5/26,Total phosphorus,0.033
+Busarakhan,2012/5/31,Total phosphorus,0.111
+Busarakhan,2012/7/20,Total phosphorus,0.119
+Busarakhan,2012/7/23,Total phosphorus,0.131
+Busarakhan,2012/7/27,Total phosphorus,0.095
+Busarakhan,2012/7/30,Total phosphorus,0.11
+Busarakhan,2012/8/25,Total phosphorus,0.05
+Busarakhan,2012/10/7,Total phosphorus,0.073
+Busarakhan,2012/10/11,Total phosphorus,0.158
+Busarakhan,2012/10/27,Total phosphorus,0.059
+Busarakhan,2012/10/29,Total phosphorus,0.06
+Busarakhan,2012/11/4,Total phosphorus,0.072
+Busarakhan,2012/11/15,Total phosphorus,0.032
+Busarakhan,2012/11/22,Total phosphorus,0.128
+Busarakhan,2012/12/8,Total phosphorus,0.13
+Busarakhan,2012/12/30,Total phosphorus,0.061
+Busarakhan,2013/1/11,Total phosphorus,0.092
+Busarakhan,2013/2/4,Total phosphorus,0.134
+Busarakhan,2013/2/16,Total phosphorus,0.035
+Busarakhan,2013/2/25,Total phosphorus,0.04
+Busarakhan,2013/3/24,Total phosphorus,0.016
+Busarakhan,2013/3/30,Total phosphorus,0.013
+Busarakhan,2013/4/20,Total phosphorus,0.022
+Busarakhan,2013/4/29,Total phosphorus,0.035
+Busarakhan,2013/5/19,Total phosphorus,0.056
+Busarakhan,2013/6/2,Total phosphorus,0.11
+Busarakhan,2013/6/21,Total phosphorus,0.108
+Busarakhan,2013/6/30,Total phosphorus,0.115
+Busarakhan,2013/7/19,Total phosphorus,0.077
+Busarakhan,2013/7/29,Total phosphorus,0.038
+Busarakhan,2013/8/8,Total phosphorus,0.021
+Busarakhan,2013/8/23,Total phosphorus,0.036
+Busarakhan,2013/9/12,Total phosphorus,0.068
+Busarakhan,2013/9/26,Total phosphorus,0.047
+Busarakhan,2013/10/25,Total phosphorus,0.09
+Busarakhan,2013/11/2,Total phosphorus,0.101
+Busarakhan,2013/11/4,Total phosphorus,0.068
+Busarakhan,2013/11/17,Total phosphorus,0.057
+Busarakhan,2013/11/22,Total phosphorus,0.061
+Busarakhan,2013/12/9,Total phosphorus,0.048
+Busarakhan,2013/12/19,Total phosphorus,0.034
+Busarakhan,2013/12/27,Total phosphorus,0.035
+Busarakhan,2014/1/24,Total phosphorus,0.062
+Busarakhan,2014/3/12,Total phosphorus,0.092
+Busarakhan,2014/3/15,Total phosphorus,0.075
+Busarakhan,2014/3/21,Total phosphorus,0.1
+Busarakhan,2014/4/6,Total phosphorus,0.044
+Busarakhan,2014/4/18,Total phosphorus,0.094
+Busarakhan,2014/5/2,Total phosphorus,0.061
+Busarakhan,2014/5/14,Total phosphorus,0.043
+Busarakhan,2014/5/28,Total phosphorus,0.193
+Busarakhan,2014/6/5,Total phosphorus,0.0658
+Busarakhan,2014/6/11,Total phosphorus,0.128
+Busarakhan,2014/7/12,Total phosphorus,0.09
+Busarakhan,2014/8/9,Total phosphorus,0.072
+Busarakhan,2014/8/22,Total phosphorus,0.328
+Busarakhan,2014/8/27,Total phosphorus,0.106
+Busarakhan,2014/9/3,Total phosphorus,0.105
+Busarakhan,2014/9/10,Total phosphorus,0.065
+Busarakhan,2014/9/18,Total phosphorus,0.095
+Busarakhan,2014/10/10,Total phosphorus,0.067
+Busarakhan,2014/10/17,Total phosphorus,0.115
+Busarakhan,2014/11/2,Total phosphorus,0.117
+Busarakhan,2014/11/13,Total phosphorus,0.174
+Busarakhan,2014/11/21,Total phosphorus,0.074
+Busarakhan,2014/12/6,Total phosphorus,0.088
+Busarakhan,2014/12/11,Total phosphorus,0.081
+Busarakhan,2014/12/13,Total phosphorus,0.075
+Busarakhan,2015/1/16,Total phosphorus,0.054
+Busarakhan,2015/1/31,Total phosphorus,0.074
+Busarakhan,2015/2/14,Total phosphorus,0.144
+Busarakhan,2015/2/27,Total phosphorus,0.084
+Busarakhan,2015/3/15,Total phosphorus,0.077
+Busarakhan,2015/3/21,Total phosphorus,0.067
+Busarakhan,2015/4/10,Total phosphorus,0.152
+Busarakhan,2015/4/23,Total phosphorus,0.053
+Busarakhan,2015/5/10,Total phosphorus,0.061
+Busarakhan,2015/5/27,Total phosphorus,0.077
+Busarakhan,2015/6/6,Total phosphorus,0.122
+Busarakhan,2015/6/17,Total phosphorus,0.048
+Busarakhan,2015/7/12,Total phosphorus,0.081
+Busarakhan,2015/7/23,Total phosphorus,0.047
+Busarakhan,2015/8/1,Total phosphorus,0.179
+Busarakhan,2015/8/9,Total phosphorus,0.05
+Busarakhan,2015/8/21,Total phosphorus,0.081
+Busarakhan,2015/9/9,Total phosphorus,0.052
+Busarakhan,2015/9/22,Total phosphorus,0.08
+Busarakhan,2015/10/8,Total phosphorus,0.113
+Busarakhan,2015/10/15,Total phosphorus,0.082
+Busarakhan,2015/11/11,Total phosphorus,0.046
+Busarakhan,2015/11/18,Total phosphorus,0.075
+Busarakhan,2015/11/28,Total phosphorus,0.049
+Busarakhan,2015/12/9,Total phosphorus,0.058
+Busarakhan,2015/12/19,Total phosphorus,0.049
+Busarakhan,2016/1/14,Total phosphorus,0.086
+Busarakhan,2016/2/6,Total phosphorus,0.083
+Busarakhan,2016/2/26,Total phosphorus,0.164
+Busarakhan,2016/3/11,Total phosphorus,0.043
+Busarakhan,2016/3/20,Total phosphorus,0.022
+Busarakhan,2016/4/8,Total phosphorus,0.093
+Busarakhan,2016/4/24,Total phosphorus,0.111
+Busarakhan,2016/5/14,Total phosphorus,0.067
+Busarakhan,2016/5/26,Total phosphorus,0.059
+Busarakhan,2016/6/16,Total phosphorus,0.121
+Busarakhan,2016/6/26,Total phosphorus,0.07
+Busarakhan,2016/7/14,Total phosphorus,0.114
+Busarakhan,2016/7/20,Total phosphorus,0.227
+Busarakhan,2016/7/24,Total phosphorus,0.243
+Busarakhan,2016/8/11,Total phosphorus,0.179
+Busarakhan,2016/8/19,Total phosphorus,0.179
+Busarakhan,2016/9/9,Total phosphorus,0.058
+Busarakhan,2016/9/17,Total phosphorus,0.09
+Busarakhan,2016/9/24,Total phosphorus,0.079
+Busarakhan,2016/10/15,Total phosphorus,0.08
+Busarakhan,2016/10/27,Total phosphorus,0.06
+Busarakhan,2016/11/12,Total phosphorus,0.058
+Busarakhan,2016/11/25,Total phosphorus,0.087
+Busarakhan,2016/12/8,Total phosphorus,0.072
+Busarakhan,2016/12/17,Total phosphorus,0.055
+Chai,1998/1/31,Potassium,4.266666667
+Chai,1998/2/20,Potassium,4.333333333
+Chai,1998/3/19,Potassium,3.966666667
+Chai,1998/4/17,Potassium,2.766666667
+Chai,1998/5/20,Potassium,4.1
+Chai,1998/6/28,Potassium,3.753333333
+Chai,1998/7/23,Potassium,4.366666667
+Chai,1998/8/23,Potassium,3.133333333
+Chai,1998/9/27,Potassium,4.2
+Chai,1998/10/30,Potassium,3.5
+Chai,1998/11/26,Potassium,1.866666667
+Chai,1998/12/18,Potassium,4.066666667
+Chai,1999/1/30,Potassium,2
+Chai,1999/2/18,Potassium,2.833333333
+Chai,1999/3/17,Potassium,4.2
+Chai,1999/4/22,Potassium,3.2
+Chai,1999/5/20,Potassium,3.066666667
+Chai,1999/6/19,Potassium,2.866666667
+Chai,1999/7/22,Potassium,3.2
+Chai,1999/8/28,Potassium,3.433333333
+Chai,1999/9/16,Potassium,3.233333333
+Chai,1999/10/21,Potassium,3.766666667
+Chai,1999/11/18,Potassium,3.466666667
+Chai,1999/12/9,Potassium,2.733333333
+Chai,2000/1/14,Potassium,4
+Chai,2000/2/18,Potassium,3.2
+Chai,2000/3/18,Potassium,3.733333333
+Chai,2000/4/28,Potassium,2.6
+Chai,2000/5/19,Potassium,2.733333333
+Chai,2000/6/28,Potassium,3.633333333
+Chai,2000/7/21,Potassium,2.4
+Chai,2000/8/26,Potassium,4.933333333
+Chai,2000/9/23,Potassium,2.733333333
+Chai,2000/10/16,Potassium,3.6
+Chai,2000/11/18,Potassium,3.333333333
+Chai,2000/12/3,Potassium,3.733333333
+Chai,2001/1/16,Potassium,2.6
+Chai,2001/2/17,Potassium,3.4
+Chai,2001/3/31,Potassium,2.4
+Chai,2001/4/27,Potassium,2.266666667
+Chai,2001/5/27,Potassium,3.133333333
+Chai,2001/6/19,Potassium,3.91
+Chai,2001/7/7,Potassium,3.66
+Chai,2001/8/26,Potassium,4.233333333
+Chai,2001/9/22,Potassium,3.6
+Chai,2001/11/22,Potassium,3.533333333
+Chai,2007/2/16,Potassium,1.41
+Chai,2007/3/31,Potassium,2
+Chai,2007/4/12,Potassium,1.2
+Chai,2007/4/25,Potassium,1.4
+Chai,2007/5/18,Potassium,1.18
+Chai,2007/6/21,Potassium,1.866666667
+Chai,2007/8/4,Potassium,1.466666667
+Chai,2007/9/12,Potassium,1.266666667
+Chai,2007/11/23,Potassium,2
+Chai,2007/12/20,Potassium,2.266666667
+Chai,2008/1/18,Potassium,1.866666667
+Chai,2008/4/28,Potassium,1.266666667
+Chai,2008/5/31,Potassium,1.466666667
+Chai,2008/6/12,Potassium,1.266666667
+Chai,2008/11/15,Potassium,2.166666667
+Chai,2009/1/11,Potassium,1.966666667
+Chai,2009/2/8,Potassium,1.833333333
+Chai,2009/3/20,Potassium,2
+Chai,2009/4/18,Potassium,2.466666667
+Chai,2009/5/21,Potassium,2.1
+Chai,2009/6/14,Potassium,1.733333333
+Chai,2009/7/9,Potassium,2.2
+Chai,2009/8/23,Potassium,2.133333333
+Chai,2009/9/22,Potassium,2.466666667
+Chai,2009/10/19,Potassium,2.366666667
+Chai,2009/11/16,Potassium,2.333333333
+Chai,2009/12/5,Potassium,2.5
+Chai,2010/1/17,Potassium,2.133333333
+Chai,2010/6/17,Potassium,2.21
+Chai,2011/1/14,Potassium,2.033333333
+Chai,2011/6/18,Potassium,2.733333333
+Chai,2011/8/3,Potassium,2.466666667
+Chai,2011/9/28,Potassium,1.866666667
+Chai,2012/2/5,Potassium,2.6
+Chai,2012/4/15,Potassium,3.1
+Chai,2012/8/9,Potassium,3.066666667
+Chai,2012/9/1,Potassium,2.233333333
+Chai,2012/11/1,Potassium,3.1
+Chai,2012/12/6,Potassium,2.966666667
+Chai,2013/1/12,Potassium,3.133333333
+Chai,2013/2/2,Potassium,3.033333333
+Chai,2013/3/18,Potassium,3.066666667
+Chai,2013/5/4,Potassium,2.866666667
+Chai,2013/8/1,Potassium,2.7
+Chai,2013/10/4,Potassium,2.666666667
+Chai,2013/11/10,Potassium,2.466666667
+Chai,2014/1/23,Potassium,2.233333333
+Chai,2014/4/9,Potassium,2.066666667
+Chai,2014/6/13,Potassium,1.466666667
+Chai,2014/7/16,Potassium,1.533333333
+Chai,2014/8/13,Potassium,1.266666667
+Chai,2014/9/5,Potassium,1.433333333
+Chai,2014/10/8,Potassium,2.6
+Chai,2005/5/23,Total nitrogen,1.636666667
+Chai,2005/6/13,Total nitrogen,1.73
+Chai,2005/6/20,Total nitrogen,2.243333333
+Chai,2005/7/23,Total nitrogen,1.042
+Chai,2005/8/18,Total nitrogen,2.16
+Chai,2005/8/25,Total nitrogen,1.966666667
+Chai,2005/9/29,Total nitrogen,2.446666667
+Chai,2005/10/10,Total nitrogen,2.16
+Chai,2005/10/20,Total nitrogen,1.873333333
+Chai,2005/11/19,Total nitrogen,2.523333333
+Chai,2005/11/26,Total nitrogen,2.343333333
+Chai,2005/12/16,Total nitrogen,3.056666667
+Chai,2006/1/19,Total nitrogen,2.853333333
+Chai,2006/1/28,Total nitrogen,3.01
+Chai,2006/2/24,Total nitrogen,3.74
+Chai,2006/2/28,Total nitrogen,3.58
+Chai,2006/3/29,Total nitrogen,3.543333333
+Chai,2006/4/30,Total nitrogen,2.15
+Chai,2006/5/25,Total nitrogen,0.828666667
+Chai,2006/5/28,Total nitrogen,1.125666667
+Chai,2006/6/1,Total nitrogen,2.256666667
+Chai,2006/7/9,Total nitrogen,1.394
+Chai,2006/7/15,Total nitrogen,2.103333333
+Chai,2006/8/27,Total nitrogen,1.373333333
+Chai,2006/9/29,Total nitrogen,0.86
+Chai,2006/10/15,Total nitrogen,2.443333333
+Chai,2006/11/25,Total nitrogen,3.533333333
+Chai,2006/12/10,Total nitrogen,2.696666667
+Chai,2006/12/20,Total nitrogen,3.176666667
+Chai,2007/1/18,Total nitrogen,2.603333333
+Chai,2007/1/27,Total nitrogen,3.293333333
+Chai,2007/2/16,Total nitrogen,3.743333333
+Chai,2007/2/28,Total nitrogen,3.026666667
+Chai,2007/3/23,Total nitrogen,3.163333333
+Chai,2007/4/12,Total nitrogen,2.863333333
+Chai,2007/4/25,Total nitrogen,3.893333333
+Chai,2007/5/18,Total nitrogen,2.36
+Chai,2007/5/31,Total nitrogen,2.406666667
+Chai,2007/6/21,Total nitrogen,1.236666667
+Chai,2007/6/28,Total nitrogen,1.753333333
+Chai,2007/7/7,Total nitrogen,2.606666667
+Chai,2007/7/19,Total nitrogen,1.846666667
+Chai,2007/8/4,Total nitrogen,1.55
+Chai,2007/9/12,Total nitrogen,4.643333333
+Chai,2007/9/21,Total nitrogen,3.88
+Chai,2007/10/7,Total nitrogen,2.14
+Chai,2007/10/28,Total nitrogen,3.453333333
+Chai,2007/11/23,Total nitrogen,4.06
+Chai,2007/11/30,Total nitrogen,2.703333333
+Chai,2007/12/20,Total nitrogen,2.323333333
+Chai,2007/12/28,Total nitrogen,3.34
+Chai,2008/1/18,Total nitrogen,3.046666667
+Chai,2008/2/15,Total nitrogen,2.81
+Chai,2008/2/24,Total nitrogen,3.236666667
+Chai,2008/3/17,Total nitrogen,3.456666667
+Chai,2008/3/29,Total nitrogen,2.38
+Chai,2008/4/28,Total nitrogen,2.596666667
+Chai,2008/5/18,Total nitrogen,1.15
+Chai,2008/5/31,Total nitrogen,1.183333333
+Chai,2008/6/2,Total nitrogen,2.183333333
+Chai,2008/6/12,Total nitrogen,2.166666667
+Chai,2008/7/7,Total nitrogen,2.726666667
+Chai,2008/7/14,Total nitrogen,1.93
+Chai,2008/8/23,Total nitrogen,0.962
+Chai,2008/8/31,Total nitrogen,1.8
+Chai,2008/9/11,Total nitrogen,1.503333333
+Chai,2008/9/25,Total nitrogen,1.656666667
+Chai,2008/10/17,Total nitrogen,2.216666667
+Chai,2008/10/30,Total nitrogen,1.773333333
+Chai,2008/11/15,Total nitrogen,1.71
+Chai,2008/11/21,Total nitrogen,1.146666667
+Chai,2008/12/12,Total nitrogen,1.012866667
+Chai,2009/1/11,Total nitrogen,1.506666667
+Chai,2009/1/18,Total nitrogen,1.746666667
+Chai,2009/2/8,Total nitrogen,3.273333333
+Chai,2009/2/26,Total nitrogen,2.9
+Chai,2009/3/20,Total nitrogen,3.586666667
+Chai,2009/3/28,Total nitrogen,2.397333333
+Chai,2009/4/18,Total nitrogen,2.603333333
+Chai,2009/4/26,Total nitrogen,1.633333333
+Chai,2009/5/21,Total nitrogen,2.13
+Chai,2009/5/30,Total nitrogen,1.89
+Chai,2009/6/14,Total nitrogen,1.88
+Chai,2009/6/27,Total nitrogen,1.786666667
+Chai,2009/7/9,Total nitrogen,1.53
+Chai,2009/8/23,Total nitrogen,1.56
+Chai,2009/8/31,Total nitrogen,1.87
+Chai,2009/9/22,Total nitrogen,2.07
+Chai,2009/10/5,Total nitrogen,2.053333333
+Chai,2009/10/19,Total nitrogen,1.926666667
+Chai,2009/10/31,Total nitrogen,1.953333333
+Chai,2009/11/16,Total nitrogen,2.236666667
+Chai,2009/11/21,Total nitrogen,2.036666667
+Chai,2009/11/29,Total nitrogen,2.036666667
+Chai,2009/12/5,Total nitrogen,2.023333333
+Chai,2009/12/13,Total nitrogen,1.963333333
+Chai,2009/12/21,Total nitrogen,1.866666667
+Chai,2010/1/17,Total nitrogen,3.266666667
+Chai,2010/1/29,Total nitrogen,2.876666667
+Chai,2010/2/20,Total nitrogen,3.436666667
+Chai,2010/2/28,Total nitrogen,2.943333333
+Chai,2010/3/18,Total nitrogen,2.28
+Chai,2010/3/28,Total nitrogen,2.683333333
+Chai,2010/4/16,Total nitrogen,2.49
+Chai,2010/4/23,Total nitrogen,2.376666667
+Chai,2010/5/9,Total nitrogen,2.04
+Chai,2010/5/29,Total nitrogen,1.81
+Chai,2010/6/17,Total nitrogen,2.306666667
+Chai,2010/6/30,Total nitrogen,0.73
+Chai,2010/7/15,Total nitrogen,1.416666667
+Chai,2010/7/23,Total nitrogen,1.46
+Chai,2010/8/11,Total nitrogen,1.453333333
+Chai,2010/8/26,Total nitrogen,1.433333333
+Chai,2010/9/4,Total nitrogen,1.643333333
+Chai,2010/9/12,Total nitrogen,1.5
+Chai,2010/10/13,Total nitrogen,2.06
+Chai,2010/10/29,Total nitrogen,2.343333333
+Chai,2010/11/13,Total nitrogen,2.35
+Chai,2010/11/26,Total nitrogen,1.693333333
+Chai,2010/11/28,Total nitrogen,2.366666667
+Chai,2010/12/11,Total nitrogen,2.163333333
+Chai,2010/12/15,Total nitrogen,2.246666667
+Chai,2010/12/18,Total nitrogen,2.263333333
+Chai,2011/10/17,Total nitrogen,1.626666667
+Chai,2011/10/28,Total nitrogen,2.106666667
+Chai,2011/11/11,Total nitrogen,2.413333333
+Chai,2011/11/18,Total nitrogen,2.42
+Chai,2011/12/3,Total nitrogen,2.48
+Chai,2011/12/9,Total nitrogen,2.853333333
+Chai,2011/12/14,Total nitrogen,3.386666667
+Chai,2012/1/11,Total nitrogen,2.753333333
+Chai,2012/1/28,Total nitrogen,3.03
+Chai,2012/2/5,Total nitrogen,2.753333333
+Chai,2012/2/17,Total nitrogen,3.163333333
+Chai,2012/3/15,Total nitrogen,2.79
+Chai,2012/3/25,Total nitrogen,1.8
+Chai,2012/4/15,Total nitrogen,2.4
+Chai,2012/4/29,Total nitrogen,2.526666667
+Chai,2012/5/4,Total nitrogen,2.266666667
+Chai,2012/5/21,Total nitrogen,2.16
+Chai,2012/6/1,Total nitrogen,2.723333333
+Chai,2012/6/22,Total nitrogen,2.236666667
+Chai,2012/7/2,Total nitrogen,2.066666667
+Chai,2012/7/30,Total nitrogen,1.796666667
+Chai,2012/8/9,Total nitrogen,1.863333333
+Chai,2012/8/19,Total nitrogen,2.043333333
+Chai,2012/9/1,Total nitrogen,2.566666667
+Chai,2012/9/17,Total nitrogen,1.653333333
+Chai,2012/10/5,Total nitrogen,2.323333333
+Chai,2012/10/25,Total nitrogen,2.12
+Chai,2012/11/1,Total nitrogen,2.963333333
+Chai,2012/11/9,Total nitrogen,2.753333333
+Chai,2012/11/15,Total nitrogen,2.856666667
+Chai,2012/12/6,Total nitrogen,2.82
+Chai,2012/12/9,Total nitrogen,2.683333333
+Chai,2012/12/27,Total nitrogen,2.453333333
+Chai,2013/1/12,Total nitrogen,2.723333333
+Chai,2013/1/21,Total nitrogen,2.533333333
+Chai,2013/2/2,Total nitrogen,4.353333333
+Chai,2013/2/15,Total nitrogen,3.106666667
+Chai,2013/3/18,Total nitrogen,3.54
+Chai,2013/3/23,Total nitrogen,2.603333333
+Chai,2013/4/5,Total nitrogen,2.173333333
+Chai,2013/4/13,Total nitrogen,2.87
+Chai,2013/5/4,Total nitrogen,2.06
+Chai,2013/5/31,Total nitrogen,1.576666667
+Chai,2013/6/15,Total nitrogen,1.63
+Chai,2013/6/28,Total nitrogen,2.663333333
+Chai,2013/7/4,Total nitrogen,0.976
+Chai,2013/7/18,Total nitrogen,0.956
+Chai,2013/8/1,Total nitrogen,1.44
+Chai,2013/8/31,Total nitrogen,1.45
+Chai,2013/9/6,Total nitrogen,1.014666667
+Chai,2013/9/28,Total nitrogen,1.636666667
+Chai,2013/10/4,Total nitrogen,1.483333333
+Chai,2013/10/27,Total nitrogen,1.534333333
+Chai,2013/11/10,Total nitrogen,2.228
+Chai,2013/11/21,Total nitrogen,1.84
+Chai,2013/11/30,Total nitrogen,2.005
+Chai,2013/12/5,Total nitrogen,2.023333333
+Chai,2013/12/13,Total nitrogen,2.13
+Chai,2013/12/15,Total nitrogen,2.113333333
+Chai,2014/1/23,Total nitrogen,2.676666667
+Chai,2014/1/30,Total nitrogen,2.62
+Chai,2014/3/8,Total nitrogen,2.54
+Chai,2014/3/14,Total nitrogen,2.556666667
+Chai,2014/3/19,Total nitrogen,2.83
+Chai,2014/3/28,Total nitrogen,2.5
+Chai,2014/4/9,Total nitrogen,1.98
+Chai,2014/4/26,Total nitrogen,1.656666667
+Chai,2014/5/16,Total nitrogen,1.603333333
+Chai,2014/5/23,Total nitrogen,1.62
+Chai,2014/6/13,Total nitrogen,1.373333333
+Chai,2014/6/20,Total nitrogen,0.915666667
+Chai,2014/7/16,Total nitrogen,1.736666667
+Chai,2014/8/13,Total nitrogen,1.56
+Chai,2014/8/23,Total nitrogen,1.276666667
+Chai,2014/8/29,Total nitrogen,1.18
+Chai,2014/9/5,Total nitrogen,1.164333333
+Chai,2014/9/13,Total nitrogen,1.238333333
+Chai,2014/10/8,Total nitrogen,2.153333333
+Chai,2014/10/16,Total nitrogen,2
+Chai,2014/11/6,Total nitrogen,1.87
+Chai,2014/11/12,Total nitrogen,1.893333333
+Chai,2014/11/20,Total nitrogen,1.82
+Chai,2014/11/28,Total nitrogen,1.876666667
+Chai,2014/12/5,Total nitrogen,1.776666667
+Chai,2014/12/10,Total nitrogen,1.9
+Chai,2015/1/9,Total nitrogen,1.783333333
+Chai,2015/1/15,Total nitrogen,2.846666667
+Chai,2015/2/6,Total nitrogen,2.323333333
+Chai,2015/2/13,Total nitrogen,2.406666667
+Chai,2015/3/14,Total nitrogen,2.616666667
+Chai,2015/3/20,Total nitrogen,3.196666667
+Chai,2015/4/3,Total nitrogen,2.483333333
+Chai,2015/4/12,Total nitrogen,2.71
+Chai,2015/5/20,Total nitrogen,2.266666667
+Chai,2015/5/29,Total nitrogen,2.103333333
+Chai,2015/6/11,Total nitrogen,1.443333333
+Chai,2015/6/18,Total nitrogen,2.273333333
+Chai,2015/7/10,Total nitrogen,2.003333333
+Chai,2015/7/22,Total nitrogen,1.703333333
+Chai,2015/8/5,Total nitrogen,1.120333333
+Chai,2015/8/12,Total nitrogen,0.841
+Chai,2015/8/20,Total nitrogen,0.823
+Chai,2015/9/4,Total nitrogen,0.985333333
+Chai,2015/9/20,Total nitrogen,1.296666667
+Chai,2015/10/9,Total nitrogen,1.83
+Chai,2015/10/16,Total nitrogen,1.816666667
+Chai,2015/11/7,Total nitrogen,1.966666667
+Chai,2015/11/20,Total nitrogen,1.87
+Chai,2015/11/27,Total nitrogen,1.753333333
+Chai,2015/12/10,Total nitrogen,1.946666667
+Chai,2015/12/17,Total nitrogen,1.793333333
+Chai,2016/1/16,Total nitrogen,3.051333333
+Chai,2016/1/21,Total nitrogen,2.76
+Chai,2016/2/12,Total nitrogen,1.94
+Chai,2016/2/25,Total nitrogen,2
+Chai,2016/3/5,Total nitrogen,2.63
+Chai,2016/3/17,Total nitrogen,2.233333333
+Chai,2016/4/1,Total nitrogen,1.903333333
+Chai,2016/4/15,Total nitrogen,1.733333333
+Chai,2016/5/12,Total nitrogen,1.833333333
+Chai,2016/5/20,Total nitrogen,1.886666667
+Chai,2016/6/3,Total nitrogen,1.933333333
+Chai,2016/6/23,Total nitrogen,2.13
+Chai,2016/7/2,Total nitrogen,1.376666667
+Chai,2016/7/10,Total nitrogen,1.063333333
+Chai,2016/7/17,Total nitrogen,1.66
+Chai,2016/8/5,Total nitrogen,1.406666667
+Chai,2016/8/21,Total nitrogen,1.58
+Chai,2016/9/3,Total nitrogen,1.42
+Chai,2016/9/16,Total nitrogen,1.486666667
+Chai,2016/9/25,Total nitrogen,1.203333333
+Chai,2016/10/8,Total nitrogen,1.476666667
+Chai,2016/10/20,Total nitrogen,1.57
+Chai,2016/11/11,Total nitrogen,1.813333333
+Chai,2016/11/19,Total nitrogen,1.731
+Chai,2016/12/3,Total nitrogen,1.513333333
+Chai,2016/12/9,Total nitrogen,1.823333333
+Chai,1998/1/31,Total phosphorus,0.086666667
+Chai,1998/2/20,Total phosphorus,0.113333333
+Chai,1998/3/19,Total phosphorus,0.136666667
+Chai,1998/4/17,Total phosphorus,0.086666667
+Chai,1998/5/20,Total phosphorus,0.1
+Chai,1998/6/28,Total phosphorus,0.12
+Chai,1998/7/23,Total phosphorus,0.103333333
+Chai,1998/8/23,Total phosphorus,0.13
+Chai,1998/9/27,Total phosphorus,0.12
+Chai,1998/10/30,Total phosphorus,0.136666667
+Chai,1998/11/26,Total phosphorus,0.123333333
+Chai,1998/12/18,Total phosphorus,0.123333333
+Chai,1999/1/30,Total phosphorus,0.126666667
+Chai,1999/2/18,Total phosphorus,0.093333333
+Chai,1999/3/17,Total phosphorus,0.206666667
+Chai,1999/4/22,Total phosphorus,0.106666667
+Chai,1999/5/20,Total phosphorus,0.073333333
+Chai,1999/6/19,Total phosphorus,0.103333333
+Chai,1999/7/22,Total phosphorus,0.076666667
+Chai,1999/8/28,Total phosphorus,0.106666667
+Chai,1999/9/16,Total phosphorus,0.1
+Chai,1999/10/21,Total phosphorus,0.063333333
+Chai,1999/11/18,Total phosphorus,0.08
+Chai,1999/12/9,Total phosphorus,0.056666667
+Chai,2000/1/14,Total phosphorus,0.05
+Chai,2000/2/18,Total phosphorus,0.046666667
+Chai,2000/3/18,Total phosphorus,0.043333333
+Chai,2000/4/28,Total phosphorus,0.096666667
+Chai,2000/5/19,Total phosphorus,0.05
+Chai,2000/6/28,Total phosphorus,0.133333333
+Chai,2000/7/21,Total phosphorus,0.04
+Chai,2000/8/26,Total phosphorus,0.23
+Chai,2000/9/23,Total phosphorus,0.05
+Chai,2000/10/16,Total phosphorus,0.183333333
+Chai,2000/11/18,Total phosphorus,0.11
+Chai,2000/12/3,Total phosphorus,0.156666667
+Chai,2001/1/16,Total phosphorus,0.103333333
+Chai,2001/2/17,Total phosphorus,0.04
+Chai,2001/3/31,Total phosphorus,0.04
+Chai,2001/4/27,Total phosphorus,0.093333333
+Chai,2001/5/27,Total phosphorus,0.03
+Chai,2001/6/19,Total phosphorus,0.126666667
+Chai,2001/7/7,Total phosphorus,0.07
+Chai,2001/8/26,Total phosphorus,0.103333333
+Chai,2001/9/22,Total phosphorus,0.07
+Chai,2002/2/1,Total phosphorus,0.036666667
+Chai,2002/2/18,Total phosphorus,0.06
+Chai,2002/3/16,Total phosphorus,0.04
+Chai,2002/3/31,Total phosphorus,0.073333333
+Chai,2002/4/25,Total phosphorus,0.026666667
+Chai,2002/5/11,Total phosphorus,0.03
+Chai,2002/5/25,Total phosphorus,0.043333333
+Chai,2002/6/12,Total phosphorus,0.053333333
+Chai,2002/6/21,Total phosphorus,0.033333333
+Chai,2002/7/13,Total phosphorus,0.046666667
+Chai,2002/7/24,Total phosphorus,0.03
+Chai,2002/8/10,Total phosphorus,0.08
+Chai,2002/8/21,Total phosphorus,0.04
+Chai,2002/9/13,Total phosphorus,0.06
+Chai,2002/9/25,Total phosphorus,0.043333333
+Chai,2002/10/10,Total phosphorus,0.186666667
+Chai,2002/10/24,Total phosphorus,0.043333333
+Chai,2002/10/30,Total phosphorus,0.033333333
+Chai,2002/11/7,Total phosphorus,0.06
+Chai,2002/12/6,Total phosphorus,0.043333333
+Chai,2002/12/13,Total phosphorus,0.093333333
+Chai,2003/2/3,Total phosphorus,0.023333333
+Chai,2003/2/28,Total phosphorus,0.032
+Chai,2003/3/19,Total phosphorus,0.238666667
+Chai,2003/3/29,Total phosphorus,0.021666667
+Chai,2003/4/20,Total phosphorus,0.036333333
+Chai,2003/4/27,Total phosphorus,0.035666667
+Chai,2003/5/18,Total phosphorus,0.022333333
+Chai,2003/5/25,Total phosphorus,0.043
+Chai,2003/6/13,Total phosphorus,0.0076
+Chai,2003/6/21,Total phosphorus,0.032333333
+Chai,2003/7/6,Total phosphorus,0.023333333
+Chai,2003/7/10,Total phosphorus,0.036
+Chai,2003/8/16,Total phosphorus,0.028666667
+Chai,2003/8/28,Total phosphorus,0.054
+Chai,2003/9/13,Total phosphorus,0.058666667
+Chai,2003/10/8,Total phosphorus,0.116
+Chai,2003/10/12,Total phosphorus,0.075333333
+Chai,2003/11/19,Total phosphorus,0.104333333
+Chai,2003/11/28,Total phosphorus,0.070666667
+Chai,2003/12/14,Total phosphorus,0.067666667
+Chai,2003/12/21,Total phosphorus,0.022
+Chai,2004/1/22,Total phosphorus,0.030333333
+Chai,2004/1/30,Total phosphorus,0.022
+Chai,2004/9/9,Total phosphorus,0.061666667
+Chai,2004/9/17,Total phosphorus,0.066666667
+Chai,2004/10/11,Total phosphorus,0.174
+Chai,2004/11/21,Total phosphorus,0.094666667
+Chai,2004/12/5,Total phosphorus,0.138333333
+Chai,2005/1/27,Total phosphorus,0.082666667
+Chai,2005/1/31,Total phosphorus,0.096666667
+Chai,2005/2/21,Total phosphorus,0.125666667
+Chai,2005/2/28,Total phosphorus,0.068333333
+Chai,2005/3/17,Total phosphorus,0.075
+Chai,2005/3/31,Total phosphorus,0.031
+Chai,2005/4/11,Total phosphorus,0.096
+Chai,2005/4/21,Total phosphorus,0.04
+Chai,2005/5/16,Total phosphorus,0.047
+Chai,2005/5/23,Total phosphorus,0.099666667
+Chai,2005/7/23,Total phosphorus,0.07
+Chai,2005/7/31,Total phosphorus,0.079666667
+Chai,2005/8/18,Total phosphorus,0.134
+Chai,2005/8/25,Total phosphorus,0.179
+Chai,2005/9/22,Total phosphorus,0.17
+Chai,2005/9/29,Total phosphorus,0.054
+Chai,2005/10/10,Total phosphorus,0.169
+Chai,2005/10/20,Total phosphorus,0.068666667
+Chai,2005/11/19,Total phosphorus,0.073666667
+Chai,2005/11/26,Total phosphorus,0.080333333
+Chai,2005/12/5,Total phosphorus,0.024
+Chai,2005/12/16,Total phosphorus,0.026333333
+Chai,2006/1/19,Total phosphorus,0.178
+Chai,2006/1/28,Total phosphorus,0.083
+Chai,2006/2/24,Total phosphorus,0.093666667
+Chai,2006/2/28,Total phosphorus,0.106666667
+Chai,2006/3/17,Total phosphorus,0.110666667
+Chai,2006/3/29,Total phosphorus,0.124
+Chai,2006/4/23,Total phosphorus,0.222333333
+Chai,2006/4/30,Total phosphorus,0.19
+Chai,2006/5/25,Total phosphorus,0.050333333
+Chai,2006/5/28,Total phosphorus,0.072666667
+Chai,2006/6/1,Total phosphorus,0.018
+Chai,2006/6/18,Total phosphorus,0.038
+Chai,2006/7/15,Total phosphorus,0.169
+Chai,2006/8/18,Total phosphorus,0.089666667
+Chai,2006/8/27,Total phosphorus,0.056666667
+Chai,2006/9/2,Total phosphorus,0.061666667
+Chai,2006/9/29,Total phosphorus,0.016
+Chai,2006/10/8,Total phosphorus,0.129333333
+Chai,2006/10/15,Total phosphorus,0.142666667
+Chai,2006/11/15,Total phosphorus,0.244333333
+Chai,2006/11/25,Total phosphorus,3.533333333
+Chai,2006/12/10,Total phosphorus,0.093
+Chai,2006/12/20,Total phosphorus,0.111333333
+Chai,2007/1/18,Total phosphorus,0.077666667
+Chai,2007/1/27,Total phosphorus,0.124
+Chai,2007/2/16,Total phosphorus,0.139666667
+Chai,2007/2/28,Total phosphorus,0.154333333
+Chai,2007/3/23,Total phosphorus,0.18
+Chai,2007/3/31,Total phosphorus,0.217
+Chai,2007/4/12,Total phosphorus,0.089
+Chai,2007/4/25,Total phosphorus,0.081666667
+Chai,2007/5/18,Total phosphorus,0.045
+Chai,2007/5/31,Total phosphorus,0.188333333
+Chai,2007/6/21,Total phosphorus,0.106666667
+Chai,2007/6/28,Total phosphorus,0.220333333
+Chai,2007/7/7,Total phosphorus,0.519
+Chai,2007/7/19,Total phosphorus,0.132333333
+Chai,2007/8/4,Total phosphorus,0.080666667
+Chai,2007/9/12,Total phosphorus,0.164
+Chai,2007/9/21,Total phosphorus,0.010333333
+Chai,2007/10/7,Total phosphorus,0.094866667
+Chai,2007/10/28,Total phosphorus,0.275733333
+Chai,2007/11/23,Total phosphorus,0.089
+Chai,2007/11/30,Total phosphorus,0.037666667
+Chai,2007/12/20,Total phosphorus,0.06
+Chai,2008/2/15,Total phosphorus,0.138333333
+Chai,2008/2/24,Total phosphorus,0.101933333
+Chai,2008/3/17,Total phosphorus,0.203666667
+Chai,2008/3/29,Total phosphorus,0.203
+Chai,2008/4/28,Total phosphorus,0.150333333
+Chai,2008/5/18,Total phosphorus,0.107333333
+Chai,2008/5/31,Total phosphorus,0.072
+Chai,2008/6/2,Total phosphorus,0.016233333
+Chai,2008/6/12,Total phosphorus,0.056666667
+Chai,2008/6/21,Total phosphorus,0.110666667
+Chai,2008/7/7,Total phosphorus,0.173333333
+Chai,2008/7/14,Total phosphorus,0.125
+Chai,2008/8/23,Total phosphorus,0.08
+Chai,2008/8/31,Total phosphorus,0.111
+Chai,2008/9/11,Total phosphorus,0.213333333
+Chai,2008/9/25,Total phosphorus,0.127333333
+Chai,2008/10/17,Total phosphorus,0.084266667
+Chai,2008/10/30,Total phosphorus,0.063766667
+Chai,2008/11/15,Total phosphorus,0.060333333
+Chai,2008/11/21,Total phosphorus,0.036533333
+Chai,2008/12/12,Total phosphorus,0.025266667
+Chai,2009/1/11,Total phosphorus,0.121266667
+Chai,2009/1/18,Total phosphorus,0.085
+Chai,2009/2/8,Total phosphorus,0.120666667
+Chai,2009/2/26,Total phosphorus,0.144333333
+Chai,2009/3/20,Total phosphorus,0.199333333
+Chai,2009/3/28,Total phosphorus,0.042833333
+Chai,2009/4/18,Total phosphorus,0.534666667
+Chai,2009/4/26,Total phosphorus,0.085
+Chai,2009/5/21,Total phosphorus,0.3546
+Chai,2009/5/30,Total phosphorus,0.091666667
+Chai,2009/6/14,Total phosphorus,0.0216
+Chai,2009/6/27,Total phosphorus,0.189433333
+Chai,2009/7/9,Total phosphorus,0.01
+Chai,2009/7/24,Total phosphorus,0.047766667
+Chai,2009/8/23,Total phosphorus,0.121433333
+Chai,2009/8/31,Total phosphorus,0.0761
+Chai,2009/9/22,Total phosphorus,0.233333333
+Chai,2009/10/5,Total phosphorus,0.113
+Chai,2009/10/19,Total phosphorus,0.127766667
+Chai,2009/10/31,Total phosphorus,0.179666667
+Chai,2009/11/16,Total phosphorus,0.229033333
+Chai,2009/11/21,Total phosphorus,0.229733333
+Chai,2009/11/29,Total phosphorus,0.056666667
+Chai,2009/12/5,Total phosphorus,0.2404
+Chai,2009/12/13,Total phosphorus,0.0773
+Chai,2009/12/21,Total phosphorus,0.050133333
+Chai,2010/1/17,Total phosphorus,0.105066667
+Chai,2010/1/29,Total phosphorus,0.05
+Chai,2010/2/20,Total phosphorus,0.101766667
+Chai,2010/2/28,Total phosphorus,0.128266667
+Chai,2010/3/18,Total phosphorus,0.067766667
+Chai,2010/3/28,Total phosphorus,0.086
+Chai,2010/4/16,Total phosphorus,0.199666667
+Chai,2010/4/23,Total phosphorus,0.061
+Chai,2010/5/9,Total phosphorus,0.014666667
+Chai,2010/5/29,Total phosphorus,0.074
+Chai,2010/6/17,Total phosphorus,0.044
+Chai,2010/6/30,Total phosphorus,0.017
+Chai,2010/7/15,Total phosphorus,0.106666667
+Chai,2010/7/23,Total phosphorus,0.083666667
+Chai,2010/8/11,Total phosphorus,0.0366
+Chai,2010/8/26,Total phosphorus,0.040333333
+Chai,2010/9/4,Total phosphorus,0.037333333
+Chai,2010/9/12,Total phosphorus,0.141666667
+Chai,2010/10/13,Total phosphorus,0.146666667
+Chai,2010/10/29,Total phosphorus,0.104
+Chai,2010/11/13,Total phosphorus,0.048666667
+Chai,2010/11/26,Total phosphorus,0.017666667
+Chai,2010/11/28,Total phosphorus,0.034
+Chai,2010/12/11,Total phosphorus,0.089666667
+Chai,2010/12/15,Total phosphorus,0.075333333
+Chai,2010/12/18,Total phosphorus,0.090333333
+Chai,2011/1/14,Total phosphorus,0.113
+Chai,2011/1/26,Total phosphorus,0.140666667
+Chai,2011/2/11,Total phosphorus,0.163666667
+Chai,2011/2/18,Total phosphorus,0.062333333
+Chai,2011/3/9,Total phosphorus,0.038
+Chai,2011/3/25,Total phosphorus,0.112
+Chai,2011/4/8,Total phosphorus,0.056666667
+Chai,2011/4/23,Total phosphorus,0.081666667
+Chai,2011/5/22,Total phosphorus,0.038
+Chai,2011/5/26,Total phosphorus,0.038
+Chai,2011/6/18,Total phosphorus,0.038
+Chai,2011/6/24,Total phosphorus,0.038
+Chai,2011/7/17,Total phosphorus,0.085333333
+Chai,2011/7/28,Total phosphorus,0.094333333
+Chai,2011/8/3,Total phosphorus,0.107333333
+Chai,2011/8/12,Total phosphorus,0.055666667
+Chai,2011/8/14,Total phosphorus,0.072333333
+Chai,2011/9/28,Total phosphorus,0.1
+Chai,2011/9/30,Total phosphorus,0.108333333
+Chai,2011/10/17,Total phosphorus,0.075
+Chai,2011/10/28,Total phosphorus,0.094
+Chai,2011/11/11,Total phosphorus,0.121333333
+Chai,2011/11/18,Total phosphorus,0.091666667
+Chai,2011/12/3,Total phosphorus,0.120666667
+Chai,2011/12/9,Total phosphorus,0.458666667
+Chai,2011/12/14,Total phosphorus,0.046
+Chai,2012/1/11,Total phosphorus,0.089666667
+Chai,2012/1/28,Total phosphorus,0.039
+Chai,2012/2/5,Total phosphorus,0.042333333
+Chai,2012/2/17,Total phosphorus,0.075
+Chai,2012/3/15,Total phosphorus,0.122666667
+Chai,2012/3/25,Total phosphorus,0.085
+Chai,2012/4/15,Total phosphorus,0.045333333
+Chai,2012/4/29,Total phosphorus,0.176333333
+Chai,2012/5/4,Total phosphorus,0.066
+Chai,2012/5/21,Total phosphorus,0.095666667
+Chai,2012/6/1,Total phosphorus,0.150666667
+Chai,2012/6/22,Total phosphorus,0.075333333
+Chai,2012/7/2,Total phosphorus,0.121666667
+Chai,2012/7/30,Total phosphorus,0.096333333
+Chai,2012/8/9,Total phosphorus,0.100333333
+Chai,2012/8/19,Total phosphorus,0.095666667
+Chai,2012/9/1,Total phosphorus,0.14
+Chai,2012/9/17,Total phosphorus,0.339333333
+Chai,2012/10/5,Total phosphorus,0.112
+Chai,2012/10/25,Total phosphorus,0.079333333
+Chai,2012/11/1,Total phosphorus,0.110333333
+Chai,2012/11/9,Total phosphorus,0.078
+Chai,2012/11/15,Total phosphorus,0.029333333
+Chai,2012/12/6,Total phosphorus,0.196666667
+Chai,2012/12/9,Total phosphorus,0.133333333
+Chai,2012/12/27,Total phosphorus,0.113333333
+Chai,2013/1/12,Total phosphorus,0.149666667
+Chai,2013/1/21,Total phosphorus,0.091666667
+Chai,2013/2/2,Total phosphorus,0.082
+Chai,2013/2/15,Total phosphorus,0.089666667
+Chai,2013/3/18,Total phosphorus,0.045333333
+Chai,2013/3/23,Total phosphorus,0.028333333
+Chai,2013/4/5,Total phosphorus,0.026
+Chai,2013/4/13,Total phosphorus,0.024
+Chai,2013/5/4,Total phosphorus,0.0145
+Chai,2013/5/31,Total phosphorus,0.086666667
+Chai,2013/6/15,Total phosphorus,0.018333333
+Chai,2013/6/28,Total phosphorus,0.024
+Chai,2013/7/4,Total phosphorus,0.033333333
+Chai,2013/7/18,Total phosphorus,0.012666667
+Chai,2013/8/1,Total phosphorus,0.027333333
+Chai,2013/8/31,Total phosphorus,0.079333333
+Chai,2013/9/6,Total phosphorus,0.045
+Chai,2013/9/28,Total phosphorus,0.055
+Chai,2013/10/4,Total phosphorus,0.058
+Chai,2013/10/27,Total phosphorus,0.145333333
+Chai,2013/11/10,Total phosphorus,0.101333333
+Chai,2013/11/21,Total phosphorus,0.0885
+Chai,2013/11/30,Total phosphorus,0.084
+Chai,2013/12/5,Total phosphorus,0.095666667
+Chai,2013/12/13,Total phosphorus,0.138333333
+Chai,2013/12/15,Total phosphorus,0.110666667
+Chai,2014/1/23,Total phosphorus,0.138333333
+Chai,2014/1/30,Total phosphorus,0.07
+Chai,2014/3/8,Total phosphorus,0.083333333
+Chai,2014/3/14,Total phosphorus,0.083333333
+Chai,2014/3/19,Total phosphorus,0.07
+Chai,2014/3/28,Total phosphorus,0.083333333
+Chai,2014/4/9,Total phosphorus,0.06
+Chai,2014/4/26,Total phosphorus,0.06
+Chai,2014/5/16,Total phosphorus,0.05
+Chai,2014/5/23,Total phosphorus,0.086666667
+Chai,2014/6/13,Total phosphorus,0.048
+Chai,2014/6/20,Total phosphorus,0.018
+Chai,2014/7/16,Total phosphorus,0.033666667
+Chai,2014/8/13,Total phosphorus,0.039666667
+Chai,2014/8/23,Total phosphorus,0.037
+Chai,2014/8/29,Total phosphorus,0.059333333
+Chai,2014/9/5,Total phosphorus,0.057666667
+Chai,2014/9/13,Total phosphorus,0.061333333
+Chai,2014/10/8,Total phosphorus,0.070666667
+Chai,2014/10/16,Total phosphorus,0.114666667
+Chai,2014/11/6,Total phosphorus,0.073333333
+Chai,2014/11/12,Total phosphorus,0.092
+Chai,2014/11/20,Total phosphorus,0.062333333
+Chai,2014/11/28,Total phosphorus,0.060333333
+Chai,2014/12/5,Total phosphorus,0.086666667
+Chai,2014/12/10,Total phosphorus,0.08
+Chai,2015/1/9,Total phosphorus,0.062666667
+Chai,2015/1/15,Total phosphorus,0.090333333
+Chai,2015/2/6,Total phosphorus,0.063666667
+Chai,2015/2/13,Total phosphorus,0.081666667
+Chai,2015/3/14,Total phosphorus,0.093
+Chai,2015/3/20,Total phosphorus,0.111333333
+Chai,2015/4/3,Total phosphorus,0.11
+Chai,2015/4/12,Total phosphorus,0.083666667
+Chai,2015/5/20,Total phosphorus,0.051666667
+Chai,2015/5/29,Total phosphorus,0.090666667
+Chai,2015/6/11,Total phosphorus,0.022
+Chai,2015/6/18,Total phosphorus,0.06
+Chai,2015/7/10,Total phosphorus,0.053666667
+Chai,2015/7/22,Total phosphorus,0.027333333
+Chai,2015/8/5,Total phosphorus,0.063
+Chai,2015/8/12,Total phosphorus,0.032666667
+Chai,2015/8/20,Total phosphorus,0.034333333
+Chai,2015/9/4,Total phosphorus,0.037333333
+Chai,2015/9/20,Total phosphorus,0.047333333
+Chai,2015/10/9,Total phosphorus,0.055666667
+Chai,2015/10/16,Total phosphorus,0.067
+Chai,2015/11/7,Total phosphorus,0.079
+Chai,2015/11/20,Total phosphorus,0.064333333
+Chai,2015/11/27,Total phosphorus,0.065
+Chai,2015/12/10,Total phosphorus,0.062666667
+Chai,2015/12/17,Total phosphorus,0.025
+Chai,2016/1/16,Total phosphorus,0.063333333
+Chai,2016/1/21,Total phosphorus,0.049
+Chai,2016/2/12,Total phosphorus,0.056333333
+Chai,2016/2/25,Total phosphorus,0.053
+Chai,2016/3/5,Total phosphorus,0.052333333
+Chai,2016/3/17,Total phosphorus,0.088333333
+Chai,2016/4/1,Total phosphorus,0.057666667
+Chai,2016/4/15,Total phosphorus,0.067666667
+Chai,2016/5/12,Total phosphorus,0.059333333
+Chai,2016/5/20,Total phosphorus,0.109
+Chai,2016/6/3,Total phosphorus,0.084666667
+Chai,2016/6/23,Total phosphorus,0.125333333
+Chai,2016/7/2,Total phosphorus,0.038
+Chai,2016/7/10,Total phosphorus,0.037
+Chai,2016/7/17,Total phosphorus,0.057
+Chai,2016/8/5,Total phosphorus,0.110333333
+Chai,2016/8/21,Total phosphorus,0.115666667
+Chai,2016/9/3,Total phosphorus,0.0645
+Chai,2016/9/16,Total phosphorus,0.097666667
+Chai,2016/9/25,Total phosphorus,0.089666667
+Chai,2016/10/8,Total phosphorus,0.068333333
+Chai,2016/10/20,Total phosphorus,0.060666667
+Chai,2016/11/11,Total phosphorus,0.078666667
+Chai,2016/11/19,Total phosphorus,0.072333333
+Chai,2016/12/3,Total phosphorus,0.061
+Chai,2016/12/9,Total phosphorus,0.062333333
+Decha,2014/1/18,Potassium,3.807
+Decha,2014/2/16,Potassium,3.618
+Decha,2014/3/20,Potassium,3.29
+Decha,2014/4/19,Potassium,2.814
+Decha,2014/5/15,Potassium,3.28
+Decha,2014/6/21,Potassium,3.98
+Decha,2014/9/20,Potassium,2.57
+Decha,2014/10/18,Potassium,6.17
+Decha,2014/11/20,Potassium,4.48
+Decha,2015/1/17,Potassium,5.56
+Decha,2015/2/14,Potassium,5.75
+Decha,2015/5/22,Potassium,4.98
+Decha,2015/6/18,Potassium,4.63
+Decha,2015/9/19,Potassium,7.37
+Decha,2015/10/17,Potassium,4.15
+Decha,2015/11/20,Potassium,3.56
+Decha,2015/12/17,Potassium,4.42
+Decha,2016/1/21,Potassium,3.16
+Decha,2016/2/18,Potassium,12.16
+Decha,2016/3/18,Potassium,3.73
+Decha,2016/4/15,Potassium,20.79
+Decha,2016/5/19,Potassium,9.83
+Decha,2016/6/19,Potassium,7.55
+Decha,2016/7/17,Potassium,5.34
+Decha,2016/7/24,Potassium,3.09
+Decha,2016/8/19,Potassium,3.3
+Decha,2016/9/17,Potassium,2.82
+Decha,2016/10/14,Potassium,2.81
+Decha,2016/11/20,Potassium,4.32
+Decha,2016/12/16,Potassium,5.46
+Decha,2009/1/21,Total nitrogen,3.4
+Decha,2009/3/17,Total nitrogen,5.56
+Decha,2009/4/23,Total nitrogen,1.73
+Decha,2009/5/17,Total nitrogen,1.76
+Decha,2009/6/20,Total nitrogen,1.633
+Decha,2009/7/19,Total nitrogen,2.163
+Decha,2009/8/17,Total nitrogen,3.71
+Decha,2009/12/12,Total nitrogen,2.379
+Decha,2010/1/17,Total nitrogen,9.15
+Decha,2010/2/19,Total nitrogen,2.49
+Decha,2010/3/18,Total nitrogen,2.7
+Decha,2010/4/17,Total nitrogen,3.15
+Decha,2010/5/19,Total nitrogen,6.425
+Decha,2010/6/17,Total nitrogen,3.43
+Decha,2010/7/16,Total nitrogen,2.58
+Decha,2010/9/16,Total nitrogen,3.529
+Decha,2012/8/17,Total nitrogen,1.9614
+Decha,2012/10/19,Total nitrogen,4.165
+Decha,2012/11/18,Total nitrogen,1.156
+Decha,2012/12/15,Total nitrogen,4.48
+Decha,2013/1/20,Total nitrogen,2
+Decha,2013/1/25,Total nitrogen,2
+Decha,2013/2/2,Total nitrogen,2
+Decha,2013/2/17,Total nitrogen,2
+Decha,2013/3/11,Total nitrogen,2
+Decha,2013/3/17,Total nitrogen,4.343
+Decha,2013/4/7,Total nitrogen,2.13
+Decha,2013/4/18,Total nitrogen,5.86
+Decha,2013/5/18,Total nitrogen,4.66
+Decha,2013/6/15,Total nitrogen,3.46
+Decha,2013/6/17,Total nitrogen,2
+Decha,2013/7/12,Total nitrogen,3.99
+Decha,2013/7/18,Total nitrogen,2
+Decha,2013/7/27,Total nitrogen,2
+Decha,2013/8/3,Total nitrogen,2
+Decha,2013/8/18,Total nitrogen,2
+Decha,2013/9/7,Total nitrogen,2
+Decha,2013/9/19,Total nitrogen,2
+Decha,2013/10/19,Total nitrogen,2
+Decha,2013/11/9,Total nitrogen,2
+Decha,2013/12/9,Total nitrogen,2
+Decha,2013/12/13,Total nitrogen,4.2
+Decha,2014/1/18,Total nitrogen,4
+Decha,2014/1/23,Total nitrogen,4
+Decha,2014/2/16,Total nitrogen,4
+Decha,2014/2/21,Total nitrogen,4
+Decha,2014/3/20,Total nitrogen,4
+Decha,2014/3/26,Total nitrogen,4
+Decha,2014/4/19,Total nitrogen,4
+Decha,2014/4/25,Total nitrogen,4
+Decha,2014/5/15,Total nitrogen,4
+Decha,2014/5/23,Total nitrogen,4
+Decha,2014/6/21,Total nitrogen,4
+Decha,2014/6/27,Total nitrogen,4
+Decha,2014/7/17,Total nitrogen,4
+Decha,2014/7/23,Total nitrogen,4
+Decha,2014/7/27,Total nitrogen,4
+Decha,2014/8/16,Total nitrogen,4
+Decha,2014/8/21,Total nitrogen,4
+Decha,2014/8/31,Total nitrogen,4
+Decha,2014/9/20,Total nitrogen,4
+Decha,2014/9/26,Total nitrogen,4
+Decha,2014/10/18,Total nitrogen,4
+Decha,2014/10/25,Total nitrogen,4
+Decha,2014/11/20,Total nitrogen,4
+Decha,2014/11/27,Total nitrogen,4
+Decha,2014/12/10,Total nitrogen,4
+Decha,2014/12/13,Total nitrogen,4
+Decha,2015/2/14,Total nitrogen,2
+Decha,2015/2/20,Total nitrogen,2
+Decha,2015/3/12,Total nitrogen,2
+Decha,2015/3/21,Total nitrogen,2
+Decha,2015/6/18,Total nitrogen,4.81
+Decha,2015/7/10,Total nitrogen,1.098
+Decha,2015/7/18,Total nitrogen,8.029
+Decha,2015/7/24,Total nitrogen,7.465
+Decha,2015/8/19,Total nitrogen,0.77
+Decha,2015/8/20,Total nitrogen,1.2
+Decha,2015/8/27,Total nitrogen,0.95
+Decha,2015/9/19,Total nitrogen,1.73
+Decha,2015/9/24,Total nitrogen,1.25
+Decha,2015/10/14,Total nitrogen,1.23
+Decha,2015/10/17,Total nitrogen,1.25
+Decha,2015/11/14,Total nitrogen,1.509
+Decha,2015/11/20,Total nitrogen,1.179
+Decha,2015/12/9,Total nitrogen,1.72
+Decha,2015/12/17,Total nitrogen,2.41
+Decha,2016/1/14,Total nitrogen,1.65
+Decha,2016/1/21,Total nitrogen,1.837
+Decha,2016/2/7,Total nitrogen,2.02
+Decha,2016/2/18,Total nitrogen,1.803
+Decha,2016/3/13,Total nitrogen,1.479
+Decha,2016/3/18,Total nitrogen,1.8
+Decha,2016/4/11,Total nitrogen,1.225
+Decha,2016/4/15,Total nitrogen,1.244
+Decha,2016/5/13,Total nitrogen,0.731
+Decha,2016/5/19,Total nitrogen,2.206
+Decha,2016/6/12,Total nitrogen,0.639
+Decha,2016/6/19,Total nitrogen,1.018
+Decha,2016/7/10,Total nitrogen,1.045
+Decha,2016/7/17,Total nitrogen,1.812
+Decha,2016/7/24,Total nitrogen,1.327
+Decha,2016/8/19,Total nitrogen,2.847
+Decha,2016/8/20,Total nitrogen,3.615
+Decha,2016/8/27,Total nitrogen,2.222
+Decha,2016/9/12,Total nitrogen,1.383
+Decha,2016/9/17,Total nitrogen,1.178
+Decha,2016/10/14,Total nitrogen,1.135
+Decha,2016/10/17,Total nitrogen,1.793
+Decha,2016/11/17,Total nitrogen,1.835
+Decha,2016/11/20,Total nitrogen,1.321
+Decha,2016/12/16,Total nitrogen,2.354
+Decha,2016/12/23,Total nitrogen,1.576
+Decha,2009/1/21,Total phosphorus,0.82
+Decha,2009/3/17,Total phosphorus,0.024
+Decha,2009/4/23,Total phosphorus,0.043
+Decha,2009/5/17,Total phosphorus,0.046
+Decha,2009/6/20,Total phosphorus,2.1382
+Decha,2009/7/19,Total phosphorus,0.021
+Decha,2009/8/17,Total phosphorus,0.09
+Decha,2009/9/18,Total phosphorus,0.221
+Decha,2009/10/10,Total phosphorus,0.07
+Decha,2009/11/20,Total phosphorus,0.124
+Decha,2009/12/12,Total phosphorus,0.086
+Decha,2010/1/17,Total phosphorus,0.071
+Decha,2010/2/19,Total phosphorus,0.078
+Decha,2010/3/18,Total phosphorus,0.055
+Decha,2010/4/17,Total phosphorus,0.114
+Decha,2010/5/19,Total phosphorus,0.113
+Decha,2010/6/17,Total phosphorus,0.248
+Decha,2010/7/16,Total phosphorus,0.212
+Decha,2010/8/21,Total phosphorus,0.07
+Decha,2010/9/16,Total phosphorus,0.056
+Decha,2010/10/19,Total phosphorus,0.202
+Decha,2010/11/18,Total phosphorus,0.026
+Decha,2010/12/16,Total phosphorus,0.109
+Decha,2011/1/21,Total phosphorus,0.106
+Decha,2011/2/19,Total phosphorus,0.212
+Decha,2011/3/17,Total phosphorus,0.24
+Decha,2011/4/15,Total phosphorus,0.125
+Decha,2011/5/20,Total phosphorus,0.089
+Decha,2011/6/17,Total phosphorus,0.108
+Decha,2011/7/20,Total phosphorus,0.033
+Decha,2011/8/18,Total phosphorus,0.087
+Decha,2011/9/15,Total phosphorus,0.062
+Decha,2011/10/13,Total phosphorus,0.05
+Decha,2011/11/18,Total phosphorus,0.164
+Decha,2011/12/17,Total phosphorus,0.185
+Decha,2012/1/20,Total phosphorus,0.07
+Decha,2012/2/17,Total phosphorus,0.384
+Decha,2012/3/16,Total phosphorus,0.112
+Decha,2012/4/19,Total phosphorus,0.158
+Decha,2012/5/19,Total phosphorus,0.086
+Decha,2012/6/17,Total phosphorus,0.089
+Decha,2012/7/20,Total phosphorus,0.158
+Decha,2012/8/17,Total phosphorus,0.161
+Decha,2012/9/20,Total phosphorus,0.253
+Decha,2012/10/19,Total phosphorus,0.071
+Decha,2012/11/18,Total phosphorus,0.076
+Decha,2012/12/15,Total phosphorus,0.137
+Decha,2013/1/20,Total phosphorus,0.092
+Decha,2013/1/25,Total phosphorus,0.141
+Decha,2013/2/2,Total phosphorus,0.52
+Decha,2013/2/17,Total phosphorus,0.118
+Decha,2013/3/11,Total phosphorus,0.118
+Decha,2013/3/17,Total phosphorus,0.138
+Decha,2013/4/7,Total phosphorus,0.068
+Decha,2013/4/18,Total phosphorus,0.058
+Decha,2013/5/18,Total phosphorus,0.26
+Decha,2013/6/15,Total phosphorus,0.069
+Decha,2013/6/17,Total phosphorus,0.144
+Decha,2013/7/12,Total phosphorus,0.229
+Decha,2013/7/18,Total phosphorus,0.213
+Decha,2013/7/27,Total phosphorus,0.121
+Decha,2013/8/3,Total phosphorus,0.154
+Decha,2013/8/18,Total phosphorus,0.12
+Decha,2013/9/7,Total phosphorus,0.045
+Decha,2013/9/19,Total phosphorus,0.015
+Decha,2013/10/12,Total phosphorus,0.167
+Decha,2013/10/19,Total phosphorus,0.037
+Decha,2013/11/9,Total phosphorus,0.108
+Decha,2013/11/21,Total phosphorus,0.109
+Decha,2013/12/13,Total phosphorus,0.062
+Decha,2014/1/18,Total phosphorus,0.077
+Decha,2014/1/23,Total phosphorus,0.084
+Decha,2014/2/16,Total phosphorus,0.102
+Decha,2014/2/21,Total phosphorus,0.015
+Decha,2014/3/20,Total phosphorus,0.66
+Decha,2014/3/26,Total phosphorus,0.092
+Decha,2014/4/19,Total phosphorus,0.267
+Decha,2014/4/25,Total phosphorus,0.285
+Decha,2014/5/15,Total phosphorus,0.063
+Decha,2014/5/23,Total phosphorus,0.173
+Decha,2014/6/21,Total phosphorus,0.012
+Decha,2014/6/27,Total phosphorus,0.015
+Decha,2014/7/17,Total phosphorus,0.225
+Decha,2014/7/23,Total phosphorus,0.066
+Decha,2014/7/27,Total phosphorus,0.059
+Decha,2014/8/16,Total phosphorus,0.084
+Decha,2014/8/21,Total phosphorus,0.303
+Decha,2014/8/31,Total phosphorus,0.065
+Decha,2014/9/20,Total phosphorus,0.089
+Decha,2014/9/26,Total phosphorus,0.091
+Decha,2014/10/18,Total phosphorus,0.066
+Decha,2014/10/25,Total phosphorus,0.05
+Decha,2014/11/20,Total phosphorus,0.083
+Decha,2014/11/27,Total phosphorus,0.076
+Decha,2014/12/10,Total phosphorus,0.108
+Decha,2014/12/13,Total phosphorus,0.18
+Decha,2015/1/14,Total phosphorus,0.387
+Decha,2015/1/17,Total phosphorus,0.099
+Decha,2015/2/14,Total phosphorus,0.096
+Decha,2015/2/20,Total phosphorus,0.107
+Decha,2015/3/12,Total phosphorus,0.112
+Decha,2015/3/21,Total phosphorus,0.21
+Decha,2015/4/10,Total phosphorus,0.129
+Decha,2015/4/18,Total phosphorus,0.075
+Decha,2015/5/14,Total phosphorus,0.058
+Decha,2015/6/12,Total phosphorus,0.034
+Decha,2015/6/18,Total phosphorus,0.036
+Decha,2015/7/10,Total phosphorus,0.018
+Decha,2015/7/18,Total phosphorus,0.14
+Decha,2015/7/24,Total phosphorus,0.092
+Decha,2015/8/19,Total phosphorus,0.119
+Decha,2015/8/20,Total phosphorus,0.137
+Decha,2015/8/27,Total phosphorus,0.135
+Decha,2015/9/19,Total phosphorus,0.072
+Decha,2015/9/24,Total phosphorus,0.114
+Decha,2015/10/14,Total phosphorus,0.134
+Decha,2015/10/17,Total phosphorus,0.081
+Decha,2015/11/14,Total phosphorus,0.122
+Decha,2015/11/20,Total phosphorus,0.086
+Decha,2015/12/9,Total phosphorus,0.062
+Decha,2016/1/14,Total phosphorus,0.071
+Decha,2016/1/21,Total phosphorus,0.157
+Decha,2016/2/7,Total phosphorus,0.091
+Decha,2016/2/18,Total phosphorus,0.196
+Decha,2016/3/13,Total phosphorus,0.123
+Decha,2016/3/18,Total phosphorus,0.12
+Decha,2016/4/11,Total phosphorus,0.157
+Decha,2016/4/15,Total phosphorus,0.222
+Decha,2016/5/13,Total phosphorus,0.113
+Decha,2016/5/19,Total phosphorus,0.234
+Decha,2016/6/12,Total phosphorus,0.101
+Decha,2016/6/19,Total phosphorus,0.169
+Decha,2016/7/17,Total phosphorus,0.413
+Decha,2016/7/24,Total phosphorus,0.379
+Decha,2016/8/19,Total phosphorus,0.154
+Decha,2016/8/20,Total phosphorus,0.293
+Decha,2016/8/27,Total phosphorus,0.143
+Decha,2016/9/12,Total phosphorus,0.069
+Decha,2016/9/17,Total phosphorus,0.101
+Decha,2016/10/14,Total phosphorus,0.132
+Decha,2016/10/17,Total phosphorus,0.136
+Decha,2016/11/17,Total phosphorus,0.197
+Decha,2016/11/20,Total phosphorus,0.197
+Decha,2016/12/16,Total phosphorus,0.122
+Decha,2016/12/23,Total phosphorus,0.12
+Kannika,1998/1/26,Potassium,3.233333333
+Kannika,1998/2/24,Potassium,2.8
+Kannika,1998/3/21,Potassium,2.833333333
+Kannika,1998/4/18,Potassium,3.3
+Kannika,1998/5/26,Potassium,2.7
+Kannika,1998/6/29,Potassium,3.733333333
+Kannika,1998/7/26,Potassium,3.033333333
+Kannika,1998/8/25,Potassium,3.633333333
+Kannika,1998/9/20,Potassium,3.433333333
+Kannika,1998/10/23,Potassium,4.166666667
+Kannika,1998/11/20,Potassium,3.233333333
+Kannika,1998/12/17,Potassium,2.666666667
+Kannika,1999/1/21,Potassium,3.083333333
+Kannika,1999/2/26,Potassium,3.083333333
+Kannika,1999/3/24,Potassium,5.5
+Kannika,1999/4/23,Potassium,3.9
+Kannika,1999/5/28,Potassium,2.966666667
+Kannika,1999/6/23,Potassium,2.766666667
+Kannika,1999/7/25,Potassium,4.333333333
+Kannika,1999/8/30,Potassium,3.966666667
+Kannika,1999/9/19,Potassium,3.9
+Kannika,1999/10/22,Potassium,3.966666667
+Kannika,1999/11/26,Potassium,2.533333333
+Kannika,1999/12/16,Potassium,4.133333333
+Kannika,2000/1/19,Potassium,4
+Kannika,2000/2/18,Potassium,3.533333333
+Kannika,2000/3/24,Potassium,4.933333333
+Kannika,2000/4/29,Potassium,3.133333333
+Kannika,2000/5/27,Potassium,3
+Kannika,2000/6/25,Potassium,3.433333333
+Kannika,2000/7/28,Potassium,3.266666667
+Kannika,2000/8/28,Potassium,5.8
+Kannika,2000/9/23,Potassium,3.066666667
+Kannika,2000/10/18,Potassium,4.1
+Kannika,2000/11/25,Potassium,4
+Kannika,2000/12/30,Potassium,3.933333333
+Kannika,2001/1/27,Potassium,3.666666667
+Kannika,2001/2/24,Potassium,3.066666667
+Kannika,2001/3/25,Potassium,2.533333333
+Kannika,2001/4/29,Potassium,2.5
+Kannika,2001/5/27,Potassium,3.266666667
+Kannika,2001/6/21,Potassium,4.243333333
+Kannika,2001/7/27,Potassium,3.673333333
+Kannika,2001/8/28,Potassium,4.233333333
+Kannika,2001/9/25,Potassium,3.866666667
+Kannika,2001/11/23,Potassium,2.333333333
+Kannika,2001/12/21,Potassium,2.333333333
+Kannika,2005/7/8,Potassium,2.666666667
+Kannika,2005/8/12,Potassium,2.966666667
+Kannika,2007/2/8,Potassium,1.433333333
+Kannika,2007/3/15,Potassium,1.2
+Kannika,2007/4/12,Potassium,1.333333333
+Kannika,2007/5/10,Potassium,1.533333333
+Kannika,2007/6/9,Potassium,2.666666667
+Kannika,2007/8/11,Potassium,1.4
+Kannika,2007/9/30,Potassium,1.733333333
+Kannika,2007/11/21,Potassium,2.666666667
+Kannika,2007/12/13,Potassium,2.733333333
+Kannika,2008/1/10,Potassium,2.466666667
+Kannika,2008/4/14,Potassium,1.966666667
+Kannika,2008/5/9,Potassium,1.933333333
+Kannika,2008/11/7,Potassium,2
+Kannika,2008/12/12,Potassium,1.6
+Kannika,2009/1/9,Potassium,2.1
+Kannika,2009/2/13,Potassium,2.366666667
+Kannika,2009/3/13,Potassium,2.033333333
+Kannika,2009/4/17,Potassium,2.6
+Kannika,2009/5/8,Potassium,2.4
+Kannika,2009/6/12,Potassium,2.466666667
+Kannika,2009/7/11,Potassium,2.3
+Kannika,2009/8/8,Potassium,2.2
+Kannika,2009/9/9,Potassium,1.8
+Kannika,2009/9/27,Potassium,2.65
+Kannika,2009/10/10,Potassium,2.033333333
+Kannika,2009/11/13,Potassium,2.366666667
+Kannika,2009/12/5,Potassium,2.533333333
+Kannika,2010/1/10,Potassium,2.133333333
+Kannika,2010/2/7,Potassium,2.666666667
+Kannika,2010/6/19,Potassium,2.466666667
+Kannika,2011/1/15,Potassium,1.9
+Kannika,2011/6/18,Potassium,2.733333333
+Kannika,2011/8/6,Potassium,2.9
+Kannika,2011/9/9,Potassium,2.333333333
+Kannika,2011/10/14,Potassium,2.966666667
+Kannika,2012/2/11,Potassium,2.933333333
+Kannika,2012/4/15,Potassium,2.8
+Kannika,2012/5/13,Potassium,2.666666667
+Kannika,2012/9/23,Potassium,3.566666667
+Kannika,2012/10/14,Potassium,3.266666667
+Kannika,2012/11/9,Potassium,3.733333333
+Kannika,2012/12/9,Potassium,3.266666667
+Kannika,2013/1/11,Potassium,3.333333333
+Kannika,2013/3/10,Potassium,3.5
+Kannika,2013/8/12,Potassium,2.966666667
+Kannika,2013/10/11,Potassium,2.5
+Kannika,2013/11/8,Potassium,2.566666667
+Kannika,2014/1/11,Potassium,3.9
+Kannika,2014/4/3,Potassium,2.866666667
+Kannika,2014/6/12,Potassium,2.6
+Kannika,2014/7/10,Potassium,2.233333333
+Kannika,2014/9/6,Potassium,2.766666667
+Kannika,2014/10/9,Potassium,2.933333333
+Kannika,2015/1/8,Potassium,2.366666667
+Kannika,2015/2/12,Potassium,2.633333333
+Kannika,2015/3/12,Potassium,2.833333333
+Kannika,2015/6/4,Potassium,2.433333333
+Kannika,2015/7/2,Potassium,2.833333333
+Kannika,2015/9/24,Potassium,3.1
+Kannika,2015/11/19,Potassium,2.9
+Kannika,2016/1/9,Potassium,3.266666667
+Kannika,2005/5/13,Total nitrogen,3.086666667
+Kannika,2005/6/10,Total nitrogen,2.393333333
+Kannika,2005/7/8,Total nitrogen,1.533333333
+Kannika,2005/8/12,Total nitrogen,1.293333333
+Kannika,2005/10/14,Total nitrogen,1.67
+Kannika,2005/11/11,Total nitrogen,2.006666667
+Kannika,2006/1/13,Total nitrogen,2.616666667
+Kannika,2006/2/10,Total nitrogen,3.583333333
+Kannika,2006/5/11,Total nitrogen,2.2
+Kannika,2006/7/11,Total nitrogen,2.6
+Kannika,2006/8/10,Total nitrogen,1.9
+Kannika,2006/12/7,Total nitrogen,2.883333333
+Kannika,2007/1/11,Total nitrogen,2.763333333
+Kannika,2007/2/8,Total nitrogen,3.02
+Kannika,2007/3/15,Total nitrogen,2.38
+Kannika,2007/4/12,Total nitrogen,2.443333333
+Kannika,2007/5/10,Total nitrogen,1.373333333
+Kannika,2007/6/9,Total nitrogen,1.126666667
+Kannika,2007/7/7,Total nitrogen,0.828333333
+Kannika,2007/8/11,Total nitrogen,3.53
+Kannika,2007/9/30,Total nitrogen,3.733333333
+Kannika,2007/10/13,Total nitrogen,2.07
+Kannika,2007/11/21,Total nitrogen,2.42
+Kannika,2007/12/13,Total nitrogen,1.323333333
+Kannika,2008/1/10,Total nitrogen,2.4
+Kannika,2008/3/2,Total nitrogen,3.983333333
+Kannika,2008/4/14,Total nitrogen,3.043333333
+Kannika,2008/5/9,Total nitrogen,1.353333333
+Kannika,2008/6/15,Total nitrogen,1.353333333
+Kannika,2008/7/12,Total nitrogen,1.703333333
+Kannika,2008/8/8,Total nitrogen,1.46
+Kannika,2008/9/7,Total nitrogen,1.33
+Kannika,2008/10/12,Total nitrogen,1.216666667
+Kannika,2008/11/7,Total nitrogen,1.51
+Kannika,2008/12/12,Total nitrogen,1.45
+Kannika,2009/1/9,Total nitrogen,1.763333333
+Kannika,2009/2/13,Total nitrogen,2.82
+Kannika,2009/3/13,Total nitrogen,2.89
+Kannika,2009/4/17,Total nitrogen,2.573333333
+Kannika,2009/5/8,Total nitrogen,1.017
+Kannika,2009/6/12,Total nitrogen,1.873333333
+Kannika,2009/7/11,Total nitrogen,1.92
+Kannika,2009/8/8,Total nitrogen,1.703333333
+Kannika,2009/9/9,Total nitrogen,1.766666667
+Kannika,2009/9/27,Total nitrogen,1.935
+Kannika,2009/10/10,Total nitrogen,2.016666667
+Kannika,2009/11/13,Total nitrogen,2.023333333
+Kannika,2009/12/5,Total nitrogen,2.12
+Kannika,2010/1/10,Total nitrogen,2.42
+Kannika,2010/2/7,Total nitrogen,3.213333333
+Kannika,2010/3/12,Total nitrogen,2.886666667
+Kannika,2010/4/8,Total nitrogen,1.85
+Kannika,2010/5/14,Total nitrogen,1.906666667
+Kannika,2010/6/19,Total nitrogen,2.036666667
+Kannika,2010/7/18,Total nitrogen,1.4
+Kannika,2010/8/14,Total nitrogen,1.926666667
+Kannika,2010/9/2,Total nitrogen,1.643333333
+Kannika,2010/10/15,Total nitrogen,2.163333333
+Kannika,2010/11/9,Total nitrogen,2.223333333
+Kannika,2010/12/11,Total nitrogen,2.183333333
+Kannika,2011/1/15,Total nitrogen,2.566666667
+Kannika,2011/2/10,Total nitrogen,1.926666667
+Kannika,2011/2/12,Total nitrogen,2.74
+Kannika,2011/3/11,Total nitrogen,2.653333333
+Kannika,2011/4/6,Total nitrogen,3.243333333
+Kannika,2011/5/12,Total nitrogen,1.866666667
+Kannika,2011/5/22,Total nitrogen,1.9
+Kannika,2011/6/18,Total nitrogen,1.586666667
+Kannika,2011/6/26,Total nitrogen,1.923333333
+Kannika,2011/7/14,Total nitrogen,2.023333333
+Kannika,2011/7/30,Total nitrogen,1.54
+Kannika,2011/8/6,Total nitrogen,1.323333333
+Kannika,2011/8/25,Total nitrogen,1.93
+Kannika,2011/9/9,Total nitrogen,1.613333333
+Kannika,2011/10/14,Total nitrogen,1.883333333
+Kannika,2011/10/23,Total nitrogen,1.536666667
+Kannika,2011/11/11,Total nitrogen,1.75
+Kannika,2011/11/26,Total nitrogen,2.433333333
+Kannika,2011/12/9,Total nitrogen,2.386666667
+Kannika,2011/12/17,Total nitrogen,2.32
+Kannika,2012/1/14,Total nitrogen,2.416666667
+Kannika,2012/2/11,Total nitrogen,2.443333333
+Kannika,2012/3/30,Total nitrogen,2.98
+Kannika,2012/4/15,Total nitrogen,2.19
+Kannika,2012/5/13,Total nitrogen,1.893333333
+Kannika,2012/6/8,Total nitrogen,2.09
+Kannika,2012/7/13,Total nitrogen,1.556666667
+Kannika,2012/9/1,Total nitrogen,1.966666667
+Kannika,2012/9/23,Total nitrogen,1.936666667
+Kannika,2012/10/14,Total nitrogen,2.193333333
+Kannika,2012/11/9,Total nitrogen,2.37
+Kannika,2012/12/9,Total nitrogen,2.393333333
+Kannika,2013/1/11,Total nitrogen,2.223333333
+Kannika,2013/2/10,Total nitrogen,2.686666667
+Kannika,2013/3/10,Total nitrogen,3.156666667
+Kannika,2013/4/14,Total nitrogen,2.583333333
+Kannika,2013/5/16,Total nitrogen,2.256666667
+Kannika,2013/6/22,Total nitrogen,1.545666667
+Kannika,2013/7/14,Total nitrogen,1.346666667
+Kannika,2013/8/12,Total nitrogen,1.053333333
+Kannika,2013/9/8,Total nitrogen,1.433333333
+Kannika,2013/10/11,Total nitrogen,1.784
+Kannika,2013/11/8,Total nitrogen,1.703333333
+Kannika,2013/12/7,Total nitrogen,2.05
+Kannika,2014/1/11,Total nitrogen,2.36
+Kannika,2014/3/13,Total nitrogen,2.5
+Kannika,2014/4/3,Total nitrogen,2.126666667
+Kannika,2014/5/8,Total nitrogen,1.343333333
+Kannika,2014/6/12,Total nitrogen,1.11
+Kannika,2014/9/6,Total nitrogen,1.1863
+Kannika,2014/10/9,Total nitrogen,1.529333333
+Kannika,2014/11/6,Total nitrogen,1.585733333
+Kannika,2014/12/11,Total nitrogen,2.236666667
+Kannika,2015/1/8,Total nitrogen,2.476666667
+Kannika,2015/2/12,Total nitrogen,2.876666667
+Kannika,2015/3/12,Total nitrogen,2.866666667
+Kannika,2015/4/2,Total nitrogen,1.593333333
+Kannika,2015/5/14,Total nitrogen,1.34
+Kannika,2015/6/4,Total nitrogen,1.09
+Kannika,2015/7/2,Total nitrogen,1.973333333
+Kannika,2015/8/19,Total nitrogen,1.553333333
+Kannika,2015/9/24,Total nitrogen,1.097
+Kannika,2015/10/8,Total nitrogen,1.613333333
+Kannika,2015/11/19,Total nitrogen,1.856666667
+Kannika,2015/12/10,Total nitrogen,1.696666667
+Kannika,2016/1/9,Total nitrogen,1.97
+Kannika,2016/2/11,Total nitrogen,2.1
+Kannika,2016/3/11,Total nitrogen,2.096666667
+Kannika,2016/4/1,Total nitrogen,2.283333333
+Kannika,2016/5/13,Total nitrogen,1.416666667
+Kannika,2016/6/3,Total nitrogen,1.317333333
+Kannika,2016/7/1,Total nitrogen,1.597666667
+Kannika,2016/8/7,Total nitrogen,1.524
+Kannika,2016/9/16,Total nitrogen,1.363333333
+Kannika,2016/10/2,Total nitrogen,1.647333333
+Kannika,2016/11/11,Total nitrogen,1.596666667
+Kannika,2016/12/2,Total nitrogen,1.530333333
+Kannika,1998/1/26,Total phosphorus,0.096666667
+Kannika,1998/2/24,Total phosphorus,0.103333333
+Kannika,1998/3/21,Total phosphorus,0.1
+Kannika,1998/4/18,Total phosphorus,0.1
+Kannika,1998/5/26,Total phosphorus,0.086666667
+Kannika,1998/6/29,Total phosphorus,0.11
+Kannika,1998/7/26,Total phosphorus,0.09
+Kannika,1998/8/25,Total phosphorus,0.073333333
+Kannika,1998/9/20,Total phosphorus,0.076666667
+Kannika,1998/10/23,Total phosphorus,0.116666667
+Kannika,1998/11/20,Total phosphorus,0.096666667
+Kannika,1998/12/17,Total phosphorus,0.086666667
+Kannika,1999/1/21,Total phosphorus,0.066666667
+Kannika,1999/2/26,Total phosphorus,0.03
+Kannika,1999/3/24,Total phosphorus,0.143333333
+Kannika,1999/4/23,Total phosphorus,0.136666667
+Kannika,1999/5/28,Total phosphorus,0.073333333
+Kannika,1999/6/23,Total phosphorus,0.126666667
+Kannika,1999/7/25,Total phosphorus,0.066666667
+Kannika,1999/8/30,Total phosphorus,0.08
+Kannika,1999/9/19,Total phosphorus,0.07
+Kannika,1999/10/22,Total phosphorus,0.073333333
+Kannika,1999/11/26,Total phosphorus,0.07
+Kannika,1999/12/16,Total phosphorus,0.046666667
+Kannika,2000/1/19,Total phosphorus,0.023333333
+Kannika,2000/2/18,Total phosphorus,0.05
+Kannika,2000/3/24,Total phosphorus,0.023333333
+Kannika,2000/4/29,Total phosphorus,0.12
+Kannika,2000/5/27,Total phosphorus,0.073333333
+Kannika,2000/6/25,Total phosphorus,0.116666667
+Kannika,2000/7/28,Total phosphorus,0.02
+Kannika,2000/8/28,Total phosphorus,0.19
+Kannika,2000/9/23,Total phosphorus,0.043333333
+Kannika,2000/10/18,Total phosphorus,0.14
+Kannika,2000/11/25,Total phosphorus,0.146666667
+Kannika,2000/12/30,Total phosphorus,0.14
+Kannika,2001/1/27,Total phosphorus,0.086666667
+Kannika,2001/2/24,Total phosphorus,0.07
+Kannika,2001/3/25,Total phosphorus,0.04
+Kannika,2001/4/29,Total phosphorus,0.07
+Kannika,2001/5/27,Total phosphorus,0.09
+Kannika,2001/6/21,Total phosphorus,0.113333333
+Kannika,2001/7/27,Total phosphorus,0.053333333
+Kannika,2001/8/28,Total phosphorus,0.106666667
+Kannika,2001/9/25,Total phosphorus,0.073333333
+Kannika,2002/1/27,Total phosphorus,0.046666667
+Kannika,2002/2/25,Total phosphorus,0.056666667
+Kannika,2002/3/26,Total phosphorus,0.05
+Kannika,2002/4/27,Total phosphorus,0.023333333
+Kannika,2002/5/18,Total phosphorus,0.033333333
+Kannika,2002/6/22,Total phosphorus,0.053333333
+Kannika,2002/7/25,Total phosphorus,0.023333333
+Kannika,2002/8/21,Total phosphorus,0.046666667
+Kannika,2002/9/21,Total phosphorus,0.04
+Kannika,2002/10/12,Total phosphorus,0.11
+Kannika,2002/10/26,Total phosphorus,0.046666667
+Kannika,2002/12/18,Total phosphorus,0.046666667
+Kannika,2003/2/21,Total phosphorus,0.015
+Kannika,2003/3/21,Total phosphorus,0.059333333
+Kannika,2003/4/25,Total phosphorus,0.030333333
+Kannika,2003/5/21,Total phosphorus,0.026
+Kannika,2003/6/26,Total phosphorus,0.029666667
+Kannika,2003/7/24,Total phosphorus,0.054
+Kannika,2003/8/27,Total phosphorus,0.101333333
+Kannika,2003/9/17,Total phosphorus,0.196666667
+Kannika,2003/10/25,Total phosphorus,0.247
+Kannika,2003/11/20,Total phosphorus,0.135333333
+Kannika,2003/12/18,Total phosphorus,0.096333333
+Kannika,2004/9/3,Total phosphorus,0.042666667
+Kannika,2004/10/9,Total phosphorus,0.086
+Kannika,2004/12/11,Total phosphorus,0.127333333
+Kannika,2005/1/16,Total phosphorus,0.140333333
+Kannika,2005/2/11,Total phosphorus,0.173
+Kannika,2005/3/11,Total phosphorus,0.067666667
+Kannika,2005/4/8,Total phosphorus,0.138333333
+Kannika,2005/5/13,Total phosphorus,0.010666667
+Kannika,2005/7/8,Total phosphorus,0.052333333
+Kannika,2005/8/12,Total phosphorus,0.146
+Kannika,2005/9/9,Total phosphorus,0.046666667
+Kannika,2005/10/14,Total phosphorus,0.051333333
+Kannika,2005/11/11,Total phosphorus,0.331333333
+Kannika,2005/12/9,Total phosphorus,0.055
+Kannika,2006/1/13,Total phosphorus,0.192666667
+Kannika,2006/2/10,Total phosphorus,0.157
+Kannika,2006/3/9,Total phosphorus,0.15
+Kannika,2006/4/15,Total phosphorus,0.114666667
+Kannika,2006/5/11,Total phosphorus,0.140333333
+Kannika,2006/6/26,Total phosphorus,0.09
+Kannika,2006/7/11,Total phosphorus,0.091666667
+Kannika,2006/8/10,Total phosphorus,0.105
+Kannika,2006/9/14,Total phosphorus,0.092333333
+Kannika,2006/10/12,Total phosphorus,0.155666667
+Kannika,2006/11/9,Total phosphorus,0.120666667
+Kannika,2006/12/7,Total phosphorus,0.076666667
+Kannika,2007/1/11,Total phosphorus,0.113
+Kannika,2007/2/8,Total phosphorus,0.103333333
+Kannika,2007/3/15,Total phosphorus,0.304666667
+Kannika,2007/4/12,Total phosphorus,0.118666667
+Kannika,2007/5/10,Total phosphorus,0.123666667
+Kannika,2007/6/9,Total phosphorus,0.11
+Kannika,2007/7/7,Total phosphorus,0.087666667
+Kannika,2007/8/11,Total phosphorus,0.186
+Kannika,2007/9/30,Total phosphorus,0.163333333
+Kannika,2007/10/13,Total phosphorus,0.132333333
+Kannika,2007/11/21,Total phosphorus,0.251
+Kannika,2007/12/13,Total phosphorus,0.189333333
+Kannika,2008/3/2,Total phosphorus,0.216466667
+Kannika,2008/4/14,Total phosphorus,0.129666667
+Kannika,2008/5/9,Total phosphorus,0.162333333
+Kannika,2008/6/15,Total phosphorus,0.197333333
+Kannika,2008/7/12,Total phosphorus,0.212
+Kannika,2008/8/8,Total phosphorus,0.070166667
+Kannika,2008/9/7,Total phosphorus,0.220666667
+Kannika,2008/10/12,Total phosphorus,0.118633333
+Kannika,2008/11/7,Total phosphorus,0.076
+Kannika,2008/12/12,Total phosphorus,0.0596
+Kannika,2009/1/9,Total phosphorus,0.122333333
+Kannika,2009/2/13,Total phosphorus,0.100666667
+Kannika,2009/3/13,Total phosphorus,0.126
+Kannika,2009/4/17,Total phosphorus,0.084333333
+Kannika,2009/5/8,Total phosphorus,0.141
+Kannika,2009/6/12,Total phosphorus,0.0179
+Kannika,2009/7/11,Total phosphorus,0.035666667
+Kannika,2009/8/8,Total phosphorus,0.0856
+Kannika,2009/9/9,Total phosphorus,0.0778
+Kannika,2009/9/27,Total phosphorus,0.0865
+Kannika,2009/10/10,Total phosphorus,0.197133333
+Kannika,2009/11/13,Total phosphorus,0.063333333
+Kannika,2009/12/5,Total phosphorus,0.113666667
+Kannika,2010/1/10,Total phosphorus,0.124333333
+Kannika,2010/2/7,Total phosphorus,0.112633333
+Kannika,2010/3/12,Total phosphorus,0.0578
+Kannika,2010/4/8,Total phosphorus,0.301666667
+Kannika,2010/5/14,Total phosphorus,0.033333333
+Kannika,2010/6/19,Total phosphorus,0.042333333
+Kannika,2010/7/18,Total phosphorus,0.053333333
+Kannika,2010/8/14,Total phosphorus,0.078666667
+Kannika,2010/9/2,Total phosphorus,0.037666667
+Kannika,2010/10/15,Total phosphorus,0.046666667
+Kannika,2010/11/9,Total phosphorus,0.094
+Kannika,2010/12/11,Total phosphorus,0.053666667
+Kannika,2011/1/15,Total phosphorus,0.086333333
+Kannika,2011/2/10,Total phosphorus,0.078666667
+Kannika,2011/2/12,Total phosphorus,0.092
+Kannika,2011/3/11,Total phosphorus,0.058333333
+Kannika,2011/4/6,Total phosphorus,0.064
+Kannika,2011/5/12,Total phosphorus,0.038
+Kannika,2011/5/22,Total phosphorus,0.038
+Kannika,2011/6/18,Total phosphorus,0.043
+Kannika,2011/6/26,Total phosphorus,0.039
+Kannika,2011/7/14,Total phosphorus,0.05
+Kannika,2011/7/30,Total phosphorus,0.087333333
+Kannika,2011/8/6,Total phosphorus,0.092
+Kannika,2011/8/25,Total phosphorus,0.086333333
+Kannika,2011/9/9,Total phosphorus,0.094666667
+Kannika,2011/10/14,Total phosphorus,0.087666667
+Kannika,2011/10/23,Total phosphorus,0.106666667
+Kannika,2011/11/11,Total phosphorus,0.112666667
+Kannika,2011/11/26,Total phosphorus,0.072
+Kannika,2011/12/9,Total phosphorus,0.101666667
+Kannika,2011/12/17,Total phosphorus,0.038
+Kannika,2012/1/14,Total phosphorus,0
+Kannika,2012/2/11,Total phosphorus,0.067666667
+Kannika,2012/3/30,Total phosphorus,0.085333333
+Kannika,2012/4/15,Total phosphorus,0.047333333
+Kannika,2012/5/13,Total phosphorus,0.069
+Kannika,2012/6/8,Total phosphorus,0.080666667
+Kannika,2012/7/13,Total phosphorus,0.092666667
+Kannika,2012/9/1,Total phosphorus,0.078333333
+Kannika,2012/9/23,Total phosphorus,0.099666667
+Kannika,2012/10/14,Total phosphorus,0.096666667
+Kannika,2012/11/9,Total phosphorus,0.093333333
+Kannika,2012/12/9,Total phosphorus,0.050666667
+Kannika,2013/1/11,Total phosphorus,0.124666667
+Kannika,2013/2/10,Total phosphorus,0.060666667
+Kannika,2013/3/10,Total phosphorus,0.085
+Kannika,2013/4/14,Total phosphorus,0.057333333
+Kannika,2013/5/16,Total phosphorus,0.059
+Kannika,2013/6/22,Total phosphorus,0.024666667
+Kannika,2013/7/14,Total phosphorus,0.054
+Kannika,2013/8/12,Total phosphorus,0.014666667
+Kannika,2013/9/8,Total phosphorus,0.034333333
+Kannika,2013/10/11,Total phosphorus,0.052666667
+Kannika,2013/11/8,Total phosphorus,0.118333333
+Kannika,2013/12/7,Total phosphorus,0.075
+Kannika,2014/1/11,Total phosphorus,0.111
+Kannika,2014/3/13,Total phosphorus,0.116333333
+Kannika,2014/4/3,Total phosphorus,0.112333333
+Kannika,2014/5/8,Total phosphorus,0.089
+Kannika,2014/6/12,Total phosphorus,0.102666667
+Kannika,2014/7/10,Total phosphorus,0.072333333
+Kannika,2014/8/14,Total phosphorus,0.067666667
+Kannika,2014/9/6,Total phosphorus,0.066
+Kannika,2014/9/11,Total phosphorus,0.056333333
+Kannika,2014/10/9,Total phosphorus,0.081333333
+Kannika,2014/11/6,Total phosphorus,0.073333333
+Kannika,2014/12/11,Total phosphorus,0.110666667
+Kannika,2015/1/8,Total phosphorus,0.110666667
+Kannika,2015/2/12,Total phosphorus,0.076333333
+Kannika,2015/3/12,Total phosphorus,0.088666667
+Kannika,2015/4/2,Total phosphorus,0.108666667
+Kannika,2015/5/14,Total phosphorus,0.096333333
+Kannika,2015/6/4,Total phosphorus,0.074333333
+Kannika,2015/7/2,Total phosphorus,0.141666667
+Kannika,2015/8/19,Total phosphorus,0.054333333
+Kannika,2015/9/24,Total phosphorus,0.068333333
+Kannika,2015/10/8,Total phosphorus,0.086
+Kannika,2015/11/19,Total phosphorus,0.104
+Kannika,2015/12/10,Total phosphorus,0.117333333
+Kannika,2016/1/9,Total phosphorus,0.083666667
+Kannika,2016/2/11,Total phosphorus,0.080333333
+Kannika,2016/3/11,Total phosphorus,0.099666667
+Kannika,2016/4/1,Total phosphorus,0.097666667
+Kannika,2016/5/13,Total phosphorus,0.143333333
+Kannika,2016/6/3,Total phosphorus,0.177333333
+Kannika,2016/7/1,Total phosphorus,0.131333333
+Kannika,2016/8/7,Total phosphorus,0.185666667
+Kannika,2016/9/16,Total phosphorus,0.121
+Kannika,2016/10/2,Total phosphorus,0.112666667
+Kannika,2016/11/11,Total phosphorus,0.120666667
+Kannika,2016/12/2,Total phosphorus,0.105666667
+Kohsoom,1998/4/16,Potassium,5.4
+Kohsoom,1998/6/27,Potassium,9.35
+Kohsoom,1998/8/22,Potassium,8.4
+Kohsoom,1998/10/1,Potassium,6.8
+Kohsoom,1998/11/14,Potassium,7.3
+Kohsoom,1998/12/13,Potassium,6.4
+Kohsoom,1999/1/16,Potassium,7.8
+Kohsoom,1999/2/13,Potassium,7.8
+Kohsoom,1999/3/13,Potassium,7.2
+Kohsoom,1999/4/22,Potassium,6.4
+Kohsoom,1999/5/15,Potassium,7.8
+Kohsoom,1999/6/18,Potassium,6.4
+Kohsoom,1999/7/24,Potassium,7.4
+Kohsoom,1999/8/28,Potassium,4.2
+Kohsoom,1999/9/18,Potassium,7.9
+Kohsoom,1999/10/20,Potassium,5.2
+Kohsoom,1999/11/7,Potassium,6.4
+Kohsoom,1999/12/11,Potassium,6.9
+Kohsoom,2000/1/16,Potassium,7.6
+Kohsoom,2000/2/12,Potassium,6.7
+Kohsoom,2000/3/12,Potassium,5.6
+Kohsoom,2000/4/16,Potassium,6.8
+Kohsoom,2000/5/14,Potassium,6.2
+Kohsoom,2000/6/29,Potassium,5.4
+Kohsoom,2000/7/16,Potassium,3.9
+Kohsoom,2000/8/25,Potassium,10.5
+Kohsoom,2000/9/10,Potassium,4.1
+Kohsoom,2000/10/15,Potassium,5.8
+Kohsoom,2000/11/12,Potassium,7.8
+Kohsoom,2000/12/10,Potassium,5.9
+Kohsoom,2001/1/28,Potassium,6.8
+Kohsoom,2001/2/18,Potassium,5.6
+Kohsoom,2001/3/18,Potassium,5.1
+Kohsoom,2001/4/27,Potassium,4.7
+Kohsoom,2001/5/13,Potassium,6.3
+Kohsoom,2001/6/19,Potassium,7.38
+Kohsoom,2001/7/27,Potassium,5.6
+Kohsoom,2001/8/26,Potassium,7
+Kohsoom,2001/9/16,Potassium,7.7
+Kohsoom,2001/10/14,Potassium,5.2
+Kohsoom,2001/12/9,Potassium,6.5
+Kohsoom,2002/3/23,Potassium,9.9
+Kohsoom,2002/4/27,Potassium,5.8
+Kohsoom,2002/6/29,Potassium,6.5
+Kohsoom,2002/8/24,Potassium,5.8
+Kohsoom,2002/10/26,Potassium,5.5
+Kohsoom,2002/11/23,Potassium,7.8
+Kohsoom,2002/12/22,Potassium,6.9
+Kohsoom,2003/1/26,Potassium,7
+Kohsoom,2003/2/28,Potassium,8.1
+Kohsoom,2003/3/23,Potassium,7.2
+Kohsoom,2003/4/26,Potassium,5.8
+Kohsoom,2003/5/24,Potassium,6.5
+Kohsoom,2003/6/21,Potassium,5.9
+Kohsoom,2003/7/26,Potassium,4.6
+Kohsoom,2003/8/9,Potassium,6.9
+Kohsoom,2003/9/13,Potassium,5.8
+Kohsoom,2003/10/25,Potassium,5.3
+Kohsoom,2003/11/29,Potassium,3.9
+Kohsoom,2003/12/20,Potassium,7.7
+Kohsoom,2004/1/31,Potassium,5.9
+Kohsoom,2004/2/28,Potassium,6.9
+Kohsoom,2004/3/28,Potassium,5.8
+Kohsoom,2004/4/25,Potassium,6.2
+Kohsoom,2004/5/30,Potassium,5.6
+Kohsoom,2004/6/27,Potassium,6.6
+Kohsoom,2004/7/25,Potassium,6.2
+Kohsoom,2004/8/29,Potassium,5.7
+Kohsoom,2004/9/27,Potassium,4.9
+Kohsoom,2004/10/24,Potassium,4.3
+Kohsoom,2004/11/28,Potassium,5.2
+Kohsoom,2004/12/19,Potassium,5.2
+Kohsoom,2005/1/30,Potassium,7.1
+Kohsoom,2005/2/27,Potassium,7.2
+Kohsoom,2005/3/27,Potassium,14.8
+Kohsoom,2005/4/25,Potassium,4.8
+Kohsoom,2005/5/29,Potassium,10.6
+Kohsoom,2005/6/26,Potassium,4.2
+Kohsoom,2005/7/24,Potassium,6.1
+Kohsoom,2005/8/28,Potassium,5.2
+Kohsoom,2005/9/25,Potassium,4.6
+Kohsoom,2005/10/23,Potassium,5.8
+Kohsoom,2005/11/27,Potassium,6.7
+Kohsoom,2005/12/18,Potassium,5.9
+Kohsoom,2006/1/29,Potassium,7
+Kohsoom,2006/2/26,Potassium,6.6
+Kohsoom,2006/3/25,Potassium,5.9
+Kohsoom,2006/4/29,Potassium,4.8
+Kohsoom,2006/5/27,Potassium,4.6
+Kohsoom,2006/6/26,Potassium,3.7
+Kohsoom,2006/8/26,Potassium,3.3
+Kohsoom,2006/9/23,Potassium,4.4
+Kohsoom,2006/10/28,Potassium,3.8
+Kohsoom,2006/11/25,Potassium,3.3
+Kohsoom,2006/12/23,Potassium,2.7
+Kohsoom,2007/1/27,Potassium,3.1
+Kohsoom,2007/2/24,Potassium,6.6
+Kohsoom,2007/3/24,Potassium,4.8
+Kohsoom,2007/4/21,Potassium,3.4
+Kohsoom,2007/5/26,Potassium,3.1
+Kohsoom,2007/6/23,Potassium,3.5
+Kohsoom,2007/7/21,Potassium,3.8
+Kohsoom,2007/8/25,Potassium,2.9
+Kohsoom,2007/9/23,Potassium,1.7
+Kohsoom,2007/10/27,Potassium,5.7
+Kohsoom,2007/11/24,Potassium,3.8
+Kohsoom,2007/12/22,Potassium,3.3
+Kohsoom,2008/1/26,Potassium,3.9
+Kohsoom,2008/2/23,Potassium,3.5
+Kohsoom,2008/3/23,Potassium,3.1
+Kohsoom,2008/5/26,Potassium,4.1
+Kohsoom,2008/6/29,Potassium,3.8
+Kohsoom,2008/7/27,Potassium,5.9
+Kohsoom,2008/8/31,Potassium,4.4
+Kohsoom,2008/9/28,Potassium,4.4
+Kohsoom,2008/10/26,Potassium,3.6
+Kohsoom,2008/11/27,Potassium,6.2
+Kohsoom,2008/12/19,Potassium,4.4
+Kohsoom,2009/1/29,Potassium,3.1
+Kohsoom,2009/2/26,Potassium,4.2
+Kohsoom,2009/3/29,Potassium,4.5
+Kohsoom,2009/4/24,Potassium,5.1
+Kohsoom,2009/5/28,Potassium,4.8
+Kohsoom,2009/6/25,Potassium,3.7
+Kohsoom,2009/7/30,Potassium,5.4
+Kohsoom,2009/8/20,Potassium,3.9
+Kohsoom,2009/9/21,Potassium,4.9
+Kohsoom,2009/10/29,Potassium,3.3
+Kohsoom,2009/11/26,Potassium,1.6
+Kohsoom,2009/12/10,Potassium,3
+Kohsoom,2010/1/28,Potassium,2.6
+Kohsoom,2010/2/18,Potassium,3.3
+Kohsoom,2010/3/24,Potassium,3.7
+Kohsoom,2010/4/21,Potassium,3.2
+Kohsoom,2010/5/26,Potassium,4.5
+Kohsoom,2010/6/23,Potassium,3.3
+Kohsoom,2010/7/28,Potassium,3.7
+Kohsoom,2010/8/26,Potassium,4.1
+Kohsoom,2010/9/29,Potassium,3.3
+Kohsoom,2010/10/20,Potassium,4.2
+Kohsoom,2010/11/24,Potassium,4.6
+Kohsoom,2010/12/15,Potassium,5
+Kohsoom,2011/1/26,Potassium,4.7
+Kohsoom,2011/6/30,Potassium,4.1
+Kohsoom,2011/7/13,Potassium,4.2
+Kohsoom,2011/8/31,Potassium,4.8
+Kohsoom,2011/9/28,Potassium,3.9
+Kohsoom,2011/10/26,Potassium,4.4
+Kohsoom,2011/11/23,Potassium,3.4
+Kohsoom,2011/12/7,Potassium,3.6
+Kohsoom,2012/1/25,Potassium,4.1
+Kohsoom,2012/2/23,Potassium,5.4
+Kohsoom,2012/3/29,Potassium,5.7
+Kohsoom,2012/4/27,Potassium,6.8
+Kohsoom,2012/5/25,Potassium,3.9
+Kohsoom,2012/6/21,Potassium,4.7
+Kohsoom,2012/7/26,Potassium,5.4
+Kohsoom,2012/8/23,Potassium,4.7
+Kohsoom,2012/10/25,Potassium,5.4
+Kohsoom,2012/11/24,Potassium,6.1
+Kohsoom,2012/12/15,Potassium,4.8
+Kohsoom,2013/1/25,Potassium,4.1
+Kohsoom,2013/2/22,Potassium,4.4
+Kohsoom,2013/3/15,Potassium,3.2
+Kohsoom,2013/4/19,Potassium,2.2
+Kohsoom,2013/5/23,Potassium,3.9
+Kohsoom,2013/6/27,Potassium,2.8
+Kohsoom,2013/7/25,Potassium,3.1
+Kohsoom,2013/8/22,Potassium,2.3
+Kohsoom,2013/9/26,Potassium,2.6
+Kohsoom,2013/10/24,Potassium,3.2
+Kohsoom,2013/11/21,Potassium,4.8
+Kohsoom,2013/12/12,Potassium,4.1
+Kohsoom,2014/1/23,Potassium,5.4
+Kohsoom,2014/2/28,Potassium,3.3
+Kohsoom,2014/3/26,Potassium,4.1
+Kohsoom,2014/4/23,Potassium,3.5
+Kohsoom,2014/5/28,Potassium,2.8
+Kohsoom,2014/6/25,Potassium,2.5
+Kohsoom,2014/7/23,Potassium,3.1
+Kohsoom,2014/8/27,Potassium,3.8
+Kohsoom,2014/9/24,Potassium,3.5
+Kohsoom,2014/10/29,Potassium,3.1
+Kohsoom,2014/11/26,Potassium,4.3
+Kohsoom,2014/12/17,Potassium,4.3
+Kohsoom,2015/1/28,Potassium,4.7
+Kohsoom,2015/2/25,Potassium,3.8
+Kohsoom,2015/3/25,Potassium,3.1
+Kohsoom,2015/4/22,Potassium,2.7
+Kohsoom,2015/5/29,Potassium,2.1
+Kohsoom,2015/6/25,Potassium,2.4
+Kohsoom,2015/7/18,Potassium,2.2
+Kohsoom,2015/8/22,Potassium,2.4
+Kohsoom,2015/9/19,Potassium,2.8
+Kohsoom,2015/10/24,Potassium,2.9
+Kohsoom,2015/11/14,Potassium,2.7
+Kohsoom,2015/12/12,Potassium,2.4
+Kohsoom,2016/1/23,Potassium,2.1
+Kohsoom,2016/2/20,Potassium,2.4
+Kohsoom,2016/3/20,Potassium,2.2
+Kohsoom,2016/4/29,Potassium,2.4
+Kohsoom,2016/5/28,Potassium,2.5
+Kohsoom,2016/6/19,Potassium,2.2
+Kohsoom,2016/7/23,Potassium,2.5
+Kohsoom,2016/8/21,Potassium,2.2
+Kohsoom,2016/9/22,Potassium,2.4
+Kohsoom,2016/10/21,Potassium,2.1
+Kohsoom,2016/11/18,Potassium,2.4
+Kohsoom,2016/12/12,Potassium,1.9
+Kohsoom,2006/2/26,Total nitrogen,9.64
+Kohsoom,2012/3/29,Total nitrogen,6.87
+Kohsoom,2012/4/27,Total nitrogen,5.7
+Kohsoom,2012/5/25,Total nitrogen,4.46
+Kohsoom,2012/6/21,Total nitrogen,4.23
+Kohsoom,2012/7/26,Total nitrogen,3.32
+Kohsoom,2012/8/23,Total nitrogen,3.42
+Kohsoom,2012/10/25,Total nitrogen,3.94
+Kohsoom,2012/11/24,Total nitrogen,3.68
+Kohsoom,2012/12/15,Total nitrogen,3.29
+Kohsoom,2013/1/25,Total nitrogen,3.81
+Kohsoom,2013/2/22,Total nitrogen,3.806
+Kohsoom,2013/3/15,Total nitrogen,2.516
+Kohsoom,2013/4/19,Total nitrogen,2.35
+Kohsoom,2013/5/23,Total nitrogen,2.814
+Kohsoom,2013/6/27,Total nitrogen,1.874
+Kohsoom,2013/7/25,Total nitrogen,3.19
+Kohsoom,2013/8/22,Total nitrogen,4.463
+Kohsoom,2013/9/26,Total nitrogen,5.52
+Kohsoom,2013/10/24,Total nitrogen,6.059
+Kohsoom,2013/11/21,Total nitrogen,5.146
+Kohsoom,2013/12/12,Total nitrogen,7.868
+Kohsoom,2014/1/23,Total nitrogen,6.407
+Kohsoom,2014/2/28,Total nitrogen,1.188
+Kohsoom,2014/3/26,Total nitrogen,2.107
+Kohsoom,2014/4/23,Total nitrogen,3.643
+Kohsoom,2014/5/28,Total nitrogen,2.726
+Kohsoom,2014/6/25,Total nitrogen,8.281
+Kohsoom,2014/7/23,Total nitrogen,2.822
+Kohsoom,2014/8/27,Total nitrogen,7.551
+Kohsoom,2014/9/24,Total nitrogen,8.776
+Kohsoom,2014/10/29,Total nitrogen,8.916
+Kohsoom,2014/11/26,Total nitrogen,7.296
+Kohsoom,2014/12/17,Total nitrogen,9.997
+Kohsoom,2015/1/28,Total nitrogen,6.354
+Kohsoom,2015/2/25,Total nitrogen,5.386
+Kohsoom,2015/3/25,Total nitrogen,2.961
+Kohsoom,2015/4/22,Total nitrogen,3.084
+Kohsoom,2015/5/29,Total nitrogen,3.347
+Kohsoom,2015/6/25,Total nitrogen,2.608
+Kohsoom,2015/7/18,Total nitrogen,2.996
+Kohsoom,2015/8/22,Total nitrogen,6.621
+Kohsoom,2015/9/19,Total nitrogen,3.56
+Kohsoom,2015/10/24,Total nitrogen,2.228
+Kohsoom,2015/11/14,Total nitrogen,3.857
+Kohsoom,2015/12/12,Total nitrogen,4.638
+Kohsoom,2016/1/23,Total nitrogen,3.766
+Kohsoom,2016/2/20,Total nitrogen,2.995
+Kohsoom,2016/3/20,Total nitrogen,3.148
+Kohsoom,2016/4/29,Total nitrogen,2.062
+Kohsoom,2016/5/28,Total nitrogen,2.115
+Kohsoom,2016/6/19,Total nitrogen,4.19
+Kohsoom,2016/7/23,Total nitrogen,2.911
+Kohsoom,2016/8/21,Total nitrogen,1.583
+Kohsoom,2016/9/22,Total nitrogen,2.994
+Kohsoom,2016/10/21,Total nitrogen,2.252
+Kohsoom,2016/11/18,Total nitrogen,3.923
+Kohsoom,2016/12/12,Total nitrogen,2.165
+Kohsoom,1998/4/16,Total phosphorus,0.48
+Kohsoom,1998/6/27,Total phosphorus,0.96
+Kohsoom,1998/8/22,Total phosphorus,0.77
+Kohsoom,1998/10/1,Total phosphorus,0.18
+Kohsoom,1998/11/14,Total phosphorus,0.26
+Kohsoom,1998/12/13,Total phosphorus,0.28
+Kohsoom,1999/1/16,Total phosphorus,0.18
+Kohsoom,1999/2/13,Total phosphorus,0.06
+Kohsoom,1999/3/13,Total phosphorus,0.19
+Kohsoom,1999/4/22,Total phosphorus,0.23
+Kohsoom,1999/5/15,Total phosphorus,0.18
+Kohsoom,1999/6/18,Total phosphorus,0.42
+Kohsoom,1999/7/24,Total phosphorus,0.19
+Kohsoom,1999/8/28,Total phosphorus,0.23
+Kohsoom,1999/9/18,Total phosphorus,0.21
+Kohsoom,1999/10/20,Total phosphorus,0.04
+Kohsoom,1999/11/7,Total phosphorus,0.07
+Kohsoom,1999/12/11,Total phosphorus,0.04
+Kohsoom,2000/1/16,Total phosphorus,0.18
+Kohsoom,2000/2/12,Total phosphorus,0.2
+Kohsoom,2000/3/12,Total phosphorus,0.22
+Kohsoom,2000/4/16,Total phosphorus,0.2
+Kohsoom,2000/5/14,Total phosphorus,0.18
+Kohsoom,2000/6/29,Total phosphorus,0.29
+Kohsoom,2000/7/16,Total phosphorus,0.21
+Kohsoom,2000/8/25,Total phosphorus,0.19
+Kohsoom,2000/9/10,Total phosphorus,0.19
+Kohsoom,2000/10/15,Total phosphorus,0.2
+Kohsoom,2000/11/12,Total phosphorus,0.19
+Kohsoom,2000/12/10,Total phosphorus,0.18
+Kohsoom,2001/1/28,Total phosphorus,0.21
+Kohsoom,2001/2/18,Total phosphorus,0.17
+Kohsoom,2001/3/18,Total phosphorus,0.15
+Kohsoom,2001/4/27,Total phosphorus,0.23
+Kohsoom,2001/5/13,Total phosphorus,0.24
+Kohsoom,2001/6/19,Total phosphorus,0.68
+Kohsoom,2001/7/27,Total phosphorus,0.18
+Kohsoom,2001/8/26,Total phosphorus,0.22
+Kohsoom,2001/9/16,Total phosphorus,0.09
+Kohsoom,2001/10/14,Total phosphorus,0.06
+Kohsoom,2001/12/9,Total phosphorus,0.19
+Kohsoom,2002/3/23,Total phosphorus,0.17
+Kohsoom,2002/4/27,Total phosphorus,0.18
+Kohsoom,2002/5/25,Total phosphorus,0.14
+Kohsoom,2002/6/29,Total phosphorus,0.17
+Kohsoom,2002/7/27,Total phosphorus,0.2
+Kohsoom,2002/8/24,Total phosphorus,0.18
+Kohsoom,2002/9/21,Total phosphorus,0.18
+Kohsoom,2002/10/10,Total phosphorus,0.8
+Kohsoom,2002/10/26,Total phosphorus,0.19
+Kohsoom,2002/11/23,Total phosphorus,0.15
+Kohsoom,2002/12/22,Total phosphorus,0.17
+Kohsoom,2003/1/26,Total phosphorus,0.18
+Kohsoom,2003/2/28,Total phosphorus,0.19
+Kohsoom,2003/3/23,Total phosphorus,0.17
+Kohsoom,2003/4/26,Total phosphorus,0.21
+Kohsoom,2003/5/24,Total phosphorus,0.22
+Kohsoom,2003/6/21,Total phosphorus,0.24
+Kohsoom,2003/7/26,Total phosphorus,0.26
+Kohsoom,2003/8/9,Total phosphorus,0.3
+Kohsoom,2003/9/13,Total phosphorus,0.31
+Kohsoom,2003/10/25,Total phosphorus,0.29
+Kohsoom,2003/11/29,Total phosphorus,0.27
+Kohsoom,2003/12/20,Total phosphorus,0.3
+Kohsoom,2004/1/31,Total phosphorus,0.22
+Kohsoom,2004/2/28,Total phosphorus,0.19
+Kohsoom,2004/3/28,Total phosphorus,0.33
+Kohsoom,2004/4/25,Total phosphorus,0.36
+Kohsoom,2004/5/30,Total phosphorus,0.31
+Kohsoom,2004/6/27,Total phosphorus,0.4
+Kohsoom,2004/7/25,Total phosphorus,0.46
+Kohsoom,2004/8/29,Total phosphorus,0.44
+Kohsoom,2004/9/27,Total phosphorus,0.48
+Kohsoom,2004/10/24,Total phosphorus,0.36
+Kohsoom,2004/11/28,Total phosphorus,0.38
+Kohsoom,2004/12/19,Total phosphorus,0.36
+Kohsoom,2005/1/30,Total phosphorus,0.47
+Kohsoom,2005/2/27,Total phosphorus,0.41
+Kohsoom,2005/3/27,Total phosphorus,0.27
+Kohsoom,2005/4/25,Total phosphorus,0.38
+Kohsoom,2005/5/29,Total phosphorus,0.24
+Kohsoom,2005/6/26,Total phosphorus,0.24
+Kohsoom,2005/7/24,Total phosphorus,0.18
+Kohsoom,2005/8/28,Total phosphorus,0.17
+Kohsoom,2005/9/25,Total phosphorus,0.15
+Kohsoom,2005/10/23,Total phosphorus,0.19
+Kohsoom,2005/11/27,Total phosphorus,0.29
+Kohsoom,2005/12/18,Total phosphorus,0.35
+Kohsoom,2006/1/29,Total phosphorus,0.26
+Kohsoom,2006/2/26,Total phosphorus,0.22
+Kohsoom,2006/3/25,Total phosphorus,0.27
+Kohsoom,2006/4/29,Total phosphorus,0.21
+Kohsoom,2006/5/27,Total phosphorus,0.28
+Kohsoom,2006/6/26,Total phosphorus,0.25
+Kohsoom,2006/8/26,Total phosphorus,0.29
+Kohsoom,2006/9/23,Total phosphorus,0.25
+Kohsoom,2006/10/28,Total phosphorus,0.31
+Kohsoom,2006/11/25,Total phosphorus,0.35
+Kohsoom,2006/12/23,Total phosphorus,0.19
+Kohsoom,2007/1/27,Total phosphorus,0.23
+Kohsoom,2007/2/24,Total phosphorus,0.25
+Kohsoom,2007/3/24,Total phosphorus,0.17
+Kohsoom,2007/4/21,Total phosphorus,0.13
+Kohsoom,2007/5/26,Total phosphorus,0.16
+Kohsoom,2007/6/23,Total phosphorus,0.22
+Kohsoom,2007/7/21,Total phosphorus,0.21
+Kohsoom,2007/8/25,Total phosphorus,0.33
+Kohsoom,2007/9/23,Total phosphorus,0.31
+Kohsoom,2007/10/27,Total phosphorus,0.24
+Kohsoom,2007/11/24,Total phosphorus,0.21
+Kohsoom,2007/12/22,Total phosphorus,0.16
+Kohsoom,2008/1/26,Total phosphorus,0.2
+Kohsoom,2008/2/23,Total phosphorus,0.18
+Kohsoom,2008/3/23,Total phosphorus,0.16
+Kohsoom,2008/5/26,Total phosphorus,0.371
+Kohsoom,2008/6/29,Total phosphorus,0.175
+Kohsoom,2008/7/27,Total phosphorus,0.4321
+Kohsoom,2008/8/31,Total phosphorus,0.324
+Kohsoom,2008/9/28,Total phosphorus,0.324
+Kohsoom,2008/10/26,Total phosphorus,0.351
+Kohsoom,2008/11/27,Total phosphorus,0.572
+Kohsoom,2008/12/19,Total phosphorus,0.286
+Kohsoom,2009/1/29,Total phosphorus,0.367
+Kohsoom,2009/2/26,Total phosphorus,0.414
+Kohsoom,2009/3/29,Total phosphorus,0.288
+Kohsoom,2009/4/24,Total phosphorus,0.226
+Kohsoom,2009/5/28,Total phosphorus,0.214
+Kohsoom,2009/6/25,Total phosphorus,0.177
+Kohsoom,2009/7/30,Total phosphorus,0.142
+Kohsoom,2009/8/20,Total phosphorus,0.313
+Kohsoom,2009/9/21,Total phosphorus,0.376
+Kohsoom,2009/10/29,Total phosphorus,0.295
+Kohsoom,2009/11/26,Total phosphorus,0.096
+Kohsoom,2009/12/10,Total phosphorus,0.256
+Kohsoom,2010/1/28,Total phosphorus,0.098
+Kohsoom,2010/2/18,Total phosphorus,0.113
+Kohsoom,2010/3/24,Total phosphorus,0.446
+Kohsoom,2010/4/21,Total phosphorus,0.113
+Kohsoom,2010/5/26,Total phosphorus,0.065
+Kohsoom,2010/6/23,Total phosphorus,0.042
+Kohsoom,2010/7/28,Total phosphorus,0.346
+Kohsoom,2010/8/26,Total phosphorus,0.066
+Kohsoom,2010/9/29,Total phosphorus,0.078
+Kohsoom,2010/10/20,Total phosphorus,0.122
+Kohsoom,2010/11/24,Total phosphorus,0.097
+Kohsoom,2010/12/15,Total phosphorus,0.085
+Kohsoom,2011/1/26,Total phosphorus,0.096
+Kohsoom,2011/2/25,Total phosphorus,0.07
+Kohsoom,2011/3/30,Total phosphorus,0.06
+Kohsoom,2011/4/27,Total phosphorus,0.052
+Kohsoom,2011/5/18,Total phosphorus,0.097
+Kohsoom,2011/6/30,Total phosphorus,0.062
+Kohsoom,2011/7/13,Total phosphorus,0.044
+Kohsoom,2011/8/31,Total phosphorus,0.102
+Kohsoom,2011/9/28,Total phosphorus,0.109
+Kohsoom,2011/10/26,Total phosphorus,0.153
+Kohsoom,2011/11/23,Total phosphorus,0.122
+Kohsoom,2011/12/7,Total phosphorus,0.125
+Kohsoom,2012/1/25,Total phosphorus,0.116
+Kohsoom,2012/2/23,Total phosphorus,0.127
+Kohsoom,2012/3/29,Total phosphorus,0.147
+Kohsoom,2012/4/27,Total phosphorus,0.117
+Kohsoom,2012/5/25,Total phosphorus,0.103
+Kohsoom,2012/6/21,Total phosphorus,0.092
+Kohsoom,2012/7/26,Total phosphorus,0.118
+Kohsoom,2012/8/23,Total phosphorus,0.101
+Kohsoom,2012/10/25,Total phosphorus,0.139
+Kohsoom,2012/11/24,Total phosphorus,0.16
+Kohsoom,2012/12/15,Total phosphorus,0.128
+Kohsoom,2013/1/25,Total phosphorus,0.154
+Kohsoom,2013/2/22,Total phosphorus,0.161
+Kohsoom,2013/3/15,Total phosphorus,0.397
+Kohsoom,2013/4/19,Total phosphorus,0.165
+Kohsoom,2013/5/23,Total phosphorus,0.2595
+Kohsoom,2013/6/27,Total phosphorus,0.35
+Kohsoom,2013/7/25,Total phosphorus,0.28
+Kohsoom,2013/8/22,Total phosphorus,0.238
+Kohsoom,2013/9/26,Total phosphorus,0.836
+Kohsoom,2013/10/24,Total phosphorus,0.64
+Kohsoom,2013/11/21,Total phosphorus,0.314
+Kohsoom,2013/12/12,Total phosphorus,2.44
+Kohsoom,2014/1/23,Total phosphorus,0.396
+Kohsoom,2014/2/28,Total phosphorus,0.15
+Kohsoom,2014/3/26,Total phosphorus,0.166
+Kohsoom,2014/4/23,Total phosphorus,0.237
+Kohsoom,2014/5/28,Total phosphorus,0.275
+Kohsoom,2014/6/25,Total phosphorus,1.442
+Kohsoom,2014/7/23,Total phosphorus,0.424
+Kohsoom,2014/8/27,Total phosphorus,0.976
+Kohsoom,2014/9/24,Total phosphorus,0.608
+Kohsoom,2014/10/29,Total phosphorus,0.698
+Kohsoom,2014/11/26,Total phosphorus,0.548
+Kohsoom,2014/12/17,Total phosphorus,0.542
+Kohsoom,2015/1/28,Total phosphorus,0.3033
+Kohsoom,2015/2/25,Total phosphorus,0.2536
+Kohsoom,2015/3/25,Total phosphorus,0.0959
+Kohsoom,2015/4/22,Total phosphorus,0.1824
+Kohsoom,2015/5/29,Total phosphorus,0.3953
+Kohsoom,2015/6/25,Total phosphorus,0.2761
+Kohsoom,2015/7/18,Total phosphorus,0.3998
+Kohsoom,2015/8/22,Total phosphorus,0.674
+Kohsoom,2015/9/19,Total phosphorus,0.4534
+Kohsoom,2015/10/24,Total phosphorus,0.2075
+Kohsoom,2015/11/14,Total phosphorus,0.3076
+Kohsoom,2015/12/12,Total phosphorus,0.3948
+Kohsoom,2016/1/23,Total phosphorus,0.2646
+Kohsoom,2016/2/20,Total phosphorus,0.1235
+Kohsoom,2016/3/20,Total phosphorus,0.2711
+Kohsoom,2016/4/29,Total phosphorus,0.2068
+Kohsoom,2016/5/28,Total phosphorus,0.195
+Kohsoom,2016/6/19,Total phosphorus,0.523
+Kohsoom,2016/7/23,Total phosphorus,0.2581
+Kohsoom,2016/8/21,Total phosphorus,0.1721
+Kohsoom,2016/9/22,Total phosphorus,0.3756
+Kohsoom,2016/10/21,Total phosphorus,0.1863
+Kohsoom,2016/11/18,Total phosphorus,0.3405
+Kohsoom,2016/12/12,Total phosphorus,0.1341
+Sakda,1998/4/18,Potassium,3.2
+Sakda,1998/6/30,Potassium,3.83
+Sakda,1998/8/26,Potassium,3.6
+Sakda,1998/10/24,Potassium,4.3
+Sakda,1998/11/20,Potassium,2.75
+Sakda,1998/12/10,Potassium,2.8
+Sakda,1999/1/16,Potassium,2.683333333
+Sakda,1999/2/27,Potassium,3.316666667
+Sakda,1999/3/25,Potassium,6.276666667
+Sakda,1999/4/26,Potassium,3.6
+Sakda,1999/5/26,Potassium,3.2
+Sakda,1999/6/25,Potassium,2.833333333
+Sakda,1999/7/26,Potassium,3.6
+Sakda,1999/7/28,Potassium,4.7
+Sakda,1999/8/31,Potassium,3.733333333
+Sakda,1999/9/21,Potassium,4.2
+Sakda,1999/10/23,Potassium,3.833333333
+Sakda,1999/11/26,Potassium,2.4
+Sakda,1999/12/15,Potassium,3.8
+Sakda,2000/1/19,Potassium,3.666666667
+Sakda,2000/2/19,Potassium,3.333333333
+Sakda,2000/3/23,Potassium,4.266666667
+Sakda,2000/4/29,Potassium,2.866666667
+Sakda,2000/5/26,Potassium,3.466666667
+Sakda,2000/6/24,Potassium,3.5
+Sakda,2000/7/29,Potassium,3.4
+Sakda,2000/8/29,Potassium,5.833333333
+Sakda,2000/9/21,Potassium,3.333333333
+Sakda,2000/10/19,Potassium,3.8
+Sakda,2000/11/23,Potassium,3.666666667
+Sakda,2000/12/30,Potassium,3.733333333
+Sakda,2001/1/25,Potassium,3.6
+Sakda,2001/2/22,Potassium,4.066666667
+Sakda,2001/3/22,Potassium,3.2
+Sakda,2001/4/30,Potassium,2.5
+Sakda,2001/5/27,Potassium,4.133333333
+Sakda,2001/6/21,Potassium,4.266666667
+Sakda,2001/7/27,Potassium,3.633333333
+Sakda,2001/8/29,Potassium,4.5
+Sakda,2001/9/25,Potassium,3.966666667
+Sakda,2001/11/23,Potassium,3.8
+Sakda,2001/12/21,Potassium,3.266666667
+Sakda,2005/7/8,Potassium,5.366666667
+Sakda,2005/8/12,Potassium,4.833333333
+Sakda,2007/2/15,Potassium,1.566666667
+Sakda,2007/3/15,Potassium,1.7
+Sakda,2007/4/12,Potassium,1.4
+Sakda,2007/5/10,Potassium,1.133333333
+Sakda,2007/6/7,Potassium,2.266666667
+Sakda,2007/8/11,Potassium,0.733333333
+Sakda,2007/9/6,Potassium,1.8
+Sakda,2007/11/10,Potassium,2.666666667
+Sakda,2007/12/8,Potassium,2.766666667
+Sakda,2008/2/23,Potassium,2.066666667
+Sakda,2008/4/11,Potassium,2.2
+Sakda,2008/5/9,Potassium,1.866666667
+Sakda,2008/6/13,Potassium,1.333333333
+Sakda,2008/11/7,Potassium,2.333333333
+Sakda,2008/12/12,Potassium,1.466666667
+Sakda,2009/1/9,Potassium,2.1
+Sakda,2009/2/13,Potassium,2.6
+Sakda,2009/3/13,Potassium,2.066666667
+Sakda,2009/4/17,Potassium,2.433333333
+Sakda,2009/5/8,Potassium,1.966666667
+Sakda,2009/6/12,Potassium,2.033333333
+Sakda,2009/7/11,Potassium,2.166666667
+Sakda,2009/8/8,Potassium,6.933333333
+Sakda,2009/9/7,Potassium,2.866666667
+Sakda,2009/9/28,Potassium,2.8
+Sakda,2009/10/8,Potassium,2.1
+Sakda,2009/11/13,Potassium,2.5
+Sakda,2009/12/5,Potassium,2.5
+Sakda,2010/1/10,Potassium,2.133333333
+Sakda,2010/2/7,Potassium,2.333333333
+Sakda,2010/6/19,Potassium,2.466666667
+Sakda,2011/1/13,Potassium,2.4
+Sakda,2011/6/18,Potassium,2.733333333
+Sakda,2011/8/6,Potassium,2.866666667
+Sakda,2011/9/9,Potassium,2.4
+Sakda,2011/10/15,Potassium,3.3
+Sakda,2012/2/11,Potassium,3.033333333
+Sakda,2012/4/15,Potassium,3.033333333
+Sakda,2012/5/13,Potassium,2.633333333
+Sakda,2012/9/16,Potassium,3.433333333
+Sakda,2012/10/14,Potassium,3.233333333
+Sakda,2012/11/5,Potassium,3.633333333
+Sakda,2012/12/9,Potassium,3.066666667
+Sakda,2013/1/11,Potassium,3.233333333
+Sakda,2013/3/10,Potassium,3.366666667
+Sakda,2013/8/13,Potassium,2.666666667
+Sakda,2013/10/12,Potassium,3.633333333
+Sakda,2013/11/8,Potassium,2.866666667
+Sakda,2014/1/17,Potassium,3.333333333
+Sakda,2014/4/3,Potassium,11.23333333
+Sakda,2014/6/19,Potassium,2.266666667
+Sakda,2014/7/4,Potassium,2.333333333
+Sakda,2014/8/22,Potassium,2.6
+Sakda,2014/10/15,Potassium,5.566666667
+Sakda,2015/1/8,Potassium,2.533333333
+Sakda,2015/2/12,Potassium,2.633333333
+Sakda,2015/3/12,Potassium,2.6
+Sakda,2015/6/18,Potassium,2.333333333
+Sakda,2015/7/10,Potassium,2.9
+Sakda,2015/9/25,Potassium,3.033333333
+Sakda,2015/11/19,Potassium,2.966666667
+Sakda,2016/1/9,Potassium,2.766666667
+Sakda,2005/5/13,Total nitrogen,3.25
+Sakda,2005/6/10,Total nitrogen,2.336666667
+Sakda,2005/7/8,Total nitrogen,1.413333333
+Sakda,2005/8/12,Total nitrogen,1.803333333
+Sakda,2005/10/14,Total nitrogen,2.436666667
+Sakda,2005/11/11,Total nitrogen,1.161
+Sakda,2006/1/13,Total nitrogen,2.92
+Sakda,2006/2/10,Total nitrogen,3.16
+Sakda,2006/5/11,Total nitrogen,1.61
+Sakda,2006/7/13,Total nitrogen,1.783333333
+Sakda,2006/8/10,Total nitrogen,1.736666667
+Sakda,2006/12/7,Total nitrogen,2.993333333
+Sakda,2007/1/11,Total nitrogen,2.586666667
+Sakda,2007/2/15,Total nitrogen,2.436666667
+Sakda,2007/3/15,Total nitrogen,2.556666667
+Sakda,2007/4/12,Total nitrogen,2.453333333
+Sakda,2007/5/10,Total nitrogen,1.263333333
+Sakda,2007/6/7,Total nitrogen,1.66
+Sakda,2007/7/7,Total nitrogen,0.716666667
+Sakda,2007/8/11,Total nitrogen,3.106666667
+Sakda,2007/9/6,Total nitrogen,3.556666667
+Sakda,2007/10/13,Total nitrogen,1.726
+Sakda,2007/11/10,Total nitrogen,2.516666667
+Sakda,2007/12/8,Total nitrogen,1.36
+Sakda,2008/1/12,Total nitrogen,2.303333333
+Sakda,2008/2/23,Total nitrogen,2.163333333
+Sakda,2008/3/14,Total nitrogen,3.393333333
+Sakda,2008/4/11,Total nitrogen,3.366666667
+Sakda,2008/5/9,Total nitrogen,1.406666667
+Sakda,2008/6/13,Total nitrogen,1.746666667
+Sakda,2008/7/11,Total nitrogen,1.233333333
+Sakda,2008/8/8,Total nitrogen,1.406666667
+Sakda,2008/9/6,Total nitrogen,1.296666667
+Sakda,2008/10/12,Total nitrogen,1.246666667
+Sakda,2008/11/7,Total nitrogen,1.45
+Sakda,2008/12/12,Total nitrogen,1.24
+Sakda,2009/1/9,Total nitrogen,1.49
+Sakda,2009/2/13,Total nitrogen,2.89
+Sakda,2009/3/13,Total nitrogen,2.81
+Sakda,2009/4/17,Total nitrogen,2.253333333
+Sakda,2009/5/8,Total nitrogen,1.036666667
+Sakda,2009/6/12,Total nitrogen,1.923333333
+Sakda,2009/7/11,Total nitrogen,1.81
+Sakda,2009/8/8,Total nitrogen,1.92
+Sakda,2009/9/7,Total nitrogen,1.776666667
+Sakda,2009/9/28,Total nitrogen,1.843333333
+Sakda,2009/10/8,Total nitrogen,1.963333333
+Sakda,2009/11/13,Total nitrogen,2.173333333
+Sakda,2009/12/5,Total nitrogen,2.073333333
+Sakda,2010/1/10,Total nitrogen,2.066666667
+Sakda,2010/2/7,Total nitrogen,3.72
+Sakda,2010/3/12,Total nitrogen,2.786666667
+Sakda,2010/4/8,Total nitrogen,2.026666667
+Sakda,2010/5/14,Total nitrogen,2.066666667
+Sakda,2010/6/19,Total nitrogen,1.973333333
+Sakda,2010/7/18,Total nitrogen,1.373333333
+Sakda,2010/8/14,Total nitrogen,2.13
+Sakda,2010/9/2,Total nitrogen,2
+Sakda,2010/10/15,Total nitrogen,2.16
+Sakda,2010/11/10,Total nitrogen,2.396666667
+Sakda,2010/12/11,Total nitrogen,2.183333333
+Sakda,2011/1/13,Total nitrogen,2.576666667
+Sakda,2011/2/10,Total nitrogen,2.763333333
+Sakda,2011/3/10,Total nitrogen,2.403333333
+Sakda,2011/4/7,Total nitrogen,2.99
+Sakda,2011/5/12,Total nitrogen,1.803333333
+Sakda,2011/5/21,Total nitrogen,1.96
+Sakda,2011/6/18,Total nitrogen,1.44
+Sakda,2011/6/26,Total nitrogen,1.383333333
+Sakda,2011/7/8,Total nitrogen,1.493333333
+Sakda,2011/7/30,Total nitrogen,1.586666667
+Sakda,2011/8/6,Total nitrogen,1.23
+Sakda,2011/8/11,Total nitrogen,1.713333333
+Sakda,2011/9/9,Total nitrogen,1.653333333
+Sakda,2011/10/15,Total nitrogen,1.893333333
+Sakda,2011/10/27,Total nitrogen,2.18
+Sakda,2011/11/11,Total nitrogen,1.863333333
+Sakda,2011/11/26,Total nitrogen,2.386666667
+Sakda,2011/12/9,Total nitrogen,2.273333333
+Sakda,2012/1/14,Total nitrogen,1.773333333
+Sakda,2012/2/11,Total nitrogen,2.226666667
+Sakda,2012/3/11,Total nitrogen,2.78
+Sakda,2012/4/15,Total nitrogen,2.083333333
+Sakda,2012/5/13,Total nitrogen,1.696666667
+Sakda,2012/6/8,Total nitrogen,1.586666667
+Sakda,2012/7/13,Total nitrogen,1.386666667
+Sakda,2012/9/1,Total nitrogen,1.76
+Sakda,2012/9/16,Total nitrogen,1.643333333
+Sakda,2012/10/14,Total nitrogen,1.893333333
+Sakda,2012/11/5,Total nitrogen,2.22
+Sakda,2012/12/9,Total nitrogen,2.083333333
+Sakda,2013/1/11,Total nitrogen,2.553333333
+Sakda,2013/2/10,Total nitrogen,2.713333333
+Sakda,2013/3/10,Total nitrogen,2.956666667
+Sakda,2013/4/15,Total nitrogen,2.263333333
+Sakda,2013/5/12,Total nitrogen,1.806666667
+Sakda,2013/6/23,Total nitrogen,1.5
+Sakda,2013/7/14,Total nitrogen,1.233333333
+Sakda,2013/8/13,Total nitrogen,1.19
+Sakda,2013/9/8,Total nitrogen,1.423333333
+Sakda,2013/10/12,Total nitrogen,1.945666667
+Sakda,2013/11/8,Total nitrogen,1.884666667
+Sakda,2013/12/7,Total nitrogen,2.633333333
+Sakda,2014/1/17,Total nitrogen,1.966666667
+Sakda,2014/3/13,Total nitrogen,2.383333333
+Sakda,2014/4/3,Total nitrogen,2.056666667
+Sakda,2014/5/8,Total nitrogen,1.16
+Sakda,2014/10/15,Total nitrogen,1.573666667
+Sakda,2014/11/6,Total nitrogen,1.19
+Sakda,2014/12/11,Total nitrogen,2.086666667
+Sakda,2015/1/8,Total nitrogen,2.426666667
+Sakda,2015/2/12,Total nitrogen,2.753333333
+Sakda,2015/3/12,Total nitrogen,3.156666667
+Sakda,2015/4/2,Total nitrogen,1.766666667
+Sakda,2015/5/14,Total nitrogen,1.093333333
+Sakda,2015/6/18,Total nitrogen,1.159
+Sakda,2015/7/10,Total nitrogen,1.253333333
+Sakda,2015/9/25,Total nitrogen,1.269
+Sakda,2015/10/8,Total nitrogen,1.366666667
+Sakda,2015/11/19,Total nitrogen,1.57
+Sakda,2015/12/10,Total nitrogen,1.586666667
+Sakda,2016/1/9,Total nitrogen,1.853333333
+Sakda,2016/2/11,Total nitrogen,1.956666667
+Sakda,2016/3/11,Total nitrogen,1.883333333
+Sakda,2016/4/1,Total nitrogen,2.363333333
+Sakda,2016/5/13,Total nitrogen,1.776666667
+Sakda,2016/6/11,Total nitrogen,1.356
+Sakda,2016/8/19,Total nitrogen,1.51
+Sakda,2016/9/3,Total nitrogen,1.275
+Sakda,2016/10/1,Total nitrogen,1.433333333
+Sakda,2016/11/4,Total nitrogen,1.723333333
+Sakda,2016/12/2,Total nitrogen,1.559333333
+Sakda,1998/4/18,Total phosphorus,0.19
+Sakda,1998/6/30,Total phosphorus,0.16
+Sakda,1998/8/26,Total phosphorus,0.08
+Sakda,1998/10/24,Total phosphorus,0.1
+Sakda,1998/11/20,Total phosphorus,0.1
+Sakda,1998/12/10,Total phosphorus,0.066666667
+Sakda,1999/1/16,Total phosphorus,0.063333333
+Sakda,1999/2/27,Total phosphorus,0.013333333
+Sakda,1999/3/25,Total phosphorus,0.08
+Sakda,1999/4/26,Total phosphorus,0.11
+Sakda,1999/5/26,Total phosphorus,0.053333333
+Sakda,1999/6/25,Total phosphorus,0.136666667
+Sakda,1999/7/26,Total phosphorus,0.07
+Sakda,1999/7/28,Total phosphorus,0.096666667
+Sakda,1999/8/31,Total phosphorus,0.083333333
+Sakda,1999/9/21,Total phosphorus,0.056666667
+Sakda,1999/10/23,Total phosphorus,0.063333333
+Sakda,1999/11/26,Total phosphorus,0.05
+Sakda,1999/12/15,Total phosphorus,0.046666667
+Sakda,2000/1/19,Total phosphorus,0.056666667
+Sakda,2000/2/19,Total phosphorus,0.07
+Sakda,2000/3/23,Total phosphorus,0.033333333
+Sakda,2000/4/29,Total phosphorus,0.153333333
+Sakda,2000/5/26,Total phosphorus,0.07
+Sakda,2000/6/24,Total phosphorus,0.116666667
+Sakda,2000/7/29,Total phosphorus,0.02
+Sakda,2000/8/29,Total phosphorus,0.17
+Sakda,2000/9/21,Total phosphorus,0.056666667
+Sakda,2000/10/19,Total phosphorus,0.133333333
+Sakda,2000/11/23,Total phosphorus,0.14
+Sakda,2000/12/30,Total phosphorus,0.133333333
+Sakda,2001/1/25,Total phosphorus,0.05
+Sakda,2001/2/22,Total phosphorus,0.1
+Sakda,2001/3/22,Total phosphorus,0.04
+Sakda,2001/4/30,Total phosphorus,0.08
+Sakda,2001/5/27,Total phosphorus,0.09
+Sakda,2001/6/21,Total phosphorus,0.11
+Sakda,2001/7/27,Total phosphorus,0.083333333
+Sakda,2001/8/29,Total phosphorus,0.1
+Sakda,2001/9/25,Total phosphorus,0.063333333
+Sakda,2002/1/27,Total phosphorus,0.026666667
+Sakda,2002/2/24,Total phosphorus,0.093333333
+Sakda,2002/3/28,Total phosphorus,0.033333333
+Sakda,2002/4/27,Total phosphorus,0.026666667
+Sakda,2002/5/18,Total phosphorus,0.046666667
+Sakda,2002/6/22,Total phosphorus,0.06
+Sakda,2002/7/20,Total phosphorus,0.03
+Sakda,2002/8/23,Total phosphorus,0.06
+Sakda,2002/9/21,Total phosphorus,0.076666667
+Sakda,2002/10/12,Total phosphorus,0.12
+Sakda,2002/10/26,Total phosphorus,0.066666667
+Sakda,2002/12/14,Total phosphorus,0.04
+Sakda,2003/2/21,Total phosphorus,0.022333333
+Sakda,2003/3/20,Total phosphorus,0.071
+Sakda,2003/4/26,Total phosphorus,0.023666667
+Sakda,2003/5/22,Total phosphorus,0.031
+Sakda,2003/6/26,Total phosphorus,0.022
+Sakda,2003/7/24,Total phosphorus,0.061666667
+Sakda,2003/8/28,Total phosphorus,0.032
+Sakda,2003/9/18,Total phosphorus,0.206333333
+Sakda,2003/10/23,Total phosphorus,0.214333333
+Sakda,2003/11/20,Total phosphorus,0.104
+Sakda,2003/12/18,Total phosphorus,0.092
+Sakda,2004/1/29,Total phosphorus,0.020666667
+Sakda,2004/9/3,Total phosphorus,0.027
+Sakda,2004/10/9,Total phosphorus,0.113666667
+Sakda,2004/12/11,Total phosphorus,0.096
+Sakda,2005/1/16,Total phosphorus,0.128666667
+Sakda,2005/2/11,Total phosphorus,0.153
+Sakda,2005/3/11,Total phosphorus,0.080666667
+Sakda,2005/4/8,Total phosphorus,0.145
+Sakda,2005/5/13,Total phosphorus,0.046666667
+Sakda,2005/7/8,Total phosphorus,0.066333333
+Sakda,2005/8/12,Total phosphorus,0.171
+Sakda,2005/9/9,Total phosphorus,0.04
+Sakda,2005/10/14,Total phosphorus,0.065333333
+Sakda,2005/11/11,Total phosphorus,0.281
+Sakda,2005/12/9,Total phosphorus,0.060666667
+Sakda,2006/1/13,Total phosphorus,0.188666667
+Sakda,2006/2/10,Total phosphorus,0.140333333
+Sakda,2006/3/9,Total phosphorus,0.212333333
+Sakda,2006/4/15,Total phosphorus,0.121666667
+Sakda,2006/5/11,Total phosphorus,0.134
+Sakda,2006/6/8,Total phosphorus,0.051333333
+Sakda,2006/7/13,Total phosphorus,0.103
+Sakda,2006/8/10,Total phosphorus,0.113
+Sakda,2006/9/7,Total phosphorus,0.085
+Sakda,2006/10/12,Total phosphorus,0.165666667
+Sakda,2006/11/9,Total phosphorus,0.121666667
+Sakda,2006/12/7,Total phosphorus,0.067666667
+Sakda,2007/1/11,Total phosphorus,0.095333333
+Sakda,2007/2/15,Total phosphorus,0.102666667
+Sakda,2007/3/15,Total phosphorus,0.259
+Sakda,2007/4/12,Total phosphorus,0.105
+Sakda,2007/5/10,Total phosphorus,0.142333333
+Sakda,2007/6/7,Total phosphorus,0.137
+Sakda,2007/7/7,Total phosphorus,0.079
+Sakda,2007/8/11,Total phosphorus,0.162333333
+Sakda,2007/9/6,Total phosphorus,0.126666667
+Sakda,2007/10/13,Total phosphorus,0.106
+Sakda,2007/11/10,Total phosphorus,0.15
+Sakda,2007/12/8,Total phosphorus,0.106
+Sakda,2008/2/23,Total phosphorus,0.0784
+Sakda,2008/3/14,Total phosphorus,0.302666667
+Sakda,2008/4/11,Total phosphorus,0.113666667
+Sakda,2008/5/9,Total phosphorus,0.112333333
+Sakda,2008/6/13,Total phosphorus,0.090666667
+Sakda,2008/7/11,Total phosphorus,0.166
+Sakda,2008/8/8,Total phosphorus,0.071633333
+Sakda,2008/9/6,Total phosphorus,0.2062
+Sakda,2008/10/12,Total phosphorus,0.1417
+Sakda,2008/11/7,Total phosphorus,0.089666667
+Sakda,2008/12/12,Total phosphorus,0.0981
+Sakda,2009/1/9,Total phosphorus,0.101366667
+Sakda,2009/2/13,Total phosphorus,0.115333333
+Sakda,2009/3/13,Total phosphorus,0.134666667
+Sakda,2009/4/17,Total phosphorus,0.120333333
+Sakda,2009/5/8,Total phosphorus,0.139666667
+Sakda,2009/6/12,Total phosphorus,0.026066667
+Sakda,2009/7/11,Total phosphorus,0.034
+Sakda,2009/8/8,Total phosphorus,0.093233333
+Sakda,2009/9/7,Total phosphorus,0.081466667
+Sakda,2009/9/28,Total phosphorus,0.142
+Sakda,2009/10/8,Total phosphorus,0.2668
+Sakda,2009/11/13,Total phosphorus,0.067
+Sakda,2009/12/5,Total phosphorus,0.095333333
+Sakda,2010/1/10,Total phosphorus,0.126
+Sakda,2010/2/7,Total phosphorus,0.2071
+Sakda,2010/3/12,Total phosphorus,0.0613
+Sakda,2010/4/8,Total phosphorus,0.296
+Sakda,2010/5/14,Total phosphorus,0.037
+Sakda,2010/6/19,Total phosphorus,0.059333333
+Sakda,2010/7/18,Total phosphorus,0.059
+Sakda,2010/8/14,Total phosphorus,0.062666667
+Sakda,2010/9/2,Total phosphorus,0.065666667
+Sakda,2010/10/15,Total phosphorus,0.064
+Sakda,2010/11/10,Total phosphorus,0.065333333
+Sakda,2010/12/11,Total phosphorus,0.057666667
+Sakda,2011/1/13,Total phosphorus,0.071666667
+Sakda,2011/2/10,Total phosphorus,0.117666667
+Sakda,2011/3/10,Total phosphorus,0.056
+Sakda,2011/4/7,Total phosphorus,0.043333333
+Sakda,2011/5/12,Total phosphorus,0.053
+Sakda,2011/5/21,Total phosphorus,0.038
+Sakda,2011/6/18,Total phosphorus,0.049333333
+Sakda,2011/6/26,Total phosphorus,0.064
+Sakda,2011/7/8,Total phosphorus,0.038
+Sakda,2011/7/30,Total phosphorus,0.080333333
+Sakda,2011/8/6,Total phosphorus,0.076666667
+Sakda,2011/8/11,Total phosphorus,0.043333333
+Sakda,2011/9/9,Total phosphorus,0.041333333
+Sakda,2011/10/15,Total phosphorus,0.101
+Sakda,2011/10/27,Total phosphorus,0.148333333
+Sakda,2011/11/11,Total phosphorus,0.097
+Sakda,2011/11/26,Total phosphorus,0.069333333
+Sakda,2011/12/9,Total phosphorus,0.128333333
+Sakda,2012/1/14,Total phosphorus,0.038
+Sakda,2012/2/11,Total phosphorus,0.07
+Sakda,2012/3/11,Total phosphorus,0.077333333
+Sakda,2012/4/15,Total phosphorus,0.035
+Sakda,2012/5/13,Total phosphorus,0.048666667
+Sakda,2012/6/8,Total phosphorus,0.064333333
+Sakda,2012/7/13,Total phosphorus,0.104333333
+Sakda,2012/9/1,Total phosphorus,0.11
+Sakda,2012/9/16,Total phosphorus,0.293666667
+Sakda,2012/10/14,Total phosphorus,0.097
+Sakda,2012/11/5,Total phosphorus,0.079
+Sakda,2012/12/9,Total phosphorus,0.030666667
+Sakda,2013/1/11,Total phosphorus,0.122333333
+Sakda,2013/2/10,Total phosphorus,0.055
+Sakda,2013/3/10,Total phosphorus,0.081666667
+Sakda,2013/4/15,Total phosphorus,0.047
+Sakda,2013/5/12,Total phosphorus,0.01
+Sakda,2013/6/23,Total phosphorus,0.025666667
+Sakda,2013/7/14,Total phosphorus,0.054
+Sakda,2013/8/13,Total phosphorus,0.020333333
+Sakda,2013/9/8,Total phosphorus,0.068
+Sakda,2013/10/12,Total phosphorus,0.050333333
+Sakda,2013/11/8,Total phosphorus,0.118666667
+Sakda,2013/12/7,Total phosphorus,0.056
+Sakda,2014/1/17,Total phosphorus,0.090333333
+Sakda,2014/3/13,Total phosphorus,0.110666667
+Sakda,2014/4/3,Total phosphorus,0.116
+Sakda,2014/5/8,Total phosphorus,0.115333333
+Sakda,2014/6/19,Total phosphorus,0.064333333
+Sakda,2014/7/4,Total phosphorus,0.265
+Sakda,2014/8/22,Total phosphorus,0.05
+Sakda,2014/9/6,Total phosphorus,0.062333333
+Sakda,2014/9/12,Total phosphorus,0.061666667
+Sakda,2014/10/15,Total phosphorus,0.079666667
+Sakda,2014/11/6,Total phosphorus,0.073
+Sakda,2014/12/11,Total phosphorus,0.063
+Sakda,2015/1/8,Total phosphorus,0.091666667
+Sakda,2015/2/12,Total phosphorus,0.069333333
+Sakda,2015/3/12,Total phosphorus,0.093666667
+Sakda,2015/4/2,Total phosphorus,0.097666667
+Sakda,2015/5/14,Total phosphorus,0.076333333
+Sakda,2015/6/18,Total phosphorus,0.096666667
+Sakda,2015/7/10,Total phosphorus,0.100666667
+Sakda,2015/8/20,Total phosphorus,0.050666667
+Sakda,2015/9/25,Total phosphorus,0.067
+Sakda,2015/10/8,Total phosphorus,0.138
+Sakda,2015/11/19,Total phosphorus,0.108
+Sakda,2015/12/10,Total phosphorus,0.095666667
+Sakda,2016/1/9,Total phosphorus,0.073
+Sakda,2016/2/11,Total phosphorus,0.088333333
+Sakda,2016/3/11,Total phosphorus,0.110666667
+Sakda,2016/4/1,Total phosphorus,0.108
+Sakda,2016/5/13,Total phosphorus,0.135333333
+Sakda,2016/6/11,Total phosphorus,0.088
+Sakda,2016/7/8,Total phosphorus,0.108666667
+Sakda,2016/8/19,Total phosphorus,0.153666667
+Sakda,2016/9/3,Total phosphorus,0.120666667
+Sakda,2016/10/1,Total phosphorus,0.099
+Sakda,2016/11/4,Total phosphorus,0.157
+Sakda,2016/12/2,Total phosphorus,0.105
+Somchair,1998/4/17,Potassium,5.3
+Somchair,1998/6/29,Potassium,3.42
+Somchair,1998/8/24,Potassium,5.5
+Somchair,1998/10/30,Potassium,5.4
+Somchair,1998/11/28,Potassium,10.8
+Somchair,1998/12/19,Potassium,5.8
+Somchair,1999/1/27,Potassium,4
+Somchair,1999/2/20,Potassium,6.8
+Somchair,1999/3/19,Potassium,14.6
+Somchair,1999/4/23,Potassium,5.9
+Somchair,1999/5/27,Potassium,15.4
+Somchair,1999/6/22,Potassium,5.2
+Somchair,1999/7/24,Potassium,6.8
+Somchair,1999/8/29,Potassium,6.1
+Somchair,1999/9/18,Potassium,3.8
+Somchair,1999/10/21,Potassium,6.5
+Somchair,1999/11/20,Potassium,7.4
+Somchair,1999/12/10,Potassium,7.8
+Somchair,2000/1/15,Potassium,9.2
+Somchair,2000/2/19,Potassium,7.2
+Somchair,2000/3/19,Potassium,7
+Somchair,2000/4/28,Potassium,4.3
+Somchair,2000/5/20,Potassium,10.7
+Somchair,2000/6/27,Potassium,5.6
+Somchair,2000/7/27,Potassium,3
+Somchair,2000/8/27,Potassium,7.9
+Somchair,2000/9/24,Potassium,10.4
+Somchair,2000/10/17,Potassium,5.4
+Somchair,2000/11/23,Potassium,7.2
+Somchair,2000/12/4,Potassium,8.4
+Somchair,2001/1/17,Potassium,6.8
+Somchair,2001/2/18,Potassium,5.8
+Somchair,2001/3/31,Potassium,5.2
+Somchair,2001/4/29,Potassium,2.4
+Somchair,2001/5/28,Potassium,4.8
+Somchair,2001/6/21,Potassium,6.1
+Somchair,2001/7/28,Potassium,3.8
+Somchair,2001/8/28,Potassium,5.5
+Somchair,2001/9/23,Potassium,8.8
+Somchair,2001/11/18,Potassium,5.6
+Somchair,2007/2/22,Potassium,2.7
+Somchair,2007/3/28,Potassium,2.5
+Somchair,2007/4/20,Potassium,2.7
+Somchair,2007/6/23,Potassium,2.8
+Somchair,2007/8/25,Potassium,3
+Somchair,2007/9/29,Potassium,5.6
+Somchair,2007/12/22,Potassium,4.6
+Somchair,2008/5/3,Potassium,4.6
+Somchair,2008/5/30,Potassium,4.6
+Somchair,2008/6/26,Potassium,1.4
+Somchair,2008/11/17,Potassium,3.4
+Somchair,2008/12/5,Potassium,2.8
+Somchair,2008/12/15,Potassium,3.8
+Somchair,2009/1/24,Potassium,4.7
+Somchair,2009/2/14,Potassium,4.5
+Somchair,2009/3/27,Potassium,4.7
+Somchair,2009/4/25,Potassium,5.2
+Somchair,2009/5/25,Potassium,2.7
+Somchair,2009/6/28,Potassium,3.5
+Somchair,2009/7/26,Potassium,4
+Somchair,2009/8/28,Potassium,2.7
+Somchair,2009/9/24,Potassium,3
+Somchair,2009/10/30,Potassium,3.2
+Somchair,2009/11/14,Potassium,3.4
+Somchair,2009/12/19,Potassium,4.1
+Somchair,2010/1/24,Potassium,4.2
+Somchair,2010/6/13,Potassium,2.6
+Somchair,2011/1/30,Potassium,3.9
+Somchair,2011/6/29,Potassium,3.8
+Somchair,2011/8/3,Potassium,2.9
+Somchair,2011/9/23,Potassium,3.9
+Somchair,2012/2/4,Potassium,4
+Somchair,2012/2/18,Potassium,3.6
+Somchair,2012/4/26,Potassium,3.6
+Somchair,2012/5/26,Potassium,3
+Somchair,2012/8/25,Potassium,3.8
+Somchair,2012/10/7,Potassium,2.9
+Somchair,2012/11/4,Potassium,4
+Somchair,2012/12/8,Potassium,3.8
+Somchair,2013/1/11,Potassium,3.9
+Somchair,2013/2/16,Potassium,4.5
+Somchair,2013/3/24,Potassium,4.2
+Somchair,2013/8/8,Potassium,3.5
+Somchair,2013/10/25,Potassium,3.5
+Somchair,2014/4/6,Potassium,3.6
+Somchair,2014/5/2,Potassium,2.4
+Somchair,2014/6/5,Potassium,3.3
+Somchair,2014/9/3,Potassium,3
+Somchair,2014/10/10,Potassium,3.1
+Somchair,2015/1/16,Potassium,5.5
+Somchair,2015/2/14,Potassium,5.9
+Somchair,2015/3/15,Potassium,5.1
+Somchair,2015/4/10,Potassium,3.2
+Somchair,2015/5/10,Potassium,2.9
+Somchair,2015/6/6,Potassium,3
+Somchair,2005/5/29,Total nitrogen,2.16
+Somchair,2005/6/17,Total nitrogen,0.766
+Somchair,2005/7/24,Total nitrogen,2.29
+Somchair,2005/8/14,Total nitrogen,2.14
+Somchair,2005/10/23,Total nitrogen,2.57
+Somchair,2005/11/24,Total nitrogen,2.48
+Somchair,2006/1/29,Total nitrogen,3.19
+Somchair,2006/2/25,Total nitrogen,4.11
+Somchair,2006/5/31,Total nitrogen,2.42
+Somchair,2006/7/16,Total nitrogen,3.37
+Somchair,2006/12/13,Total nitrogen,2.95
+Somchair,2007/1/24,Total nitrogen,2.72
+Somchair,2007/2/22,Total nitrogen,2.7
+Somchair,2007/3/28,Total nitrogen,2.95
+Somchair,2007/4/20,Total nitrogen,4.17
+Somchair,2007/5/26,Total nitrogen,2.48
+Somchair,2007/6/23,Total nitrogen,2.31
+Somchair,2007/7/22,Total nitrogen,2.12
+Somchair,2007/8/25,Total nitrogen,5.78
+Somchair,2007/9/29,Total nitrogen,1.98
+Somchair,2007/10/26,Total nitrogen,2.78
+Somchair,2007/11/28,Total nitrogen,4.11
+Somchair,2007/12/22,Total nitrogen,5.71
+Somchair,2008/2/3,Total nitrogen,3.88
+Somchair,2008/3/30,Total nitrogen,3.06
+Somchair,2008/5/3,Total nitrogen,2.59
+Somchair,2008/5/30,Total nitrogen,2.88
+Somchair,2008/6/26,Total nitrogen,2.08
+Somchair,2008/7/12,Total nitrogen,2.23
+Somchair,2008/8/11,Total nitrogen,2.17
+Somchair,2008/9/21,Total nitrogen,2.23
+Somchair,2008/10/19,Total nitrogen,1.89
+Somchair,2008/11/17,Total nitrogen,1.29
+Somchair,2008/12/5,Total nitrogen,1.49
+Somchair,2008/12/15,Total nitrogen,1.47
+Somchair,2009/1/24,Total nitrogen,1.77
+Somchair,2009/2/14,Total nitrogen,4.22
+Somchair,2009/3/27,Total nitrogen,2.28
+Somchair,2009/4/25,Total nitrogen,1.68
+Somchair,2009/5/25,Total nitrogen,1.32
+Somchair,2009/6/28,Total nitrogen,5.21
+Somchair,2009/7/26,Total nitrogen,2.27
+Somchair,2009/8/28,Total nitrogen,2.44
+Somchair,2009/9/24,Total nitrogen,2.09
+Somchair,2009/10/30,Total nitrogen,2.27
+Somchair,2009/11/14,Total nitrogen,2.6
+Somchair,2009/12/19,Total nitrogen,2.58
+Somchair,2010/1/24,Total nitrogen,3.72
+Somchair,2010/2/14,Total nitrogen,2.81
+Somchair,2010/3/20,Total nitrogen,2.19
+Somchair,2010/4/18,Total nitrogen,2.12
+Somchair,2010/5/22,Total nitrogen,2.19
+Somchair,2010/6/13,Total nitrogen,2.68
+Somchair,2010/7/22,Total nitrogen,1.74
+Somchair,2010/8/28,Total nitrogen,2.21
+Somchair,2010/9/30,Total nitrogen,1.2
+Somchair,2010/10/29,Total nitrogen,2.03
+Somchair,2010/11/27,Total nitrogen,2.58
+Somchair,2010/12/9,Total nitrogen,2.26
+Somchair,2011/1/30,Total nitrogen,2.93
+Somchair,2011/3/26,Total nitrogen,3.14
+Somchair,2011/4/13,Total nitrogen,3.13
+Somchair,2011/5/27,Total nitrogen,1.83
+Somchair,2011/6/29,Total nitrogen,3.4
+Somchair,2011/8/3,Total nitrogen,1.49
+Somchair,2011/8/28,Total nitrogen,2.01
+Somchair,2011/9/23,Total nitrogen,1.91
+Somchair,2011/11/3,Total nitrogen,2.46
+Somchair,2011/11/16,Total nitrogen,1.93
+Somchair,2011/12/8,Total nitrogen,2.32
+Somchair,2012/2/4,Total nitrogen,2.39
+Somchair,2012/2/18,Total nitrogen,3.44
+Somchair,2012/2/24,Total nitrogen,3.1
+Somchair,2012/3/16,Total nitrogen,2.9
+Somchair,2012/3/25,Total nitrogen,1.88
+Somchair,2012/4/26,Total nitrogen,2.36
+Somchair,2012/4/29,Total nitrogen,2.05
+Somchair,2012/5/26,Total nitrogen,3.09
+Somchair,2012/5/31,Total nitrogen,2.8
+Somchair,2012/7/20,Total nitrogen,1.39
+Somchair,2012/7/23,Total nitrogen,1.42
+Somchair,2012/7/27,Total nitrogen,1
+Somchair,2012/7/30,Total nitrogen,2.71
+Somchair,2012/8/25,Total nitrogen,1.07
+Somchair,2012/10/7,Total nitrogen,1.93
+Somchair,2012/10/11,Total nitrogen,1.85
+Somchair,2012/10/27,Total nitrogen,2.42
+Somchair,2012/10/29,Total nitrogen,2.35
+Somchair,2012/11/4,Total nitrogen,3.24
+Somchair,2012/11/15,Total nitrogen,3.57
+Somchair,2012/11/22,Total nitrogen,2.72
+Somchair,2012/12/8,Total nitrogen,3.15
+Somchair,2012/12/30,Total nitrogen,2.72
+Somchair,2013/1/11,Total nitrogen,2.61
+Somchair,2013/2/4,Total nitrogen,3.22
+Somchair,2013/2/16,Total nitrogen,2.73
+Somchair,2013/2/25,Total nitrogen,2.61
+Somchair,2013/3/24,Total nitrogen,2.69
+Somchair,2013/3/30,Total nitrogen,2.78
+Somchair,2013/4/20,Total nitrogen,2.34
+Somchair,2013/4/29,Total nitrogen,2.59
+Somchair,2013/5/19,Total nitrogen,1.99
+Somchair,2013/6/2,Total nitrogen,2.27
+Somchair,2013/6/21,Total nitrogen,2.33
+Somchair,2013/6/30,Total nitrogen,2.78
+Somchair,2013/7/19,Total nitrogen,1.7
+Somchair,2013/7/29,Total nitrogen,1.07
+Somchair,2013/8/8,Total nitrogen,1.65
+Somchair,2013/8/23,Total nitrogen,1.24
+Somchair,2013/9/12,Total nitrogen,1.71
+Somchair,2013/9/26,Total nitrogen,1.34
+Somchair,2013/10/25,Total nitrogen,2.096
+Somchair,2013/11/2,Total nitrogen,2.15
+Somchair,2013/11/4,Total nitrogen,1.75
+Somchair,2013/11/17,Total nitrogen,2.09
+Somchair,2013/11/22,Total nitrogen,2.098
+Somchair,2013/12/9,Total nitrogen,3.08
+Somchair,2013/12/19,Total nitrogen,2.95
+Somchair,2013/12/27,Total nitrogen,2.78
+Somchair,2014/1/24,Total nitrogen,3.04
+Somchair,2014/3/12,Total nitrogen,3.71
+Somchair,2014/3/15,Total nitrogen,2.9
+Somchair,2014/3/21,Total nitrogen,3.22
+Somchair,2014/4/6,Total nitrogen,2.54
+Somchair,2014/4/18,Total nitrogen,2.47
+Somchair,2014/5/2,Total nitrogen,2.61
+Somchair,2014/5/14,Total nitrogen,2.44
+Somchair,2014/5/28,Total nitrogen,2.77
+Somchair,2014/6/5,Total nitrogen,3.31
+Somchair,2014/6/11,Total nitrogen,2.49
+Somchair,2014/7/12,Total nitrogen,1.69
+Somchair,2014/8/9,Total nitrogen,1.57
+Somchair,2014/8/22,Total nitrogen,0.962
+Somchair,2014/8/27,Total nitrogen,1.56
+Somchair,2014/9/3,Total nitrogen,1.185
+Somchair,2014/9/10,Total nitrogen,0.896
+Somchair,2014/9/18,Total nitrogen,1.34
+Somchair,2014/10/10,Total nitrogen,1.67
+Somchair,2014/10/17,Total nitrogen,1.46
+Somchair,2014/11/2,Total nitrogen,2
+Somchair,2014/11/13,Total nitrogen,1.79
+Somchair,2014/11/21,Total nitrogen,2.14
+Somchair,2014/12/6,Total nitrogen,2.65
+Somchair,2014/12/11,Total nitrogen,2.7
+Somchair,2014/12/13,Total nitrogen,2.39
+Somchair,2015/1/16,Total nitrogen,3.69
+Somchair,2015/1/31,Total nitrogen,3.44
+Somchair,2015/2/14,Total nitrogen,4.34
+Somchair,2015/2/27,Total nitrogen,4.78
+Somchair,2015/3/15,Total nitrogen,3.31
+Somchair,2015/3/21,Total nitrogen,3.12
+Somchair,2015/4/10,Total nitrogen,4.42
+Somchair,2015/4/23,Total nitrogen,3.66
+Somchair,2015/5/10,Total nitrogen,2.84
+Somchair,2015/5/27,Total nitrogen,2.67
+Somchair,2015/6/6,Total nitrogen,2.02
+Somchair,2015/6/17,Total nitrogen,4.88
+Somchair,2015/7/12,Total nitrogen,2.12
+Somchair,2015/7/23,Total nitrogen,1.75
+Somchair,2015/8/1,Total nitrogen,1.46
+Somchair,2015/8/9,Total nitrogen,1.31
+Somchair,2015/8/21,Total nitrogen,1.57
+Somchair,2015/9/9,Total nitrogen,1.82
+Somchair,2015/9/22,Total nitrogen,1.77
+Somchair,2015/11/11,Total nitrogen,1.88
+Somchair,2015/11/18,Total nitrogen,1.79
+Somchair,2015/11/28,Total nitrogen,1.75
+Somchair,2015/12/9,Total nitrogen,2.45
+Somchair,2015/12/19,Total nitrogen,1.842
+Somchair,2016/1/14,Total nitrogen,2.88
+Somchair,2016/2/6,Total nitrogen,2.46
+Somchair,2016/2/11,Total nitrogen,2.71
+Somchair,2016/2/26,Total nitrogen,2.76
+Somchair,2016/3/11,Total nitrogen,2.68
+Somchair,2016/3/20,Total nitrogen,2.61
+Somchair,2016/4/8,Total nitrogen,2.3
+Somchair,2016/4/24,Total nitrogen,2.34
+Somchair,2016/5/14,Total nitrogen,1.64
+Somchair,2016/5/22,Total nitrogen,2.09
+Somchair,2016/6/16,Total nitrogen,1.99
+Somchair,2016/6/26,Total nitrogen,1.7
+Somchair,2016/7/14,Total nitrogen,3.13
+Somchair,2016/7/20,Total nitrogen,4.06
+Somchair,2016/7/24,Total nitrogen,1.74
+Somchair,2016/8/11,Total nitrogen,1.676
+Somchair,2016/8/19,Total nitrogen,1.507
+Somchair,2016/9/9,Total nitrogen,1.36
+Somchair,2016/9/17,Total nitrogen,2.03
+Somchair,2016/9/24,Total nitrogen,1.263
+Somchair,2016/10/15,Total nitrogen,1.41
+Somchair,2016/10/27,Total nitrogen,1.229
+Somchair,2016/11/12,Total nitrogen,1.123
+Somchair,2016/11/25,Total nitrogen,1.92
+Somchair,2016/12/8,Total nitrogen,2.43
+Somchair,2016/12/17,Total nitrogen,1.91
+Somchair,1998/4/17,Total phosphorus,0.54
+Somchair,1998/6/29,Total phosphorus,0.6
+Somchair,1998/8/24,Total phosphorus,0.05
+Somchair,1998/10/30,Total phosphorus,0.27
+Somchair,1998/11/28,Total phosphorus,0.1
+Somchair,1998/12/19,Total phosphorus,0.15
+Somchair,1999/1/27,Total phosphorus,0.15
+Somchair,1999/2/20,Total phosphorus,0.47
+Somchair,1999/3/19,Total phosphorus,0.01
+Somchair,1999/4/23,Total phosphorus,0.22
+Somchair,1999/5/27,Total phosphorus,0.13
+Somchair,1999/6/22,Total phosphorus,0.12
+Somchair,1999/7/24,Total phosphorus,0.1
+Somchair,1999/8/29,Total phosphorus,0.06
+Somchair,1999/9/18,Total phosphorus,0.08
+Somchair,1999/10/21,Total phosphorus,0.07
+Somchair,1999/11/20,Total phosphorus,0.08
+Somchair,1999/12/10,Total phosphorus,0.08
+Somchair,2000/1/15,Total phosphorus,0.05
+Somchair,2000/2/19,Total phosphorus,0.02
+Somchair,2000/3/19,Total phosphorus,0.15
+Somchair,2000/4/28,Total phosphorus,0.1
+Somchair,2000/5/20,Total phosphorus,0.06
+Somchair,2000/6/27,Total phosphorus,0.09
+Somchair,2000/7/27,Total phosphorus,0.02
+Somchair,2000/8/27,Total phosphorus,0.17
+Somchair,2000/9/24,Total phosphorus,0.02
+Somchair,2000/10/17,Total phosphorus,0.13
+Somchair,2000/11/23,Total phosphorus,0.05
+Somchair,2000/12/4,Total phosphorus,0.05
+Somchair,2001/1/17,Total phosphorus,0.1
+Somchair,2001/2/18,Total phosphorus,0.17
+Somchair,2001/3/31,Total phosphorus,0.09
+Somchair,2001/4/29,Total phosphorus,0.07
+Somchair,2001/5/28,Total phosphorus,0.06
+Somchair,2001/6/21,Total phosphorus,0.12
+Somchair,2001/7/28,Total phosphorus,0.07
+Somchair,2001/8/28,Total phosphorus,0.1
+Somchair,2001/9/23,Total phosphorus,0.06
+Somchair,2002/2/2,Total phosphorus,0.06
+Somchair,2002/3/29,Total phosphorus,0.05
+Somchair,2002/4/20,Total phosphorus,0.02
+Somchair,2002/5/18,Total phosphorus,0.03
+Somchair,2002/6/22,Total phosphorus,0.03
+Somchair,2002/7/26,Total phosphorus,0.06
+Somchair,2002/8/22,Total phosphorus,0.03
+Somchair,2002/9/12,Total phosphorus,0.04
+Somchair,2002/10/12,Total phosphorus,0.14
+Somchair,2002/10/26,Total phosphorus,0.04
+Somchair,2002/12/15,Total phosphorus,0.02
+Somchair,2003/2/28,Total phosphorus,0.082
+Somchair,2003/3/30,Total phosphorus,0.173
+Somchair,2003/4/26,Total phosphorus,0.012
+Somchair,2003/5/22,Total phosphorus,0.056
+Somchair,2003/6/28,Total phosphorus,0.029
+Somchair,2003/7/12,Total phosphorus,0.065
+Somchair,2003/8/20,Total phosphorus,0.078
+Somchair,2003/9/15,Total phosphorus,0.014
+Somchair,2003/10/9,Total phosphorus,0.172
+Somchair,2003/11/22,Total phosphorus,0.108
+Somchair,2003/12/19,Total phosphorus,0.028
+Somchair,2004/1/23,Total phosphorus,0.042
+Somchair,2004/9/4,Total phosphorus,0.088
+Somchair,2004/10/21,Total phosphorus,0.086
+Somchair,2004/12/3,Total phosphorus,0.095
+Somchair,2005/1/22,Total phosphorus,0.064
+Somchair,2005/2/20,Total phosphorus,0.168
+Somchair,2005/3/24,Total phosphorus,0.042
+Somchair,2005/4/24,Total phosphorus,0.349
+Somchair,2005/5/29,Total phosphorus,0.01
+Somchair,2005/7/24,Total phosphorus,0.119
+Somchair,2005/8/14,Total phosphorus,0.108
+Somchair,2005/9/24,Total phosphorus,0.038
+Somchair,2005/10/23,Total phosphorus,0.125
+Somchair,2005/11/24,Total phosphorus,0.145
+Somchair,2005/12/22,Total phosphorus,0.016
+Somchair,2006/1/29,Total phosphorus,0.037
+Somchair,2006/2/25,Total phosphorus,0.155
+Somchair,2006/3/23,Total phosphorus,0.117
+Somchair,2006/4/27,Total phosphorus,0.245
+Somchair,2006/5/31,Total phosphorus,0.073
+Somchair,2006/6/25,Total phosphorus,0.034
+Somchair,2006/7/16,Total phosphorus,0.212
+Somchair,2006/8/13,Total phosphorus,0.685
+Somchair,2006/9/22,Total phosphorus,0.093
+Somchair,2006/10/6,Total phosphorus,0.253
+Somchair,2006/11/22,Total phosphorus,0.432
+Somchair,2006/12/13,Total phosphorus,0.109
+Somchair,2007/1/24,Total phosphorus,0.074
+Somchair,2007/2/22,Total phosphorus,0.302
+Somchair,2007/3/28,Total phosphorus,0.1068
+Somchair,2007/4/20,Total phosphorus,0.172
+Somchair,2007/5/26,Total phosphorus,0.959
+Somchair,2007/6/23,Total phosphorus,0.124
+Somchair,2007/7/22,Total phosphorus,0.2509
+Somchair,2007/8/25,Total phosphorus,0.098
+Somchair,2007/9/29,Total phosphorus,0.979
+Somchair,2007/10/26,Total phosphorus,0.2532
+Somchair,2007/11/28,Total phosphorus,0.498
+Somchair,2007/12/22,Total phosphorus,0.253
+Somchair,2008/3/30,Total phosphorus,0.08
+Somchair,2008/5/3,Total phosphorus,0.095
+Somchair,2008/5/30,Total phosphorus,0.117
+Somchair,2008/6/26,Total phosphorus,0.549
+Somchair,2008/7/12,Total phosphorus,0.419
+Somchair,2008/8/11,Total phosphorus,0.0907
+Somchair,2008/9/21,Total phosphorus,0.085
+Somchair,2008/10/19,Total phosphorus,0.0607
+Somchair,2008/11/17,Total phosphorus,0.0736
+Somchair,2008/12/5,Total phosphorus,0.0965
+Somchair,2008/12/15,Total phosphorus,0.0752
+Somchair,2009/1/24,Total phosphorus,0.101
+Somchair,2009/2/14,Total phosphorus,0.098
+Somchair,2009/3/27,Total phosphorus,0.061
+Somchair,2009/4/25,Total phosphorus,0.079
+Somchair,2009/5/25,Total phosphorus,0.1235
+Somchair,2009/6/28,Total phosphorus,0.01
+Somchair,2009/7/26,Total phosphorus,0.0304
+Somchair,2009/8/28,Total phosphorus,0.0917
+Somchair,2009/9/24,Total phosphorus,0.316
+Somchair,2009/10/30,Total phosphorus,0.061
+Somchair,2009/11/14,Total phosphorus,0.024
+Somchair,2009/12/19,Total phosphorus,0.0314
+Somchair,2010/1/24,Total phosphorus,0.1645
+Somchair,2010/2/14,Total phosphorus,0.0903
+Somchair,2010/3/20,Total phosphorus,0.069
+Somchair,2010/4/18,Total phosphorus,0.1115
+Somchair,2010/5/22,Total phosphorus,0.015
+Somchair,2010/6/13,Total phosphorus,0.044
+Somchair,2010/7/22,Total phosphorus,0.045
+Somchair,2010/8/28,Total phosphorus,0.043
+Somchair,2010/9/30,Total phosphorus,0.046
+Somchair,2010/10/29,Total phosphorus,0.101
+Somchair,2010/11/27,Total phosphorus,0.039
+Somchair,2010/12/9,Total phosphorus,0.112
+Somchair,2011/1/30,Total phosphorus,0.164
+Somchair,2011/2/26,Total phosphorus,0.038
+Somchair,2011/3/26,Total phosphorus,0.081
+Somchair,2011/4/13,Total phosphorus,0.038
+Somchair,2011/5/27,Total phosphorus,0.038
+Somchair,2011/6/29,Total phosphorus,0.044
+Somchair,2011/8/3,Total phosphorus,0.038
+Somchair,2011/8/28,Total phosphorus,0.053
+Somchair,2011/9/23,Total phosphorus,0.038
+Somchair,2011/11/3,Total phosphorus,0.048
+Somchair,2011/11/16,Total phosphorus,0.055
+Somchair,2011/12/8,Total phosphorus,0.086
+Somchair,2012/2/4,Total phosphorus,0
+Somchair,2012/2/18,Total phosphorus,0.067
+Somchair,2012/2/24,Total phosphorus,0.029
+Somchair,2012/3/16,Total phosphorus,0.073
+Somchair,2012/3/25,Total phosphorus,0.059
+Somchair,2012/4/26,Total phosphorus,0
+Somchair,2012/4/29,Total phosphorus,0
+Somchair,2012/5/26,Total phosphorus,0.046
+Somchair,2012/5/31,Total phosphorus,0.09
+Somchair,2012/7/20,Total phosphorus,0.297
+Somchair,2012/7/23,Total phosphorus,0.412
+Somchair,2012/7/27,Total phosphorus,0.086
+Somchair,2012/7/30,Total phosphorus,0.098
+Somchair,2012/8/25,Total phosphorus,0.022
+Somchair,2012/10/7,Total phosphorus,0.057
+Somchair,2012/10/11,Total phosphorus,0.157
+Somchair,2012/10/27,Total phosphorus,0.056
+Somchair,2012/10/29,Total phosphorus,0.046
+Somchair,2012/11/4,Total phosphorus,0.085
+Somchair,2012/11/15,Total phosphorus,0.072
+Somchair,2012/11/22,Total phosphorus,0.115
+Somchair,2012/12/8,Total phosphorus,0.101
+Somchair,2012/12/30,Total phosphorus,0.038
+Somchair,2013/1/11,Total phosphorus,0.094
+Somchair,2013/2/4,Total phosphorus,0.133
+Somchair,2013/2/16,Total phosphorus,0.068
+Somchair,2013/2/25,Total phosphorus,0.072
+Somchair,2013/3/24,Total phosphorus,0.0105
+Somchair,2013/3/30,Total phosphorus,0
+Somchair,2013/4/20,Total phosphorus,0.029
+Somchair,2013/4/29,Total phosphorus,0.038
+Somchair,2013/5/19,Total phosphorus,0.061
+Somchair,2013/6/2,Total phosphorus,0.53
+Somchair,2013/6/21,Total phosphorus,0.062
+Somchair,2013/6/30,Total phosphorus,0.062
+Somchair,2013/7/19,Total phosphorus,0.069
+Somchair,2013/7/29,Total phosphorus,0.019
+Somchair,2013/8/8,Total phosphorus,0.015
+Somchair,2013/8/23,Total phosphorus,0.02
+Somchair,2013/9/12,Total phosphorus,0.063
+Somchair,2013/9/26,Total phosphorus,0.022
+Somchair,2013/10/25,Total phosphorus,0.057
+Somchair,2013/11/2,Total phosphorus,0.208
+Somchair,2013/11/4,Total phosphorus,0.076
+Somchair,2013/11/17,Total phosphorus,0.032
+Somchair,2013/11/22,Total phosphorus,0.038
+Somchair,2013/12/9,Total phosphorus,0.025
+Somchair,2013/12/19,Total phosphorus,0.036
+Somchair,2013/12/27,Total phosphorus,0.038
+Somchair,2014/1/24,Total phosphorus,0.044
+Somchair,2014/3/12,Total phosphorus,0.066
+Somchair,2014/3/15,Total phosphorus,0.092
+Somchair,2014/3/21,Total phosphorus,0.094
+Somchair,2014/4/6,Total phosphorus,0.018
+Somchair,2014/4/18,Total phosphorus,0.038
+Somchair,2014/5/2,Total phosphorus,0.059
+Somchair,2014/5/14,Total phosphorus,0.021
+Somchair,2014/5/28,Total phosphorus,0.309
+Somchair,2014/6/5,Total phosphorus,0.0905
+Somchair,2014/6/11,Total phosphorus,0.136
+Somchair,2014/7/12,Total phosphorus,0.032
+Somchair,2014/8/9,Total phosphorus,0.011
+Somchair,2014/8/22,Total phosphorus,0.333
+Somchair,2014/8/27,Total phosphorus,0.033
+Somchair,2014/9/3,Total phosphorus,0.049
+Somchair,2014/9/10,Total phosphorus,0.027
+Somchair,2014/9/18,Total phosphorus,0.022
+Somchair,2014/10/10,Total phosphorus,0.032
+Somchair,2014/10/17,Total phosphorus,0.067
+Somchair,2014/11/2,Total phosphorus,0.033
+Somchair,2014/11/13,Total phosphorus,0.109
+Somchair,2014/11/21,Total phosphorus,0.051
+Somchair,2014/12/6,Total phosphorus,0.064
+Somchair,2014/12/11,Total phosphorus,0.045
+Somchair,2014/12/13,Total phosphorus,0.06
+Somchair,2015/1/16,Total phosphorus,0.07
+Somchair,2015/1/31,Total phosphorus,0.04
+Somchair,2015/2/14,Total phosphorus,0.123
+Somchair,2015/2/27,Total phosphorus,0.049
+Somchair,2015/3/15,Total phosphorus,0.137
+Somchair,2015/3/21,Total phosphorus,0.069
+Somchair,2015/4/10,Total phosphorus,0.034
+Somchair,2015/4/23,Total phosphorus,0.06
+Somchair,2015/5/10,Total phosphorus,0.052
+Somchair,2015/5/27,Total phosphorus,0.101
+Somchair,2015/6/6,Total phosphorus,0.152
+Somchair,2015/6/17,Total phosphorus,0.205
+Somchair,2015/7/12,Total phosphorus,0.067
+Somchair,2015/7/23,Total phosphorus,0.014
+Somchair,2015/8/1,Total phosphorus,0.031
+Somchair,2015/8/9,Total phosphorus,0.029
+Somchair,2015/8/21,Total phosphorus,0.029
+Somchair,2015/9/9,Total phosphorus,0.115
+Somchair,2015/9/22,Total phosphorus,0.06
+Somchair,2015/10/8,Total phosphorus,0.083
+Somchair,2015/10/15,Total phosphorus,0.054
+Somchair,2015/11/11,Total phosphorus,0.037
+Somchair,2015/11/18,Total phosphorus,0.047
+Somchair,2015/11/28,Total phosphorus,0.017
+Somchair,2015/12/9,Total phosphorus,0.011
+Somchair,2015/12/19,Total phosphorus,0.027
+Somchair,2016/1/14,Total phosphorus,0.048
+Somchair,2016/2/6,Total phosphorus,0.049
+Somchair,2016/2/11,Total phosphorus,0.035
+Somchair,2016/2/26,Total phosphorus,0.192
+Somchair,2016/3/11,Total phosphorus,0.081
+Somchair,2016/3/20,Total phosphorus,0.068
+Somchair,2016/4/8,Total phosphorus,0.052
+Somchair,2016/4/24,Total phosphorus,0.17
+Somchair,2016/5/14,Total phosphorus,0.104
+Somchair,2016/5/22,Total phosphorus,0.113
+Somchair,2016/6/16,Total phosphorus,0.084
+Somchair,2016/6/26,Total phosphorus,0.066
+Somchair,2016/7/14,Total phosphorus,0.119
+Somchair,2016/7/20,Total phosphorus,0.173
+Somchair,2016/7/24,Total phosphorus,0.124
+Somchair,2016/8/11,Total phosphorus,0.113
+Somchair,2016/8/19,Total phosphorus,0.024
+Somchair,2016/9/9,Total phosphorus,0.042
+Somchair,2016/9/17,Total phosphorus,0.049
+Somchair,2016/9/24,Total phosphorus,0.101
+Somchair,2016/10/15,Total phosphorus,0.044
+Somchair,2016/10/27,Total phosphorus,0.028
+Somchair,2016/11/12,Total phosphorus,0.056
+Somchair,2016/11/25,Total phosphorus,0.048
+Somchair,2016/12/8,Total phosphorus,0.031
+Somchair,2016/12/17,Total phosphorus,0.133
+Tansanee,2014/1/6,Potassium,7.4
+Tansanee,2014/3/28,Potassium,7.03
+Tansanee,2014/6/27,Potassium,7.54
+Tansanee,2014/9/14,Potassium,8.96
+Tansanee,2014/10/17,Potassium,7.64
+Tansanee,2013/1/19,Total nitrogen,3.5
+Tansanee,2013/2/9,Total nitrogen,3.5
+Tansanee,2013/3/16,Total nitrogen,3.5
+Tansanee,2013/4/14,Total nitrogen,3.5
+Tansanee,2013/5/17,Total nitrogen,3.5
+Tansanee,2013/6/17,Total nitrogen,2.298
+Tansanee,2013/7/12,Total nitrogen,1.908
+Tansanee,2013/8/17,Total nitrogen,3.737
+Tansanee,2013/9/8,Total nitrogen,3.516
+Tansanee,2013/10/28,Total nitrogen,10.531
+Tansanee,2013/11/7,Total nitrogen,3.209
+Tansanee,2013/11/18,Total nitrogen,13.594
+Tansanee,2013/12/14,Total nitrogen,14.074
+Tansanee,2014/1/6,Total nitrogen,15.771
+Tansanee,2014/1/9,Total nitrogen,8.286
+Tansanee,2014/3/28,Total nitrogen,3.235
+Tansanee,2014/5/16,Total nitrogen,3
+Tansanee,2014/6/27,Total nitrogen,2.827
+Tansanee,2014/7/26,Total nitrogen,12.014
+Tansanee,2014/9/3,Total nitrogen,21.511
+Tansanee,2014/9/14,Total nitrogen,17.626
+Tansanee,2014/10/17,Total nitrogen,15.935
+Tansanee,2014/10/25,Total nitrogen,15.683
+Tansanee,2014/11/7,Total nitrogen,9.029
+Tansanee,2014/11/22,Total nitrogen,22.52
+Tansanee,2014/12/3,Total nitrogen,13.849
+Tansanee,2014/12/10,Total nitrogen,8.27
+Tansanee,2015/1/22,Total nitrogen,8.07
+Tansanee,2015/2/5,Total nitrogen,10.71
+Tansanee,2015/3/20,Total nitrogen,6.097
+Tansanee,2015/4/3,Total nitrogen,3.345
+Tansanee,2015/5/14,Total nitrogen,2.468
+Tansanee,2015/6/13,Total nitrogen,2.662
+Tansanee,2015/7/10,Total nitrogen,2.212
+Tansanee,2015/8/13,Total nitrogen,2.54
+Tansanee,2015/9/5,Total nitrogen,2.752
+Tansanee,2015/10/17,Total nitrogen,3.521
+Tansanee,2015/11/14,Total nitrogen,2.817
+Tansanee,2015/12/4,Total nitrogen,3.613
+Tansanee,2016/2/17,Total nitrogen,16.373
+Tansanee,2016/2/26,Total nitrogen,2.694
+Tansanee,2016/3/20,Total nitrogen,2.641
+Tansanee,2016/4/2,Total nitrogen,2.67
+Tansanee,2016/5/14,Total nitrogen,4.559
+Tansanee,2016/6/13,Total nitrogen,4.718
+Tansanee,2016/7/16,Total nitrogen,7.077
+Tansanee,2016/8/12,Total nitrogen,1.951
+Tansanee,2016/9/4,Total nitrogen,2.261
+Tansanee,2016/10/21,Total nitrogen,2.676
+Tansanee,2016/11/12,Total nitrogen,2.711
+Tansanee,2016/12/8,Total nitrogen,4.183
+Tansanee,2009/1/12,Total phosphorus,0.312
+Tansanee,2009/2/7,Total phosphorus,0.131
+Tansanee,2009/3/13,Total phosphorus,0.152
+Tansanee,2009/4/25,Total phosphorus,0.081
+Tansanee,2009/5/16,Total phosphorus,0.253
+Tansanee,2009/6/6,Total phosphorus,0.18
+Tansanee,2009/7/3,Total phosphorus,0.185
+Tansanee,2009/8/2,Total phosphorus,0.195
+Tansanee,2009/9/5,Total phosphorus,0.161
+Tansanee,2009/10/4,Total phosphorus,0.381
+Tansanee,2009/11/16,Total phosphorus,0.219
+Tansanee,2009/12/6,Total phosphorus,0.137
+Tansanee,2010/1/15,Total phosphorus,0.113
+Tansanee,2010/1/23,Total phosphorus,0.316
+Tansanee,2010/2/7,Total phosphorus,0.233
+Tansanee,2010/2/22,Total phosphorus,0.377
+Tansanee,2010/3/5,Total phosphorus,0.235
+Tansanee,2010/3/11,Total phosphorus,0.114
+Tansanee,2010/3/27,Total phosphorus,0.126
+Tansanee,2010/4/11,Total phosphorus,0.086
+Tansanee,2010/5/8,Total phosphorus,0.071
+Tansanee,2010/5/15,Total phosphorus,0.138
+Tansanee,2010/6/5,Total phosphorus,0.323
+Tansanee,2010/6/24,Total phosphorus,0.191
+Tansanee,2010/7/9,Total phosphorus,0.247
+Tansanee,2010/7/16,Total phosphorus,0.202
+Tansanee,2010/7/22,Total phosphorus,0.214
+Tansanee,2010/8/5,Total phosphorus,0.309
+Tansanee,2010/8/14,Total phosphorus,0.155
+Tansanee,2010/9/5,Total phosphorus,0.217
+Tansanee,2010/9/10,Total phosphorus,0.156
+Tansanee,2010/10/13,Total phosphorus,0.284
+Tansanee,2010/10/15,Total phosphorus,0.22
+Tansanee,2010/11/12,Total phosphorus,0.191
+Tansanee,2010/11/19,Total phosphorus,0.235
+Tansanee,2010/12/4,Total phosphorus,0.197
+Tansanee,2011/1/29,Total phosphorus,0.132
+Tansanee,2011/2/13,Total phosphorus,0.144
+Tansanee,2011/2/18,Total phosphorus,0.355
+Tansanee,2011/3/4,Total phosphorus,0.188
+Tansanee,2011/3/11,Total phosphorus,0.362
+Tansanee,2011/3/23,Total phosphorus,0.27
+Tansanee,2011/4/9,Total phosphorus,0.091
+Tansanee,2011/5/8,Total phosphorus,0.158
+Tansanee,2011/5/19,Total phosphorus,0.148
+Tansanee,2011/6/1,Total phosphorus,0.256
+Tansanee,2011/6/10,Total phosphorus,0.188
+Tansanee,2011/7/8,Total phosphorus,0.23
+Tansanee,2011/7/21,Total phosphorus,0.33
+Tansanee,2011/8/5,Total phosphorus,0.142
+Tansanee,2011/8/12,Total phosphorus,0.165
+Tansanee,2011/9/3,Total phosphorus,0.065
+Tansanee,2011/9/11,Total phosphorus,0.194
+Tansanee,2011/10/8,Total phosphorus,0.281
+Tansanee,2011/10/22,Total phosphorus,0.218
+Tansanee,2011/11/9,Total phosphorus,0.104
+Tansanee,2011/11/12,Total phosphorus,0.121
+Tansanee,2011/12/4,Total phosphorus,0.201
+Tansanee,2012/1/7,Total phosphorus,0.255
+Tansanee,2012/1/13,Total phosphorus,0.189
+Tansanee,2012/2/25,Total phosphorus,0.196
+Tansanee,2012/3/4,Total phosphorus,0.091
+Tansanee,2012/3/15,Total phosphorus,0.422
+Tansanee,2012/3/25,Total phosphorus,0.137
+Tansanee,2012/4/13,Total phosphorus,0.255
+Tansanee,2012/4/23,Total phosphorus,0.134
+Tansanee,2012/5/3,Total phosphorus,0.175
+Tansanee,2012/5/13,Total phosphorus,0.195
+Tansanee,2012/5/27,Total phosphorus,0.262
+Tansanee,2012/7/6,Total phosphorus,0.07
+Tansanee,2012/7/20,Total phosphorus,0.18
+Tansanee,2012/8/10,Total phosphorus,0.101
+Tansanee,2012/8/26,Total phosphorus,0.159
+Tansanee,2012/9/15,Total phosphorus,0.19
+Tansanee,2012/9/17,Total phosphorus,0.235
+Tansanee,2012/10/8,Total phosphorus,0.357
+Tansanee,2012/10/15,Total phosphorus,0.302
+Tansanee,2012/11/26,Total phosphorus,0.112
+Tansanee,2012/11/30,Total phosphorus,0.243
+Tansanee,2012/12/3,Total phosphorus,0.048
+Tansanee,2012/12/9,Total phosphorus,0.039
+Tansanee,2013/1/19,Total phosphorus,0.126
+Tansanee,2013/2/9,Total phosphorus,0.113
+Tansanee,2013/3/16,Total phosphorus,0.198
+Tansanee,2013/4/14,Total phosphorus,0.158
+Tansanee,2013/5/17,Total phosphorus,0.179
+Tansanee,2013/6/17,Total phosphorus,0.2269
+Tansanee,2013/7/12,Total phosphorus,0.388
+Tansanee,2013/8/17,Total phosphorus,0.18
+Tansanee,2013/9/8,Total phosphorus,0.079
+Tansanee,2013/10/28,Total phosphorus,0.301
+Tansanee,2013/11/7,Total phosphorus,0.117
+Tansanee,2013/11/18,Total phosphorus,0.399
+Tansanee,2013/12/14,Total phosphorus,0.278
+Tansanee,2014/1/6,Total phosphorus,0.215
+Tansanee,2014/3/28,Total phosphorus,0.179
+Tansanee,2014/5/16,Total phosphorus,0.159
+Tansanee,2014/6/27,Total phosphorus,0.193
+Tansanee,2014/7/26,Total phosphorus,0.204
+Tansanee,2014/9/3,Total phosphorus,0.105
+Tansanee,2014/9/14,Total phosphorus,0.189
+Tansanee,2014/10/17,Total phosphorus,0.32
+Tansanee,2014/10/25,Total phosphorus,0.176
+Tansanee,2014/11/7,Total phosphorus,0.27
+Tansanee,2014/11/22,Total phosphorus,0.365
+Tansanee,2014/12/3,Total phosphorus,0.391
+Tansanee,2014/12/10,Total phosphorus,0.384
+Tansanee,2015/1/22,Total phosphorus,0.196
+Tansanee,2015/2/5,Total phosphorus,0.222
+Tansanee,2015/3/20,Total phosphorus,0.134
+Tansanee,2015/4/3,Total phosphorus,0.173
+Tansanee,2015/5/14,Total phosphorus,0.163
+Tansanee,2015/6/13,Total phosphorus,0.176
+Tansanee,2015/7/10,Total phosphorus,0.166
+Tansanee,2015/8/13,Total phosphorus,0.128
+Tansanee,2015/9/5,Total phosphorus,0.238
+Tansanee,2015/10/17,Total phosphorus,0.154
+Tansanee,2015/11/14,Total phosphorus,0.253
+Tansanee,2015/12/4,Total phosphorus,0.192
+Tansanee,2016/2/17,Total phosphorus,0.424
+Tansanee,2016/2/26,Total phosphorus,0.145
+Tansanee,2016/3/20,Total phosphorus,0.179
+Tansanee,2016/4/2,Total phosphorus,0.14
+Tansanee,2016/5/14,Total phosphorus,0.109
+Tansanee,2016/6/13,Total phosphorus,0.133
+Tansanee,2016/7/16,Total phosphorus,0.124
+Tansanee,2016/8/12,Total phosphorus,0.159
+Tansanee,2016/9/4,Total phosphorus,0.16
+Tansanee,2016/10/21,Total phosphorus,0.273
+Tansanee,2016/11/12,Total phosphorus,0.1519
+Tansanee,2016/12/8,Total phosphorus,0.152
